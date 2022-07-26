@@ -1,0 +1,2922 @@
+Rk,Player,Pos,Squad,Comp,Prog,-9999
+1,Kylian Mbappé,FW,Paris S-G,fr Ligue 1,445,42fd9c7f
+2,Iñaki Williams,FW,Athletic Club,es La Liga,369,6a99e0b1
+3,Mohamed Salah,FW,Liverpool,eng Premier League,367,e342ad68
+4,Sadio Mané,FW,Liverpool,eng Premier League,356,c691bfe2
+5,Christopher Nkunku,FWMF,RB Leipzig,de Bundesliga,345,7c56da38
+6,Iago Aspas,FW,Celta Vigo,es La Liga,326,7dcf86f6
+7,Vinicius Júnior,FW,Real Madrid,es La Liga,316,7111d552
+8,Thomas Müller,MF,Bayern Munich,de Bundesliga,307,3c6089ab
+9,Robert Lewandowski,FW,Bayern Munich,de Bundesliga,301,8d78e732
+10,Giovanni Simeone,FW,Hellas Verona,it Serie A,294,343c0d52
+11,Harry Kane,FW,Tottenham,eng Premier League,289,21a66f6a
+12,Ciro Immobile,FW,Lazio,it Serie A,281,4431aed2
+13,Lucas Paquetá,MFFW,Lyon,fr Ligue 1,276,9b6f7fd5
+14,Marko Arnautović,FW,Bologna,it Serie A,275,00459419
+15,Andrea Pinamonti,FW,Empoli,it Serie A,274,08aa9cd1
+16,Wissam Ben Yedder,FW,Monaco,fr Ligue 1,270,942b4f90
+17,Bryan Mbeumo,FW,Brentford,eng Premier League,266,6afaebf2
+18,Michail Antonio,FW,West Ham,eng Premier League,264,ac05f970
+19,Gianluca Caprari,FWMF,Hellas Verona,it Serie A,261,54e53b7e
+20,Andrej Kramarić,FWMF,Hoffenheim,de Bundesliga,261,603cb947
+21,Ollie Watkins,FW,Aston Villa,eng Premier League,258,aed3a70f
+22,Ludovic Ajorque,FW,Strasbourg,fr Ligue 1,257,462475ed
+23,Edin Džeko,FW,Inter,it Serie A,257,3bb7f478
+24,Son Heung-min,FWMF,Tottenham,eng Premier League,256,92e7e919
+25,Karim Onisiwo,FW,Mainz 05,de Bundesliga,256,f26834c7
+26,Kévin Gameiro,FW,Strasbourg,fr Ligue 1,247,42276181
+27,Martin Terrier,FWMF,Rennes,fr Ligue 1,246,5148dcc5
+28,Memphis Depay,FW,Barcelona,es La Liga,244,8f696594
+29,Giacomo Raspadori,MFFW,Sassuolo,it Serie A,244,6e058f06
+30,Duván Zapata,FW,Atalanta,it Serie A,241,d3de9af0
+31,Mason Mount,MFFW,Chelsea,eng Premier League,240,9674002f
+32,Francesco Caputo,FW,Sampdoria,it Serie A,239,5bd72174
+33,Raheem Sterling,FW,Manchester City,eng Premier League,234,b400bde0
+34,Amine Gouiri,FWMF,Nice,fr Ligue 1,233,aad56ca3
+35,Bukayo Saka,FWMF,Arsenal,eng Premier League,233,bc7dc64d
+36,Wilfried Zaha,FW,Crystal Palace,eng Premier League,233,b2bc3b1f
+37,Álvaro García,FW,Rayo Vallecano,es La Liga,232,90bbd822
+38,Domenico Berardi,FW,Sassuolo,it Serie A,231,53a0e358
+39,Tammy Abraham,FW,Roma,it Serie A,230,f586779e
+40,Lucas Höler,FWMF,Freiburg,de Bundesliga,230,ca618d23
+41,Nabil Fekir,MF,Betis,es La Liga,228,bece776f
+42,Kevin Volland,MFFW,Monaco,fr Ligue 1,228,64f69877
+43,Diogo Jota,FW,Liverpool,eng Premier League,227,178ae8f8
+44,Arnaud Kalimuendo,FW,Lens,fr Ligue 1,227,bf4c41f9
+45,Gaëtan Laborde,FW,Rennes,fr Ligue 1,227,7cdda3bf
+46,Seko Fofana,MF,Lens,fr Ligue 1,225,5313ed43
+47,Luis Muriel,FW,Atalanta,it Serie A,224,eb2fe5b6
+48,Teemu Pukki,FW,Norwich City,eng Premier League,224,0745b37d
+49,Moussa Diaby,FWMF,Leverkusen,de Bundesliga,223,aeed5c06
+50,João Pedro,FW,Cagliari,it Serie A,222,81255c03
+51,Karim Benzema,FW,Real Madrid,es La Liga,219,70d74ece
+52,Cristiano Ronaldo,FW,Manchester Utd,eng Premier League,218,dea698d9
+53,Leroy Sané,FWMF,Bayern Munich,de Bundesliga,218,2b114be3
+54,André Silva,FW,RB Leipzig,de Bundesliga,218,3effaa34
+55,Rafael Borré,FW,Eint Frankfurt,de Bundesliga,217,c68da769
+56,Angelo Fulgini,MFFW,Angers,fr Ligue 1,217,4b96c347
+57,Franck Honorat,MFFW,Brest,fr Ligue 1,217,db7849ca
+58,Jonathan Burkardt,FWMF,Mainz 05,de Bundesliga,216,05f99a4a
+59,Luis Javier Suárez,FW,Granada,es La Liga,215,eeba07f8
+60,Neal Maupay,FW,Brighton,eng Premier League,214,4bcf39f6
+61,Bernardo Silva,MFFW,Manchester City,eng Premier League,213,3eb22ec9
+62,Jonathan David,FW,Lille,fr Ligue 1,212,ce50fd99
+63,Andy Delort,FW,Nice,fr Ligue 1,211,d33c706e
+64,Gonçalo Guedes,FWMF,Valencia,es La Liga,211,e6bc67d7
+65,Kai Havertz,FWMF,Chelsea,eng Premier League,211,fed7cb61
+66,Moussa Dembélé,FW,Lyon,fr Ligue 1,210,e7986081
+67,José Luis Morales,FWMF,Levante,es La Liga,210,4a478107
+68,Randal Kolo Muani,FWMF,Nantes,fr Ligue 1,209,c0b3669f
+69,Marco Reus,MFFW,Dortmund,de Bundesliga,208,36a3ff67
+70,Serge Gnabry,FWDF,Bayern Munich,de Bundesliga,207,88e357ef
+71,Breel Embolo,FWMF,M'Gladbach,de Bundesliga,206,0b4f388a
+72,Denis Bouanga,FWMF,Saint-Étienne,fr Ligue 1,205,0b0cbe5b
+73,Ivan Toney,FW,Brentford,eng Premier League,205,e09f279b
+74,Neymar,FWMF,Paris S-G,fr Ligue 1,204,69384e5d
+75,Sergej Milinković-Savić,MF,Lazio,it Serie A,203,4e6dbac4
+76,Florian Sotoca,FWMF,Lens,fr Ligue 1,203,7a42d0df
+77,Leandro Trossard,FWMF,Brighton,eng Premier League,203,38ceb24a
+78,Bruno Fernandes,MF,Manchester Utd,eng Premier League,202,507c7bdf
+79,Karl Toko Ekambi,FW,Lyon,fr Ligue 1,201,5ceba7fc
+80,Nicolás González,FW,Fiorentina,it Serie A,200,2374aaca
+81,Ludovic Blas,MFFW,Nantes,fr Ligue 1,196,6191093d
+82,Gerard Deulofeu,FWMF,Udinese,it Serie A,196,39583cfd
+83,Lautaro Martínez,FW,Inter,it Serie A,196,f7036e1c
+84,Alassane Pléa,FWMF,M'Gladbach,de Bundesliga,196,bc6bd723
+85,Benjamin Bourigeaud,FWMF,Rennes,fr Ligue 1,195,20e73fac
+86,Jack Grealish,FW,Manchester City,eng Premier League,194,b0b4fd3e
+87,Cengiz Ünder,FWMF,Marseille,fr Ligue 1,194,1880614f
+88,Raúl Jiménez,FW,Wolves,eng Premier League,193,b561db50
+89,Victor Osimhen,FW,Napoli,it Serie A,192,8c90fd7a
+90,Dimitri Payet,FWMF,Marseille,fr Ligue 1,192,58ae47b2
+91,Jarrod Bowen,FW,West Ham,eng Premier League,191,79c84d1c
+92,Lorenzo Pellegrini,MFFW,Roma,it Serie A,191,4a5a45c7
+93,Raphinha,FWMF,Leeds United,eng Premier League,191,3423f250
+94,Rodrigo,MFFW,Leeds United,eng Premier League,191,1fb1c435
+95,Gianluca Scamacca,FW,Sassuolo,it Serie A,190,8790f988
+96,Branimir Hrgota,FW,Greuther Fürth,de Bundesliga,189,710fbdd1
+97,Taiwo Awoniyi,FW,Union Berlin,de Bundesliga,188,e5478b87
+98,Álvaro Morata,FW,Juventus,it Serie A,188,129af0db
+99,Nicolò Zaniolo,FW,Roma,it Serie A,188,9907b1c8
+100,Mohamed Bayo,FW,Clermont Foot,fr Ligue 1,187,01870104
+101,Armand Lauriente,FWMF,Lorient,fr Ligue 1,187,2d22cea7
+102,Terem Moffi,FW,Lorient,fr Ligue 1,187,065dc209
+103,Raúl de Tomás,FW,Espanyol,es La Liga,186,02ef8778
+104,Ángel Correa,FWMF,Atlético Madrid,es La Liga,184,01eb744d
+105,Phil Foden,FW,Manchester City,eng Premier League,184,ed1e53f3
+106,Stephy Mavididi,FWMF,Montpellier,fr Ligue 1,184,30144daa
+107,Burak Yılmaz,FW,Lille,fr Ligue 1,184,165a2e40
+108,Sofiane Boufal,FWMF,Angers,fr Ligue 1,183,b0c71810
+109,Alexander Isak,FW,Real Sociedad,es La Liga,183,8e92be30
+110,Joselu,FW,Alavés,es La Liga,183,6265208f
+111,Oihan Sancet,FW,Athletic Club,es La Liga,183,bdb624a3
+112,Julian Brandt,MFFW,Dortmund,de Bundesliga,181,a167537f
+113,Yannick Carrasco,DFMF,Atlético Madrid,es La Liga,181,de39485a
+114,Erling Haaland,FW,Dortmund,de Bundesliga,180,1f44ac21
+115,Jude Bellingham,MF,Dortmund,de Bundesliga,178,57d88cf9
+116,Dušan Vlahović,FW,Fiorentina,it Serie A,178,79443529
+117,Sheraldo Becker,FWMF,Union Berlin,de Bundesliga,176,8eb55dbb
+118,Paulo Dybala,FWMF,Juventus,it Serie A,175,e0921a4f
+119,Mario Pašalić,MFFW,Atalanta,it Serie A,175,e599253a
+120,Sofiane Diop,MFFW,Monaco,fr Ligue 1,174,19053e31
+121,Fabio Quagliarella,FW,Sampdoria,it Serie A,174,ee4f2f3b
+122,Musa Barrow,FWMF,Bologna,it Serie A,173,e5bf73f3
+123,Rafael Leão,FW,Milan,it Serie A,173,20730eae
+124,Houssem Aouar,MFFW,Lyon,fr Ligue 1,172,a5db0bec
+125,Saïd Benrahma,FWMF,West Ham,eng Premier League,171,5a04fd92
+126,Kevin De Bruyne,MF,Manchester City,eng Premier League,170,e46012d4
+127,Jamal Musiala,MFFW,Bayern Munich,de Bundesliga,170,2c0558b8
+128,Patrik Schick,FW,Leverkusen,de Bundesliga,169,5d4f7d61
+129,Mark Uth,MFFW,Köln,de Bundesliga,169,a3ddb1b9
+130,Florian Wirtz,MFFW,Leverkusen,de Bundesliga,169,e7fcf289
+131,Felipe Anderson,FW,Lazio,it Serie A,168,9f1893b9
+132,Daniel James,FWMF,Leeds United,eng Premier League,168,c931d9f9
+133,Gelson Martins,FWMF,Monaco,fr Ligue 1,167,3ef0fa48
+134,Darko Brašanac,MF,Osasuna,es La Liga,166,4accb7e0
+135,Lorenzo Insigne,FW,Napoli,it Serie A,165,2f557579
+136,Anthony Modeste,FW,Köln,de Bundesliga,164,34e4343c
+137,Enes Ünal,FW,Getafe,es La Liga,164,f8eca1b6
+138,Jonathan Bamba,MFFW,Lille,fr Ligue 1,163,b2bd0f6c
+139,Daichi Kamada,MFFW,Eint Frankfurt,de Bundesliga,163,15b287da
+140,Lucas Ocampos,FW,Sevilla,es La Liga,163,a08b974a
+141,Jonas Hofmann,MFFW,M'Gladbach,de Bundesliga,162,2903a856
+142,Joshua King,FW,Watford,eng Premier League,162,43458538
+143,Kingsley Coman,FWDF,Bayern Munich,de Bundesliga,161,042e8a49
+144,Gabriel Jesus,FW,Manchester City,eng Premier League,161,b66315ae
+145,Florent Mollet,FWMF,Montpellier,fr Ligue 1,161,7e82a78f
+146,Che Adams,FW,Southampton,eng Premier League,160,f2bf1b0f
+147,Antonio Candreva,MFFW,Sampdoria,it Serie A,160,356c9002
+148,Adrien Thomasson,MF,Strasbourg,fr Ligue 1,159,c76b7567
+149,Kike,FW,Osasuna,es La Liga,158,e897d8ba
+150,Harvey Barnes,FWMF,Leicester City,eng Premier League,157,3ea50f67
+151,Antonio Sanabria,FW,Torino,it Serie A,157,0a447501
+152,Nedim Bajrami,MFFW,Empoli,it Serie A,156,f42d6c13
+153,Wahbi Khazri,FWMF,Saint-Étienne,fr Ligue 1,156,2677a1de
+154,Roger Martí,FW,Levante,es La Liga,156,0ae4e09a
+155,Steve Mounié,FW,Brest,fr Ligue 1,156,19ba6c6d
+156,Andrea Belotti,FW,Torino,it Serie A,155,d705ba44
+157,Santi Mina,FW,Celta Vigo,es La Liga,155,0b90bb97
+158,Jesper Lindstrøm,FWMF,Eint Frankfurt,de Bundesliga,154,37dc1a48
+159,Antonín Barák,FWMF,Hellas Verona,it Serie A,153,01efac19
+160,Nicolò Barella,MF,Inter,it Serie A,153,6928979a
+161,Josip Brekalo,FWMF,Torino,it Serie A,153,d4a2533d
+162,Ángel Di María,FW,Paris S-G,fr Ligue 1,153,19cda00b
+163,Sergio Canales,FWMF,Betis,es La Liga,152,a6de370d
+164,Arnaut Groeneveld,FW,Villarreal,es La Liga,151,f08490a6
+165,Jack Harrison,FWMF,Leeds United,eng Premier League,151,aa849a12
+166,Dušan Vlahović,FW,Juventus,it Serie A,151,79443529
+167,Emmanuel Dennis,FWMF,Watford,eng Premier League,150,2c44a35d
+168,Emil Forsberg,MFFW,RB Leipzig,de Bundesliga,149,9a2e0ccc
+169,Romelu Lukaku,FW,Chelsea,eng Premier League,149,5eae500a
+170,Isaac Palazón Camacho,FWMF,Rayo Vallecano,es La Liga,149,49dbab27
+171,Caleb Ekuban,FWMF,Genoa,it Serie A,148,7afbd2c3
+172,Moses Simon,FWMF,Nantes,fr Ligue 1,148,5f3eaaf5
+173,Ihlas Bebou,FWDF,Hoffenheim,de Bundesliga,147,a53b661f
+174,Álex Berenguer,MFFW,Athletic Club,es La Liga,147,dc1c2fce
+175,Habib Diallo,FW,Strasbourg,fr Ligue 1,147,6605d143
+176,Jodel Dossou,FW,Clermont Foot,fr Ligue 1,147,a1dbfcb1
+177,Lukas Nmecha,FWMF,Wolfsburg,de Bundesliga,147,0cc5f4a5
+178,James Maddison,MFFW,Leicester City,eng Premier League,146,ee38d9c5
+179,Donyell Malen,FW,Dortmund,de Bundesliga,146,864163f3
+180,Gaël Kakuta,MFFW,Lens,fr Ligue 1,145,5b1bf5e3
+181,Brais Méndez,MF,Celta Vigo,es La Liga,145,c9e39d91
+182,David Okereke,FWMF,Venezia,it Serie A,145,d125f22f
+183,Luis Rioja,FWMF,Alavés,es La Liga,145,eb3dd471
+184,Ferrán Torres,FW,Barcelona,es La Liga,145,9e1035f8
+185,Gerson,MFFW,Marseille,fr Ligue 1,144,8827bf46
+186,Demarai Gray,MFFW,Everton,eng Premier League,144,4468ec10
+187,Hwang Ui-jo,FW,Bordeaux,fr Ligue 1,144,a2d873dd
+188,Mohamed Ali Cho,FW,Angers,fr Ligue 1,143,f8405304
+189,Beto,FW,Udinese,it Serie A,143,ed5c0319
+190,Roberto Firmino,FW,Liverpool,eng Premier League,142,4c370d81
+191,Filip Kostić,DFFW,Eint Frankfurt,de Bundesliga,142,b1cd37e6
+192,Richarlison,FWMF,Everton,eng Premier League,142,fa031b34
+193,Mama Samba Baldé,FWMF,Troyes,fr Ligue 1,142,fb14aa28
+194,Jadon Sancho,FWMF,Manchester Utd,eng Premier League,142,dbf053da
+195,Lucas Boyé,FW,Elche,es La Liga,141,d49f3e6b
+196,Pablo Fornals,FWMF,West Ham,eng Premier League,141,82927de4
+197,Arkadiusz Milik,FW,Marseille,fr Ligue 1,141,85613cf0
+198,Marco Asensio,FWMF,Real Madrid,es La Liga,140,45af8a54
+199,Jonathan Clauss,DF,Lens,fr Ligue 1,140,5219ab4a
+200,Riyad Mahrez,FW,Manchester City,eng Premier League,139,892d5bb1
+201,Martinelli,FWMF,Arsenal,eng Premier League,139,48a5a5d6
+202,Allan Saint-Maximin,FWMF,Newcastle Utd,eng Premier League,138,2b16cb1a
+203,Ruslan Malinovskyi,FWMF,Atalanta,it Serie A,137,48d5bd33
+204,Henrikh Mkhitaryan,MFFW,Roma,it Serie A,137,dd0daf32
+205,Renaud Ripart,FWDF,Troyes,fr Ligue 1,137,beae3a73
+206,Timo Werner,FWMF,Chelsea,eng Premier League,137,49fe9070
+207,Iker Muniain,MF,Athletic Club,es La Liga,136,c05dfb74
+208,Sebastian Polter,FW,Bochum,de Bundesliga,136,3745e8bd
+209,Brahim Díaz,MF,Milan,it Serie A,135,407feb71
+210,Antoine Griezmann,FWMF,Atlético Madrid,es La Liga,135,df69b544
+211,Marcos Llorente,DFMF,Atlético Madrid,es La Liga,134,02c15616
+212,Jeong Woo-yeong,FWMF,Freiburg,de Bundesliga,134,6190474d
+213,Maxwel Cornet,FWMF,Burnley,eng Premier League,133,beb391dd
+214,Rubén García,FWMF,Osasuna,es La Liga,133,5c96b017
+215,Rey Manaj,FW,Spezia,it Serie A,133,7703afb6
+216,Jorge Molina,FW,Granada,es La Liga,132,43f71e77
+217,Frenkie de Jong,MF,Barcelona,es La Liga,131,1bacc518
+218,Jérémy Le Douaron,FW,Brest,fr Ligue 1,131,88c4d190
+219,Álvaro Negredo,FW,Cádiz,es La Liga,131,63b0ca6b
+220,Ivan Perišić,DF,Inter,it Serie A,131,6fe90922
+221,Dani Rodríguez,MFFW,Mallorca,es La Liga,131,70f8e0bd
+222,Georginio Rutter,FWMF,Hoffenheim,de Bundesliga,131,c64c01fc
+223,Denzel Dumfries,DF,Inter,it Serie A,130,481c9ece
+224,Sergi Guardiola,FW,Rayo Vallecano,es La Liga,130,32974271
+225,Alexandre Lacazette,FWMF,Arsenal,eng Premier League,129,9dbb75ca
+226,Alexis Saelemaekers,FW,Milan,it Serie A,129,ee251371
+227,Ismaila Sarr,FWMF,Watford,eng Premier League,129,bfdb33aa
+228,Dominik Szoboszlai,MFFW,RB Leipzig,de Bundesliga,129,934e1968
+229,Patrick Cutrone,FW,Empoli,it Serie A,128,a4fe8cda
+230,Jorge de Frutos,MFFW,Levante,es La Liga,128,38ce1150
+231,Hwang Hee-chan,FWMF,Wolves,eng Premier League,128,169fd162
+232,Liam Henderson,MF,Empoli,it Serie A,128,d7918b13
+233,Mateusz Klich,MF,Leeds United,eng Premier League,128,282679b4
+234,Alexander Sørloth,FW,Real Sociedad,es La Liga,128,e92cd3f7
+235,Piotr Zieliński,MF,Napoli,it Serie A,128,a5296e55
+236,João Cancelo,DF,Manchester City,eng Premier League,127,bd6351cd
+237,Emmanuel Gyasi,FWDF,Spezia,it Serie A,127,f9758dae
+238,Lionel Messi,FWMF,Paris S-G,fr Ligue 1,127,d70ce98e
+239,Rodrygo,FW,Real Madrid,es La Liga,127,8f5e92a6
+240,Manu Trigueros,MFFW,Villarreal,es La Liga,127,963829d0
+241,Milan Đurić,FW,Salernitana,it Serie A,127,405f6586
+242,Ishak Belfodil,FW,Hertha BSC,de Bundesliga,126,ff182fdc
+243,Raúl García,FW,Athletic Club,es La Liga,126,b418dbd4
+244,Grégoire Defrel,FW,Sassuolo,it Serie A,125,854ee61a
+245,Kevin Lasagna,FWMF,Hellas Verona,it Serie A,125,09538fdb
+246,Gavi Paez,MFFW,Barcelona,es La Liga,125,19cae58d
+247,Yeremi Pino,MFFW,Villarreal,es La Liga,125,540ec57b
+248,Odsonne Édouard,FW,Crystal Palace,eng Premier League,124,0562b7f1
+249,Olivier Giroud,FW,Milan,it Serie A,124,16ceb862
+250,Juanmi,FW,Betis,es La Liga,124,84399660
+251,Ademola Lookman,FWMF,Leicester City,eng Premier League,124,7c104bb7
+252,Mikel Oyarzabal,FWMF,Real Sociedad,es La Liga,124,8c3c640c
+253,Roberto Soriano,MFFW,Bologna,it Serie A,124,9d4c45d6
+254,Trent Alexander-Arnold,DF,Liverpool,eng Premier League,123,cd1acf9d
+255,Federico Di Francesco,FWMF,Empoli,it Serie A,123,1fca9171
+256,Zlatan Ibrahimović,FW,Milan,it Serie A,123,4cde5509
+257,Jamie Vardy,FW,Leicester City,eng Premier League,123,45963054
+258,Achraf Hakimi,DF,Paris S-G,fr Ligue 1,122,e42d61c7
+259,Omar Marmoush,FWMF,Stuttgart,de Bundesliga,121,0e0102eb
+260,Christian Pulisic,MFFW,Chelsea,eng Premier League,121,1bf33a9a
+261,Roland Sallai,MFFW,Freiburg,de Bundesliga,121,bf075f6b
+262,Óscar Trejo,MF,Rayo Vallecano,es La Liga,121,fc647b34
+263,Christoph Baumgartner,MFFW,Hoffenheim,de Bundesliga,120,437f2b00
+264,Armando Broja,FW,Southampton,eng Premier League,120,97220da2
+265,Ante Budimir,FW,Osasuna,es La Liga,120,8f3565b3
+266,Conor Gallagher,MF,Crystal Palace,eng Premier League,120,c2731c10
+267,İlkay Gündoğan,MF,Manchester City,eng Premier League,120,819b3158
+268,Dennis Johnsen,FWMF,Venezia,it Serie A,120,66784dee
+269,Marcus Rashford,FWMF,Manchester Utd,eng Premier League,120,a1d5bd30
+270,Luis Suárez,FW,Atlético Madrid,es La Liga,120,a6154613
+271,Boulaye Dia,FW,Villarreal,es La Liga,119,244bc2c8
+272,Dejan Ljubicic,MFFW,Köln,de Bundesliga,119,c455a2b2
+273,Hirving Lozano,FW,Napoli,it Serie A,119,a69e4806
+274,David Silva,MF,Real Sociedad,es La Liga,119,e2716bd0
+275,Hakim Ziyech,FWMF,Chelsea,eng Premier League,119,6622454d
+276,Hamed Junior Traorè,FWMF,Sassuolo,it Serie A,118,570bb4b9
+277,Pol Lirola,DFMF,Marseille,fr Ligue 1,118,ff800ed8
+278,Sandro Ramírez,FW,Getafe,es La Liga,118,833fb62e
+279,Lars Stindl,MFFW,M'Gladbach,de Bundesliga,118,7cd6badb
+280,Ryad Boudebouz,MFFW,Saint-Étienne,fr Ligue 1,117,1001ae82
+281,Ondrej Duda,MF,Köln,de Bundesliga,117,79ca3e23
+282,Danny Ings,FW,Aston Villa,eng Premier League,117,07802f7f
+283,Lovro Majer,MF,Rennes,fr Ligue 1,117,fc46aab1
+284,Masaya Okugawa,MFFW,Arminia,de Bundesliga,117,63b9cc6d
+285,Martin Ødegaard,MF,Arsenal,eng Premier League,117,79300479
+286,Maxi Gómez,FW,Valencia,es La Liga,116,4c2e9442
+287,Justin Kluivert,MF,Nice,fr Ligue 1,116,4c3a6744
+288,Timothy Weah,MFFW,Lille,fr Ligue 1,116,8eec784d
+289,Hakan Çalhanoğlu,MF,Inter,it Serie A,115,cd0fa27b
+290,Javairô Dilrosun,MFFW,Bordeaux,fr Ligue 1,115,34a0f5ff
+291,Aleksandr Golovin,FWMF,Monaco,fr Ligue 1,115,3708e9fa
+292,Jordan Henderson,MF,Liverpool,eng Premier League,115,935e6b8f
+293,Jamie Leweling,FWDF,Greuther Fürth,de Bundesliga,115,13fe7b69
+294,Ibrahima Niane,FW,Metz,fr Ligue 1,115,46faabfa
+295,Andrew Robertson,DF,Liverpool,eng Premier League,115,2e4f5f03
+296,Ibrahima Sissoko,MFDF,Strasbourg,fr Ligue 1,115,0f8418aa
+297,Mohamed Elyounoussi,MFFW,Southampton,eng Premier League,114,68dc0dac
+298,Valère Germain,FW,Montpellier,fr Ligue 1,114,ea0ff634
+299,Vincenzo Grifo,MFFW,Freiburg,de Bundesliga,114,54e4866f
+300,Thomas Henry,FW,Venezia,it Serie A,114,9ef42479
+301,Darko Lazović,DF,Hellas Verona,it Serie A,114,5128bde4
+302,João Pedro,FWMF,Watford,eng Premier League,114,e8832875
+303,Wout Weghorst,FW,Wolfsburg,de Bundesliga,114,c4e87b8b
+304,Ridle Baku,DFFW,Wolfsburg,de Bundesliga,113,442b56fa
+305,Junior Messias,FWMF,Milan,it Serie A,113,f49c4ae9
+306,Caio Henrique Oliveira Silva,DF,Monaco,fr Ligue 1,113,30af8b93
+307,Emi Buendía,FWMF,Aston Villa,eng Premier League,112,66b76d44
+308,Borja Iglesias,FW,Betis,es La Liga,112,75645f0e
+309,Jordi Alba,DF,Barcelona,es La Liga,111,4601e194
+310,Alberth Elis,FWMF,Bordeaux,fr Ligue 1,111,104b4ad3
+311,Sehrou Guirassy,FW,Rennes,fr Ligue 1,111,923f4dda
+312,Milot Rashica,FWMF,Norwich City,eng Premier League,111,6c6a3300
+313,Flavien Tait,MF,Rennes,fr Ligue 1,111,a0f9b535
+314,Ruben Vargas,MFFW,Augsburg,de Bundesliga,111,6ecbddf6
+315,Marcos Alonso,DF,Chelsea,eng Premier League,110,f4290206
+316,Luis Díaz,FW,Liverpool,eng Premier League,110,4a1a9578
+317,Gerard Moreno,FW,Villarreal,es La Liga,110,81f0781e
+318,Vedat Muriqi,FW,Mallorca,es La Liga,110,0cadc46d
+319,Arnaud Nordin,FWMF,Saint-Étienne,fr Ligue 1,110,7b9a9e25
+320,Portu,FWMF,Real Sociedad,es La Liga,110,1bda5842
+321,Danny Welbeck,FW,Brighton,eng Premier League,110,ce5143da
+322,Adam Armstrong,FW,Southampton,eng Premier League,109,68c720b5
+323,Pierre-Emerick Aubameyang,FW,Barcelona,es La Liga,109,d5dd5f1f
+324,Mattéo Guendouzi,MF,Marseille,fr Ligue 1,109,5ea8ef20
+325,Florian Kainz,MFFW,Köln,de Bundesliga,109,94c18565
+326,Paulinho,FWMF,Leverkusen,de Bundesliga,109,53070b63
+327,Yussuf Poulsen,FW,RB Leipzig,de Bundesliga,109,d2416c2e
+328,Nicolas de Préville,FWMF,Metz,fr Ligue 1,109,b0547a87
+329,Mattia Zaccagni,FW,Lazio,it Serie A,109,d85c238b
+330,Federico Bonazzoli,FWMF,Salernitana,it Serie A,108,bf57eaab
+331,Moanes Dabbur,FWMF,Hoffenheim,de Bundesliga,108,eac044ad
+332,Sepe Elye Wahi,FW,Montpellier,fr Ligue 1,108,0d7b6576
+333,Willian José,FW,Betis,es La Liga,108,d87e2cae
+334,Elba Rashani,FWMF,Clermont Foot,fr Ligue 1,108,25749008
+335,Takuma Asano,FWMF,Bochum,de Bundesliga,107,13ddc856
+336,Ousmane Dembélé,FW,Barcelona,es La Liga,107,b19db005
+337,Marcus Thuram,FWMF,M'Gladbach,de Bundesliga,107,6f8cd6d0
+338,Ezequiel Ávila,FWMF,Osasuna,es La Liga,106,253a06b9
+339,Lee Jae-sung,MFFW,Mainz 05,de Bundesliga,106,34b0387f
+340,Ilan Kebbal,MFFW,Reims,fr Ligue 1,106,37d04e90
+341,Leonardo Pavoletti,FW,Cagliari,it Serie A,106,d37b0350
+342,Matty Cash,DF,Aston Villa,eng Premier League,105,2389cdc2
+343,David Raum,DF,Hoffenheim,de Bundesliga,105,7d450ed3
+344,Christian Benteke,FW,Crystal Palace,eng Premier League,104,ab070c55
+345,Mattia Destro,FW,Genoa,it Serie A,104,d7d32194
+346,Christian Günter,DF,Freiburg,de Bundesliga,104,8593f88c
+347,Gerrit Holtmann,FWMF,Bochum,de Bundesliga,104,2979c05a
+348,Javi Puado,FWMF,Espanyol,es La Liga,104,2683eda7
+349,Alessandro Schöpf,MF,Arminia,de Bundesliga,104,106bca06
+350,Wout Weghorst,FW,Burnley,eng Premier League,104,c4e87b8b
+351,Irvin Cardona,FWMF,Brest,fr Ligue 1,103,5e080f73
+352,Riccardo Orsolini,FW,Bologna,it Serie A,103,e14ec482
+353,Pedro,FW,Lazio,it Serie A,103,3ca7254a
+354,Téji Savanier,MF,Montpellier,fr Ligue 1,103,6bde367b
+355,Hugo Ekitike,FW,Reims,fr Ligue 1,102,5b92d896
+356,Fidel,MFFW,Elche,es La Liga,102,eb82b6f1
+357,Kelechi Iheanacho,FW,Leicester City,eng Premier League,102,c92e1a31
+358,Antonio Puertas,MFFW,Granada,es La Liga,102,c77a8043
+359,Ignatius Ganago,FW,Lens,fr Ligue 1,101,23c63b7f
+360,Adnan Januzaj,FWMF,Real Sociedad,es La Liga,101,4737cebe
+361,Joelinton,MFFW,Newcastle Utd,eng Premier League,101,c17bfb65
+362,Dries Mertens,FWMF,Napoli,it Serie A,101,89b2c8a9
+363,Lucas Moura,FWMF,Tottenham,eng Premier League,101,2b622f01
+364,Matteo Pessina,MFFW,Atalanta,it Serie A,101,780e3631
+365,Luis Alberto,MF,Lazio,it Serie A,100,5294a83f
+366,Samuel Chukwueze,MFFW,Villarreal,es La Liga,100,b8a642fc
+367,Kasper Dolberg,FW,Nice,fr Ligue 1,100,cc83b74d
+368,Eden Hazard,FWMF,Real Madrid,es La Liga,100,a39bb753
+369,Håvard Nielsen,MFFW,Greuther Fürth,de Bundesliga,100,b18ef366
+370,Ángel Rodríguez,FW,Mallorca,es La Liga,100,8cfc2f69
+371,Jim Allevinah,FW,Clermont Foot,fr Ligue 1,99,1956b948
+372,Davide Frattesi,MF,Sassuolo,it Serie A,99,2a7d27c1
+373,Pascal Groß,MFDF,Brighton,eng Premier League,99,8aec0537
+374,Amine Harit,FWMF,Marseille,fr Ligue 1,99,e7d59f4f
+375,Anthony Lozano,FWMF,Cádiz,es La Liga,99,38699c72
+376,Marco Richter,FWMF,Hertha BSC,de Bundesliga,99,f972644c
+377,Enis Bardhi,MFFW,Levante,es La Liga,98,cac2537b
+378,Reece James,DF,Chelsea,eng Premier League,98,1265a93a
+379,Alexis Sánchez,FW,Inter,it Serie A,98,2c0f8e9e
+380,Emile Smith Rowe,MFFW,Arsenal,eng Premier League,98,17695062
+381,Borna Sosa,DF,Stuttgart,de Bundesliga,98,af0d79a9
+382,Akim Zedadka,DF,Clermont Foot,fr Ligue 1,98,0ff630d0
+383,Jordan Ayew,FW,Crystal Palace,eng Premier League,97,da052c14
+384,Giacomo Bonaventura,MF,Fiorentina,it Serie A,97,d995ed27
+385,Anthony Gordon,MFFW,Everton,eng Premier League,97,2bd83368
+386,Enzo Le Fée,MFFW,Lorient,fr Ligue 1,97,6f806d99
+387,Randy Ntekja,FWMF,Rayo Vallecano,es La Liga,97,a6103274
+388,Daniel Podence,FWMF,Wolves,eng Premier League,97,7fcc71d8
+389,Dennis Praet,FWMF,Torino,it Serie A,97,86695068
+390,Joaquín Correa,FW,Inter,it Serie A,96,45b9b619
+391,Alphonso Davies,DF,Bayern Munich,de Bundesliga,96,d781d855
+392,Giovanni Di Lorenzo,DF,Napoli,it Serie A,96,230a2fac
+393,Adri Embarba,FWMF,Espanyol,es La Liga,96,db8f0eba
+394,Chris Führich,MFFW,Stuttgart,de Bundesliga,96,0cf778df
+395,Sasa Kalajdzic,FW,Stuttgart,de Bundesliga,96,15f24fe7
+396,Dwight McNeil,MF,Burnley,eng Premier League,96,fc15fb84
+397,Matteo Politano,FW,Napoli,it Serie A,96,5e861944
+398,Rubén Sobrino,FWMF,Cádiz,es La Liga,96,19b776e9
+399,Francisco Trincão,FWMF,Wolves,eng Premier League,96,77e39b04
+400,Sebastian Andersson,FW,Köln,de Bundesliga,95,b4cf5806
+401,Kiernan Dewsbury-Hall,MF,Leicester City,eng Premier League,95,5c74c0f5
+402,Dejan Kulusevski,MFFW,Tottenham,eng Premier League,95,df3cda47
+403,Mikel Merino,MF,Real Sociedad,es La Liga,95,d080ed5e
+404,Nathan Redmond,MFFW,Southampton,eng Premier League,95,ab651565
+405,Franck Ribéry,MFFW,Salernitana,it Serie A,95,f61c7c4e
+406,Patrick Wimmer,FWMF,Arminia,de Bundesliga,95,cb11b429
+407,David Pereira da Costa,MFFW,Lens,fr Ligue 1,94,59948ef7
+408,Josip Iličić,FWMF,Atalanta,it Serie A,94,68252d6d
+409,Rafa Mir,FW,Sevilla,es La Liga,94,bbf5c11b
+410,Yoann Touzghar,FW,Troyes,fr Ligue 1,94,4e47507a
+411,Keita Baldé,FWMF,Cagliari,it Serie A,93,509a4ccb
+412,Weston McKennie,MF,Juventus,it Serie A,93,01c3aff5
+413,Álex Moreno,DF,Betis,es La Liga,93,16e9d0ea
+414,Amine Adli,FWMF,Leverkusen,de Bundesliga,92,dcfb17f4
+415,Yacine Adli,MFFW,Bordeaux,fr Ligue 1,92,26777636
+416,Hugo Duro,FWMF,Valencia,es La Liga,92,37e103f8
+417,Mason Greenwood,FWMF,Manchester Utd,eng Premier League,92,58eee997
+418,Thorgan Hazard,FWDF,Dortmund,de Bundesliga,92,50871bcc
+419,Ante Rebić,FW,Milan,it Serie A,92,536cebe5
+420,Isaac Success,FW,Udinese,it Serie A,92,f573a8bf
+421,Angeliño,DF,RB Leipzig,de Bundesliga,91,30941e96
+422,Juan Cuadrado,DFMF,Juventus,it Serie A,91,0ab1f153
+423,Jakub Moder,MFFW,Brighton,eng Premier League,91,f230bc30
+424,Tete Morente,MFFW,Elche,es La Liga,91,004d185e
+425,Alfonso Pedraza,DF,Villarreal,es La Liga,91,63f04c6c
+426,Tiago Tomás,FW,Stuttgart,de Bundesliga,91,b492126a
+427,Jesús Corona,FWDF,Sevilla,es La Liga,90,fb938d24
+428,Przemysław Frankowski,DF,Lens,fr Ligue 1,90,00a8d210
+429,Josh Sargent,FWMF,Norwich City,eng Premier League,90,a8d4428b
+430,Chris Wood,FW,Burnley,eng Premier League,90,4e9a0555
+431,Filippo Bandinelli,MF,Empoli,it Serie A,89,d44360be
+432,Emerson,DF,Tottenham,eng Premier League,89,df8b52a5
+433,Leon Goretzka,MF,Bayern Munich,de Bundesliga,89,cc86b9a3
+434,Dani Gómez,FW,Levante,es La Liga,88,0e5ddc7c
+435,Fabián Ruiz Peña,MF,Napoli,it Serie A,88,c0c7ff58
+436,Osman Bukari,FWMF,Nantes,fr Ligue 1,87,eab85789
+437,Javi Galán,DF,Celta Vigo,es La Liga,87,a4b00319
+438,Robin Hack,FWMF,Arminia,de Bundesliga,87,0174ba21
+439,Max Kruse,FWMF,Wolfsburg,de Bundesliga,87,f9446dcd
+440,Alexis Mac Allister,MFFW,Brighton,eng Premier League,87,83d074ff
+441,Anthony Elanga,FW,Manchester Utd,eng Premier League,86,2fba6108
+442,Alfonso Espino,DF,Cádiz,es La Liga,86,db001fa9
+443,Moi Gómez,MFFW,Villarreal,es La Liga,86,5a626448
+444,Cedric Gondo,FW,Salernitana,it Serie A,86,ff37d2ef
+445,Alex Iwobi,MFDF,Everton,eng Premier League,86,6ca5ec4b
+446,Érik Lamela,FW,Sevilla,es La Liga,86,abe66106
+447,Luka Modrić,MF,Real Madrid,es La Liga,86,6025fab1
+448,Vanderson,FWMF,Monaco,fr Ligue 1,86,ee45fd85
+449,Szymon Żurkowski,MF,Empoli,it Serie A,86,4e1d5e59
+450,Bamba Dieng,FWMF,Marseille,fr Ligue 1,85,40774c6b
+451,Romain Hamouma,FW,Saint-Étienne,fr Ligue 1,85,0b4d8274
+452,Fabian Klos,FW,Arminia,de Bundesliga,85,e21042ae
+453,Eldor Shomurodov,FWMF,Roma,it Serie A,85,57469b2d
+454,Mattia Aramu,MFFW,Venezia,it Serie A,84,0847b5a5
+455,Theo Hernández,DF,Milan,it Serie A,84,d4c9725f
+456,Édgar Méndez,FWMF,Alavés,es La Liga,84,aed746df
+457,Carlos Soler,MF,Valencia,es La Liga,84,fed17f5a
+458,André Hahn,MFFW,Augsburg,de Bundesliga,83,cd82452e
+459,Moise Kean,FW,Juventus,it Serie A,83,3d50bcdb
+460,Max Kruse,FWMF,Union Berlin,de Bundesliga,83,f9446dcd
+461,Takefusa Kubo,FWMF,Mallorca,es La Liga,83,16aa3654
+462,Roberto Pereyra,MFFW,Udinese,it Serie A,83,75f2c59f
+463,Jens Petter Hauge,FWMF,Eint Frankfurt,de Bundesliga,83,12c35abe
+464,Marko Pjaca,MFFW,Torino,it Serie A,83,2c38b327
+465,Nélson Semedo,DF,Wolves,eng Premier League,83,d04b94db
+466,Carles Aleñá,MF,Getafe,es La Liga,82,6c811eb7
+467,Thiago Galhardo,FWMF,Celta Vigo,es La Liga,82,766f48dd
+468,Hicham Boudaoui,MF,Nice,fr Ligue 1,81,f9d5908e
+469,Dimitri Liénard,DFMF,Strasbourg,fr Ligue 1,81,f7691f63
+470,Solly March,DFFW,Brighton,eng Premier League,81,bb5fbd2b
+471,Pere Milla,FWMF,Elche,es La Liga,81,335039a2
+472,Remi Oudin,MFFW,Bordeaux,fr Ligue 1,81,ea02beaf
+473,Goran Pandev,FWMF,Genoa,it Serie A,81,d711d04f
+474,Kyle Walker-Peters,DF,Southampton,eng Premier League,81,984a5a64
+475,Matheus Cunha,FW,Atlético Madrid,es La Liga,80,dc62b55d
+476,Michael Gregoritsch,FWMF,Augsburg,de Bundesliga,80,8e235926
+477,Giovani Lo Celso,MFFW,Villarreal,es La Liga,80,d7553721
+478,Nahuel Molina,DF,Udinese,it Serie A,80,23610943
+479,Jacob Ramsey,MF,Aston Villa,eng Premier League,80,1544f145
+480,Riccardo Saponara,FW,Fiorentina,it Serie A,80,3bb7af3b
+481,Janni Serra,FW,Arminia,de Bundesliga,80,40b58bfc
+482,El Bilal Touré,FW,Reims,fr Ligue 1,79,47c609d5
+483,Cristiano Biraghi,DF,Fiorentina,it Serie A,79,9e1577aa
+484,José Callejón,FW,Fiorentina,it Serie A,79,78841da9
+485,Elif Elmas,FWMF,Napoli,it Serie A,79,cf007308
+486,João Félix,FWMF,Atlético Madrid,es La Liga,79,8aafd64f
+487,N'Golo Kanté,MF,Chelsea,eng Premier League,79,b9fbae28
+488,Jon Moncayola,MF,Osasuna,es La Liga,79,9939e168
+489,Sergio Reguilón,DF,Tottenham,eng Premier League,79,3353737a
+490,Tyler Roberts,MFFW,Leeds United,eng Premier League,79,6c17e046
+491,Youri Tielemans,MF,Leicester City,eng Premier League,79,56f7a928
+492,Yoane Wissa,FWMF,Brentford,eng Premier League,79,2500cef9
+493,Stuart Armstrong,MF,Southampton,eng Premier League,78,97333cf5
+494,Álvaro Odriozola,DF,Fiorentina,it Serie A,78,1d1691ad
+495,Jan Thielmann,MFFW,Köln,de Bundesliga,78,fd53759d
+496,Chris Wood,FW,Newcastle Utd,eng Premier League,78,4e9a0555
+497,Christopher Antwi-Adjei,FWMF,Bochum,de Bundesliga,77,0a3f6cde
+498,Stéphane Bahoken,FW,Angers,fr Ligue 1,77,5046b7d4
+499,Jean-Ricner Bellegarde,MF,Strasbourg,fr Ligue 1,77,10f0fdd3
+500,Tristan Dingomé,MFFW,Troyes,fr Ligue 1,77,92b56413
+501,Youssef En-Nesyri,FW,Sevilla,es La Liga,77,04e17fd5
+502,Frederic Guilbert,DF,Strasbourg,fr Ligue 1,77,5d8d7454
+503,Stevan Jovetić,FW,Hertha BSC,de Bundesliga,77,f36c432f
+504,Rick Karsdorp,DF,Roma,it Serie A,77,9f84febe
+505,Orel Mangala,MF,Stuttgart,de Bundesliga,77,a572e291
+506,Alberto Moreno,MFDF,Villarreal,es La Liga,77,11b9265b
+507,M'Bala Nzola,FW,Spezia,it Serie A,77,a4948e67
+508,Maximilian Philipp,MFFW,Wolfsburg,de Bundesliga,77,061e8e23
+509,Riccardo Sottil,FW,Fiorentina,it Serie A,77,94816803
+510,Silvan Widmer,DF,Mainz 05,de Bundesliga,77,f68b64fc
+511,Aaron Hickey,DF,Bologna,it Serie A,76,1780bb4a
+512,Tariq Lamptey,DFFW,Brighton,eng Premier League,76,f4e433d4
+513,Aleksei Miranchuk,MFFW,Atalanta,it Serie A,76,a9aa0d1d
+514,Johan Mojica,DF,Elche,es La Liga,76,608f2092
+515,Florian Neuhaus,MF,M'Gladbach,de Bundesliga,76,36a59ba4
+516,Suat Serdar,MFFW,Hertha BSC,de Bundesliga,76,b3325a30
+517,Hamari Traoré,DF,Rennes,fr Ligue 1,76,a4b1028a
+518,Nico Williams,MF,Athletic Club,es La Liga,76,afdc14d7
+519,Federico Bernardeschi,MFFW,Juventus,it Serie A,75,ee93c1a9
+520,Myron Boadu,FW,Monaco,fr Ligue 1,75,5b479568
+521,Daniel Caligiuri,DFMF,Augsburg,de Bundesliga,75,d1273f09
+522,Xavier Chavalerin,MFFW,Troyes,fr Ligue 1,75,279ddf6a
+523,Vincent Le Goff,DF,Lorient,fr Ligue 1,75,2321ea6e
+524,Opa Nguette,FWMF,Metz,fr Ligue 1,75,75a63397
+525,Ignacio Pussetto,FWMF,Udinese,it Serie A,75,62437b4f
+526,Valentin Rongier,DFMF,Marseille,fr Ligue 1,75,ed45c4a5
+527,Junior Sambia,DFFW,Montpellier,fr Ligue 1,75,24eb7ed6
+528,Calvin Stengs,MF,Nice,fr Ligue 1,75,8f7e6783
+529,Jason Berthomier,MF,Clermont Foot,fr Ligue 1,74,03e91055
+530,Jacob Bruun Larsen,FWMF,Hoffenheim,de Bundesliga,74,4e204552
+531,Ermedin Demirović,FWMF,Freiburg,de Bundesliga,74,ed79b7d3
+532,Teun Koopmeiners,MF,Atalanta,it Serie A,74,a26fb8aa
+533,Mário Rui,DF,Napoli,it Serie A,74,0b5a292a
+534,Callum Hudson-Odoi,FWMF,Chelsea,eng Premier League,73,15f3ec41
+535,Issa Kaboré,DF,Troyes,fr Ligue 1,73,c066d1a5
+536,Dejan Kulusevski,FWMF,Juventus,it Serie A,73,df3cda47
+537,Răzvan Marin,MF,Cagliari,it Serie A,73,7fac99d4
+538,Timothy Tillman,MF,Greuther Fürth,de Bundesliga,73,a5bea1fb
+539,Adama Traoré,FW,Wolves,eng Premier League,73,9a28eba4
+540,Franco Cervi,MF,Celta Vigo,es La Liga,72,5e1028e5
+541,Patson Daka,FW,Leicester City,eng Premier League,72,ca45605e
+542,Wataru Endo,MF,Stuttgart,de Bundesliga,72,c149016b
+543,Romain Faivre,MF,Brest,fr Ligue 1,72,745ca0a3
+544,Thomas Foket,DFMF,Reims,fr Ligue 1,72,90eb507d
+545,Francisco Garcia,DF,Rayo Vallecano,es La Liga,72,7226539b
+546,Joshua Kimmich,MF,Bayern Munich,de Bundesliga,72,49296448
+547,Bryan Lasme,FW,Arminia,de Bundesliga,72,ebac0ace
+548,Miloš Pantović,MFFW,Bochum,de Bundesliga,72,5dc15574
+549,Dominic Calvert-Lewin,FW,Everton,eng Premier League,71,59e6e5bf
+550,Jeremy Dudziak,MFFW,Greuther Fürth,de Bundesliga,71,5a8d6540
+551,Yannick Gerhardt,MFDF,Wolfsburg,de Bundesliga,71,62ab9184
+552,Jonas Hector,DF,Köln,de Bundesliga,71,c2009df3
+553,Rade Krunić,MFFW,Milan,it Serie A,71,817c6964
+554,Darwin Machís,MFFW,Granada,es La Liga,71,ed6ea4d9
+555,Maranhão,FWMF,Valencia,es La Liga,71,ae86d473
+556,Nahitan Nández,MFDF,Cagliari,it Serie A,71,95facda1
+557,Eddie Nketiah,FW,Arsenal,eng Premier League,71,a53649b7
+558,Davide Zappacosta,DF,Atalanta,it Serie A,71,7fe90ccd
+559,Jeremie Boga,FWMF,Atalanta,it Serie A,70,fe012aca
+560,Souleyman Doumbia,DF,Angers,fr Ligue 1,70,9daeac61
+561,Malo Gusto,DF,Lyon,fr Ligue 1,70,d56b9520
+562,Luuk de Jong,FW,Barcelona,es La Liga,70,abb3bb95
+563,Thomas Lemar,MF,Atlético Madrid,es La Liga,70,4dbd0916
+564,Borja Mayoral,FW,Getafe,es La Liga,70,64e8ed6d
+565,Nathanael Mbuku,FWMF,Reims,fr Ligue 1,70,46750e9c
+566,Pedrosa,DF,Espanyol,es La Liga,70,112521d1
+567,Manuel Sánchez,DF,Osasuna,es La Liga,70,ffacd3d5
+568,Arnaud Souquet,DF,Montpellier,fr Ligue 1,70,4e0afc5d
+569,Lucas Vázquez,DF,Real Madrid,es La Liga,70,fd51b456
+570,Benjamin André,MF,Lille,fr Ligue 1,69,ef9c1c95
+571,Romain Del Castillo,MFFW,Brest,fr Ligue 1,69,0be95d34
+572,Federico Dimarco,DF,Inter,it Serie A,69,970b8574
+573,Franck Kessié,MF,Milan,it Serie A,69,05e19d6a
+574,Youssef Maleh,MF,Fiorentina,it Serie A,69,4c8845f7
+575,Jaime Mata,FW,Getafe,es La Liga,69,02319ad7
+576,Kenny McLean,MF,Norwich City,eng Premier League,69,471f16b3
+577,Grischa Prömel,MF,Union Berlin,de Bundesliga,69,924f9191
+578,Federico Valverde,MF,Real Madrid,es La Liga,69,0959c2a2
+579,Sergi Canós,DF,Brentford,eng Premier League,68,1137759d
+580,Philippe Coutinho,MFFW,Aston Villa,eng Premier League,68,0ef89a37
+581,Marc Cucurella,DF,Brighton,eng Premier League,68,1daec722
+582,Thomas Delaine,DF,Metz,fr Ligue 1,68,8332db56
+583,Youssouf Fofana,MF,Monaco,fr Ligue 1,68,822d51d7
+584,Azzedine Ounahi,MF,Angers,fr Ligue 1,68,83299cc0
+585,Moussa Sissoko,MF,Watford,eng Premier League,68,2acd49b9
+586,Daniele Verde,FWMF,Spezia,it Serie A,68,d3298c99
+587,Jonas Wind,FWMF,Wolfsburg,de Bundesliga,68,2077ae86
+588,Marius Wolf,DFFW,Dortmund,de Bundesliga,68,fa661778
+589,Kelvin Yeboah,FW,Genoa,it Serie A,68,ea0893d6
+590,Leandro Barreiro Martins,MF,Mainz 05,de Bundesliga,67,00242b75
+591,Raoul Bellanova,DF,Cagliari,it Serie A,67,e3756e72
+592,Sergio Busquets,MF,Barcelona,es La Liga,67,5ab0ea87
+593,Tanguy Coulibaly,DFFW,Stuttgart,de Bundesliga,67,05ba9d7c
+594,Sergiño Dest,DFFW,Barcelona,es La Liga,67,5976f83e
+595,Alfred Duncan,MF,Fiorentina,it Serie A,67,528492ea
+596,Raphaël Guerreiro,DF,Dortmund,de Bundesliga,67,048a1cbc
+597,Mauro Icardi,FW,Paris S-G,fr Ligue 1,67,43b78598
+598,Ivan Ilić,MF,Hellas Verona,it Serie A,67,bb376bed
+599,Giulio Maggiore,MF,Spezia,it Serie A,67,957e4c87
+600,Mattias Svanberg,MF,Bologna,it Serie A,67,92d83c27
+601,Marcos Acuña,DF,Sevilla,es La Liga,66,81442ecb
+602,Felix Afena-Gyan,FWMF,Roma,it Serie A,66,0154d290
+603,Simone Bastoni,MFDF,Spezia,it Serie A,66,1ac232b8
+604,Pervis Estupiñán,DF,Villarreal,es La Liga,66,d38fdf53
+605,Dalbert Henrique,DFMF,Cagliari,it Serie A,66,f45f9427
+606,Saîf-Eddine Khaoui,MFFW,Clermont Foot,fr Ligue 1,66,796b1c41
+607,Adam Lallana,MF,Brighton,eng Premier League,66,99813635
+608,M'Baye Niang,FW,Bordeaux,fr Ligue 1,66,2054d037
+609,Nicolas Pépé,FWMF,Arsenal,eng Premier League,66,57e3f0c7
+610,Ivan Rakitić,MF,Sevilla,es La Liga,66,89f951b5
+611,Jay Rodriguez,FW,Burnley,eng Premier League,66,4ab53cdb
+612,Adrien Tameze,MFDF,Hellas Verona,it Serie A,66,8da74c05
+613,Zeki Çelik,DF,Lille,fr Ligue 1,65,31a62dc7
+614,Stuart Dallas,DFMF,Leeds United,eng Premier League,65,67ca8566
+615,Joan Jordán,MF,Sevilla,es La Liga,65,2a0c8ba4
+616,Didier Lamkel Zé,FW,Metz,fr Ligue 1,65,b229aa13
+617,Dodi Lukebakio,FWMF,Wolfsburg,de Bundesliga,65,0c61c77c
+618,Ferland Mendy,DF,Real Madrid,es La Liga,65,3cefcaef
+619,Gerson Rodrigues,FW,Troyes,fr Ligue 1,65,3814b753
+620,Kevin Schade,FWMF,Freiburg,de Bundesliga,65,52afb588
+621,Andros Townsend,MF,Everton,eng Premier League,65,b28bbd58
+622,Iyenoma Udogie,DF,Udinese,it Serie A,65,7cd520e8
+623,Georginio Wijnaldum,MF,Paris S-G,fr Ligue 1,65,eb58eef0
+624,Kike Barja,MFFW,Osasuna,es La Liga,64,aad53e64
+625,Steven Bergwijn,FWMF,Tottenham,eng Premier League,64,a29b1131
+626,Bryan,MFFW,Valencia,es La Liga,64,7b5ab7f2
+627,Sergi Darder,MF,Espanyol,es La Liga,64,070a3904
+628,Vladimír Darida,MF,Hertha BSC,de Bundesliga,64,3eb0f2df
+629,Joe Gelhardt,FWMF,Leeds United,eng Premier League,64,01962d0d
+630,Florian Krüger,FWMF,Arminia,de Bundesliga,64,f9f92b5f
+631,Jean Lucas,MF,Monaco,fr Ligue 1,64,a99138af
+632,Nordi Mukiele,DF,RB Leipzig,de Bundesliga,64,ac73ec79
+633,Emerson Palmieri,DF,Lyon,fr Ligue 1,64,e0bc6fdc
+634,Timothee Pembele,DF,Bordeaux,fr Ligue 1,64,f8ce97ca
+635,Cristian Tello,FWMF,Betis,es La Liga,64,72a99e38
+636,Morten Thorsby,MF,Sampdoria,it Serie A,64,d1b49282
+637,Andi Zeqiri,FWMF,Augsburg,de Bundesliga,64,d01231f0
+638,Farid Boulaya,MFFW,Metz,fr Ligue 1,63,a0791826
+639,Jimmy Cabot,DF,Angers,fr Ligue 1,63,46359159
+640,Pavel Kadeřábek,DF,Hoffenheim,de Bundesliga,63,79c90e45
+641,Vital N'Simba,DF,Clermont Foot,fr Ligue 1,63,249ac66d
+642,Dani Olmo,MF,RB Leipzig,de Bundesliga,63,ae44e8e2
+643,Lucas Pérez,FWMF,Cádiz,es La Liga,63,a300ac7e
+644,Adrien Rabiot,MF,Juventus,it Serie A,63,8794e251
+645,Elvis Rexhbeçaj,MF,Bochum,de Bundesliga,63,1ae836b1
+646,Denis Suárez,MF,Celta Vigo,es La Liga,63,12c50af5
+647,Miguel Almirón,MFFW,Newcastle Utd,eng Premier League,62,862a1c15
+648,Quentin Boisgard,MFFW,Lorient,fr Ligue 1,62,f6496133
+649,Guido Carrillo,FW,Elche,es La Liga,62,8f898ba8
+650,Santi Comesaña,MF,Rayo Vallecano,es La Liga,62,5ae499d0
+651,Hugo Mallo,DF,Celta Vigo,es La Liga,62,cb574619
+652,Florian Niederlechner,FW,Augsburg,de Bundesliga,62,d6862409
+653,Fernando Niño,FW,Mallorca,es La Liga,62,81d5c497
+654,Simeon Nwankwo,FW,Salernitana,it Serie A,62,80dbbd10
+655,Jordan Veretout,MF,Roma,it Serie A,62,4a56052c
+656,Joe Willock,MF,Newcastle Utd,eng Premier League,62,a3b03921
+657,Andre-Frank Zambo Anguissa,MF,Napoli,it Serie A,62,6bb2c084
+658,Laurent Abergel,MF,Lorient,fr Ligue 1,61,31626657
+659,Abdoulaye Doucouré,MF,Everton,eng Premier League,61,02b29014
+660,Papu Gómez,MFFW,Sevilla,es La Liga,61,6e4df551
+661,Rico Henry,DF,Brentford,eng Premier League,61,8a3c1dc7
+662,Marcus Ingvartsen,FWMF,Mainz 05,de Bundesliga,61,271b8617
+663,Saša Lukić,MF,Torino,it Serie A,61,c6e8cf1f
+664,Ricardo Mangas,DF,Bordeaux,fr Ligue 1,61,eef2d8ce
+665,Jean-Philippe Mateta,FW,Crystal Palace,eng Premier League,61,50e6dc35
+666,Yunus Musah,MFFW,Valencia,es La Liga,61,b51b1b9c
+667,Nolito,MF,Celta Vigo,es La Liga,61,b2d0ec1b
+668,Dango Ouattara,MFFW,Lorient,fr Ligue 1,61,2f9e4435
+669,Rodri,MF,Manchester City,eng Premier League,61,6434f10d
+670,Rayan Aït Nouri,DF,Wolves,eng Premier League,60,9b398aea
+671,Bebé,FWMF,Rayo Vallecano,es La Liga,60,d8712bf9
+672,Andoni Gorosabel,DF,Real Sociedad,es La Liga,60,6f5f82c0
+673,Hans Hateboer,DF,Atalanta,it Serie A,60,3b333ac3
+674,Manuel Lanzini,MFFW,West Ham,eng Premier League,60,26f6dca8
+675,Pablo Maffeo,DF,Mallorca,es La Liga,60,5db04597
+676,Tyrick Mitchell,DF,Crystal Palace,eng Premier League,60,5cbd1eb0
+677,Jesús Navas,DF,Sevilla,es La Liga,60,3f10bd22
+678,Tommaso Pobega,MF,Torino,it Serie A,60,55a1cac2
+679,Paul Pogba,MFFW,Manchester Utd,eng Premier League,60,867239d3
+680,Nicola Sansone,FWMF,Bologna,it Serie A,60,7eb97a8e
+681,Adrien Truffert,DF,Rennes,fr Ligue 1,60,5d0e0a1f
+682,Marco Verratti,MF,Paris S-G,fr Ligue 1,60,1467af0d
+683,Adil Aouchiche,MFFW,Saint-Étienne,fr Ligue 1,59,b94b8be1
+684,Dani Carvajal,DF,Real Madrid,es La Liga,59,4958bfb2
+685,Stéphane Diarra,FWMF,Lorient,fr Ligue 1,59,29939a1d
+686,Iago,DF,Augsburg,de Bundesliga,59,054849d2
+687,Jonathan Ikone,MFFW,Lille,fr Ligue 1,59,42eaa028
+688,Nikola Kalinić,FW,Hellas Verona,it Serie A,59,d4931a5a
+689,Boubacar Kamara,MFDF,Marseille,fr Ligue 1,59,cc77354e
+690,John McGinn,MF,Aston Villa,eng Premier League,59,90f91999
+691,Jérôme Roussillon,DF,Wolfsburg,de Bundesliga,59,13203c45
+692,Kieran Tierney,DF,Arsenal,eng Premier League,59,fce2302c
+693,Granit Xhaka,MFDF,Arsenal,eng Premier League,59,e61b8aee
+694,Kevin Agudelo,MFFW,Spezia,it Serie A,58,46fa7204
+695,Janis Antiste,FW,Spezia,it Serie A,58,38d9ce53
+696,Bartosz Bereszyński,DF,Sampdoria,it Serie A,58,61b3978f
+697,Jóhann Berg Guðmundsson,MF,Burnley,eng Premier League,58,f72293fc
+698,Jean-Paul Boëtius,MF,Mainz 05,de Bundesliga,58,635f2732
+699,Matteo Darmian,DF,Inter,it Serie A,58,96e0490d
+700,Philipp Förster,FWMF,Stuttgart,de Bundesliga,58,76fa965f
+701,Manolo Gabbiadini,FWMF,Sampdoria,it Serie A,58,8f866fe8
+702,Grigoris Kastanos,MFFW,Salernitana,it Serie A,58,2a82aa85
+703,Pierre Lees-Melou,MF,Norwich City,eng Premier League,58,f5044e54
+704,Eduard Löwen,MF,Bochum,de Bundesliga,58,70678132
+705,Filippo Melegoni,FWMF,Genoa,it Serie A,58,6604165d
+706,Jacob Murphy,FWDF,Newcastle Utd,eng Premier League,58,de112b84
+707,Joakim Mæhle,DF,Atalanta,it Serie A,58,c459a650
+708,Lucas Pérez,FW,Elche,es La Liga,58,a300ac7e
+709,Ezequiel Ponce,FW,Elche,es La Liga,58,ccbbe661
+710,Antonio Sánchez,MFFW,Mallorca,es La Liga,58,a254bbe0
+711,Jeffrey Schlupp,MFFW,Crystal Palace,eng Premier League,58,3312f911
+712,Tomáš Souček,MF,West Ham,eng Premier League,58,6613c819
+713,Jurgen Ekkelenkamp,MFFW,Hertha BSC,de Bundesliga,57,73d6a176
+714,Ryan Fraser,FWMF,Newcastle Utd,eng Premier League,57,d56543a0
+715,Remo Freuler,MF,Atalanta,it Serie A,57,98d2c2c4
+716,Renan Lodi,DF,Atlético Madrid,es La Liga,57,ed9f7cfe
+717,Roberto Massimo,DFFW,Stuttgart,de Bundesliga,57,fc62fdf4
+718,Miguel,FWMF,Alavés,es La Liga,57,6763373d
+719,Kostas Tsimikas,DF,Liverpool,eng Premier League,57,f315ca93
+720,Paco Alcácer,FW,Villarreal,es La Liga,56,a7a9d95a
+721,Pierre-Emerick Aubameyang,FW,Arsenal,eng Premier League,56,d5dd5f1f
+722,Leon Bailey,FWMF,Aston Villa,eng Premier League,56,3a233281
+723,Timothy Castagne,DF,Leicester City,eng Premier League,56,197640fd
+724,Hélder Costa,MFFW,Valencia,es La Liga,56,f13d02a6
+725,Cucho,FWMF,Watford,eng Premier League,56,71b47ab9
+726,Genki Haraguchi,MF,Union Berlin,de Bundesliga,56,f24ea523
+727,Luca Netz,DF,M'Gladbach,de Bundesliga,56,e79269bd
+728,Pedri,MF,Barcelona,es La Liga,56,0d9b2d31
+729,Salvi,MFFW,Cádiz,es La Liga,56,405f267a
+730,Kamaldeen Sulemana,MFFW,Rennes,fr Ligue 1,56,a62f8bf1
+731,Asier Villalibre,FW,Athletic Club,es La Liga,56,57be54ec
+732,Lucas Alario,FW,Leverkusen,de Bundesliga,55,834d0be5
+733,Domen Črnigoj,MFDF,Venezia,it Serie A,55,22cd43d2
+734,Lucas Da Cunha,FWMF,Clermont Foot,fr Ligue 1,55,007faf7a
+735,Mahmoud Dahoud,MF,Dortmund,de Bundesliga,55,db4ed67b
+736,Cheick Doucouré,MF,Lens,fr Ligue 1,55,ce4f40c7
+737,Maximilian Eggestein,MF,Freiburg,de Bundesliga,55,beb882a8
+738,Angel Gomes,MFFW,Lille,fr Ligue 1,55,645a3363
+739,Ibrahima Koné,FW,Lorient,fr Ligue 1,55,04bb2b06
+740,Giorgos Kyriakopoulos,DFFW,Sassuolo,it Serie A,55,0a483542
+741,Valentino Livramento,DF,Southampton,eng Premier League,55,afed6722
+742,Stephan El Shaarawy,DFFW,Roma,it Serie A,55,d3aaad90
+743,Wilfried Singo,DF,Torino,it Serie A,55,8b609c34
+744,Son,DF,Levante,es La Liga,55,037dbd30
+745,David Alaba,DF,Real Madrid,es La Liga,54,05439de2
+746,César Azpilicueta,DF,Chelsea,eng Premier League,54,53cad200
+747,Mitchell van Bergen,FWMF,Reims,fr Ligue 1,54,0b2c9aec
+748,Lucas Digne,DF,Aston Villa,eng Premier League,54,1b84dbe1
+749,Leo Dubois,DF,Lyon,fr Ligue 1,54,ff0ab48c
+750,Vitaly Janelt,MF,Brentford,eng Premier League,54,8449d35e
+751,Manuel Lazzari,DF,Lazio,it Serie A,54,02caf6e0
+752,Sekou Mara,FW,Bordeaux,fr Ligue 1,54,3544641e
+753,Alex Oxlade-Chamberlain,MFFW,Liverpool,eng Premier League,54,38c7feef
+754,Manolo Portanova,FWMF,Genoa,it Serie A,54,c8c0dccd
+755,Nico Ribaudo,MFFW,Espanyol,es La Liga,54,ce8039aa
+756,Aitor Ruibal,FWDF,Betis,es La Liga,54,a55d8df5
+757,Louis Schaub,MFFW,Köln,de Bundesliga,54,b50ec54b
+758,Benno Schmitz,DF,Köln,de Bundesliga,54,ad00b1a8
+759,Renato Steffen,FWMF,Wolfsburg,de Bundesliga,54,dd669209
+760,Aurélien Tchouaméni,MF,Monaco,fr Ligue 1,54,4f255115
+761,Philippe Coutinho,MFFW,Barcelona,es La Liga,53,0ef89a37
+762,Romain Faivre,FWMF,Lyon,fr Ligue 1,53,745ca0a3
+763,Jeremie Frimpong,DF,Leverkusen,de Bundesliga,53,74f2e748
+764,Nicolás González,MF,Barcelona,es La Liga,53,2c56a792
+765,Stefan Lainer,DF,M'Gladbach,de Bundesliga,53,4aea5077
+766,Islam Slimani,FW,Lyon,fr Ligue 1,53,ffec9769
+767,Angelo Stiller,MF,Hoffenheim,de Bundesliga,53,3b1ed320
+768,Andreas Voglsammer,FWMF,Union Berlin,de Bundesliga,53,daa78200
+769,Matěj Vydra,FW,Burnley,eng Premier League,53,0d4ceb32
+770,Ashley Barnes,FW,Burnley,eng Premier League,52,2691c772
+771,Héctor Bellerín,DF,Betis,es La Liga,52,f874dd44
+772,Pedro Chirivella,MF,Nantes,fr Ligue 1,52,68a26d51
+773,Rominigue Kouamé,MF,Troyes,fr Ligue 1,52,86a2ba20
+774,Lebo Mothiba,FWMF,Troyes,fr Ligue 1,52,3eaf8817
+775,Pere Pons,MF,Alavés,es La Liga,52,29b61deb
+776,Rodrigo,FW,Betis,es La Liga,52,85bed4ee
+777,Abdelhamid Sabiri,MFFW,Sampdoria,it Serie A,52,4830e0af
+778,Wesley Saïd,FWMF,Lens,fr Ligue 1,52,90fcf472
+779,Davie Selke,FW,Hertha BSC,de Bundesliga,52,1238a3f9
+780,Aleix Vidal,DFMF,Espanyol,es La Liga,52,04965583
+781,Ruben Aguilar,DF,Monaco,fr Ligue 1,51,3dd738a1
+782,Mahdi Camara,MFDF,Saint-Étienne,fr Ligue 1,51,8577e60a
+783,Kieran Dowell,FWMF,Norwich City,eng Premier League,51,2f6ec02a
+784,Patrick Herrmann,DFFW,M'Gladbach,de Bundesliga,51,dfb6490a
+785,Pierre Højbjerg,MF,Tottenham,eng Premier League,51,8b04d6c1
+786,Adam Idah,FWMF,Norwich City,eng Premier League,51,291e3ec3
+787,Aaron Lennon,MF,Burnley,eng Premier League,51,2ff964a0
+788,Arne Maier,MF,Augsburg,de Bundesliga,51,ab700320
+789,Myziane Maolida,FWMF,Hertha BSC,de Bundesliga,51,706a60e1
+790,Gonzalo Melero,MF,Levante,es La Liga,51,3902e91b
+791,Gonçalo Paciência,FW,Eint Frankfurt,de Bundesliga,51,962e54cb
+792,Tonny Vilhena,MFFW,Espanyol,es La Liga,51,c7069d87
+793,Callum Wilson,FW,Newcastle Utd,eng Premier League,51,c596fcb0
+794,Amath,FWMF,Mallorca,es La Liga,50,f3b1d9a2
+795,Federico Chiesa,MFFW,Juventus,it Serie A,50,b0f7e36c
+796,Jaume Costa,DF,Mallorca,es La Liga,50,808d48f3
+797,Konrad De La Fuente,FWDF,Marseille,fr Ligue 1,50,4b77bb89
+798,Alessandro Deiola,MF,Cagliari,it Serie A,50,7f267d66
+799,Abdessamad Ezzalzouli,FWDF,Barcelona,es La Liga,50,bed68338
+800,Cedric Itten,FW,Greuther Fürth,de Bundesliga,50,ef233486
+801,Mathias Jensen,MF,Brentford,eng Premier League,50,0f134faf
+802,Lee Kangin,MFFW,Mallorca,es La Liga,50,8455ad90
+803,Ghislain Konan,DF,Reims,fr Ligue 1,50,6b2c894b
+804,Enock Mwepu,MFFW,Brighton,eng Premier League,50,1d5cab82
+805,Mathías Olivera,DF,Getafe,es La Liga,50,41c12f75
+806,Andrea Petagna,FW,Napoli,it Serie A,50,03f946ed
+807,Renato Sanches,MF,Lille,fr Ligue 1,50,032f894e
+808,Joe Scally,DF,M'Gladbach,de Bundesliga,50,236f02cd
+809,Ryan Sessegnon,DF,Tottenham,eng Premier League,50,6aa3e78b
+810,Óliver Torres,MFFW,Sevilla,es La Liga,50,58a9a4d9
+811,Nikola Vlašić,FWMF,West Ham,eng Premier League,50,aa8e289e
+812,Jean-Eudes Aholou,MF,Strasbourg,fr Ligue 1,49,48b28bfd
+813,Iván Balliu,DF,Rayo Vallecano,es La Liga,49,cee88597
+814,Kevin Behrens,FW,Union Berlin,de Bundesliga,49,30ae134d
+815,Karim Bellarabi,FWDF,Leverkusen,de Bundesliga,49,bee0bab1
+816,Gaetano Castrovilli,MF,Fiorentina,it Serie A,49,0728bebe
+817,Rodrigo De Paul,MF,Atlético Madrid,es La Liga,49,162efffd
+818,Leander Dendoncker,MF,Wolves,eng Premier League,49,5a7301ae
+819,Josan,DFMF,Elche,es La Liga,49,5b28b2f6
+820,Birger Meling,DF,Rennes,fr Ligue 1,49,70c52749
+821,Jorge Miramón,DF,Levante,es La Liga,49,7f4c7c9f
+822,Salomón Rondón,FW,Everton,eng Premier League,49,b318a643
+823,Marcel Sabitzer,MFDF,Bayern Munich,de Bundesliga,49,e280527c
+824,Dickson Abiama,FW,Greuther Fürth,de Bundesliga,48,cadd666a
+825,Thiago Alcántara,MF,Liverpool,eng Premier League,48,77e84962
+826,Nadiem Amiri,MFFW,Genoa,it Serie A,48,555d5edd
+827,Tommaso Augello,DF,Sampdoria,it Serie A,48,3cd3b384
+828,Igor Carioca,DF,Lorient,fr Ligue 1,48,e3e32fbb
+829,Lorenzo De Silvestri,DF,Bologna,it Serie A,48,e74f0e59
+830,Alexis Flips,FWMF,Reims,fr Ligue 1,48,caef7840
+831,Idrissa Gana Gueye,MF,Paris S-G,fr Ligue 1,48,72c812f3
+832,Luis Henrique,FWMF,Marseille,fr Ligue 1,48,f36d5624
+833,Ismail Jakobs,DFFW,Monaco,fr Ligue 1,48,a0415710
+834,Koke,MF,Atlético Madrid,es La Liga,48,55126f3b
+835,Viktor Kovalenko,MF,Spezia,it Serie A,48,9d60028d
+836,Fernando Marçal,DF,Wolves,eng Premier League,48,9ae9eaea
+837,Michael Olise,FWMF,Crystal Palace,eng Premier League,48,c4486bac
+838,Martin Satriano,FW,Brest,fr Ligue 1,48,86383d0e
+839,Xherdan Shaqiri,FWMF,Lyon,fr Ligue 1,48,6421ec64
+840,Salis Abdul Samed,MF,Clermont Foot,fr Ligue 1,47,82464ce3
+841,William Carvalho,MF,Betis,es La Liga,47,dee86451
+842,Francis Coquelin,MF,Villarreal,es La Liga,47,a6951bf8
+843,Vladimír Coufal,DF,West Ham,eng Premier League,47,fdf3cb77
+844,Davide Faraoni,DF,Hellas Verona,it Serie A,47,aae9d04a
+845,Junior Firpo,DF,Leeds United,eng Premier League,47,24f59bb2
+846,Tino Kadewere,FW,Lyon,fr Ligue 1,47,7d08063d
+847,Jean-Victor Makengo,MF,Udinese,it Serie A,47,22bfb57e
+848,Nuno Mendes,DF,Paris S-G,fr Ligue 1,47,f20e4cc9
+849,Sven Michel,FW,Union Berlin,de Bundesliga,47,1e274a0a
+850,Jeremy Toljan,DF,Sassuolo,it Serie A,47,a96e5dc0
+851,Mauro Arambarri,MF,Getafe,es La Liga,46,58afe001
+852,Andrea Cambiaso,DF,Genoa,it Serie A,46,247ed022
+853,Casemiro,MF,Real Madrid,es La Liga,46,4d224fe8
+854,Kalifa Coulibaly,FW,Nantes,fr Ligue 1,46,9980269a
+855,Mikkel Damsgaard,MFFW,Sampdoria,it Serie A,46,215f3907
+856,Radamel Falcao,FW,Rayo Vallecano,es La Liga,46,66116290
+857,Yayah Kallon,FWMF,Genoa,it Serie A,46,f95f49d2
+858,Ruben Loftus-Cheek,MFDF,Chelsea,eng Premier League,46,e97fd090
+859,José Luis Gayà,DF,Valencia,es La Liga,46,b05e2dbd
+860,Eric Maxim Choupo-Moting,FWMF,Bayern Munich,de Bundesliga,46,0e6bc38c
+861,Thomas Monconduit,MF,Lorient,fr Ligue 1,46,84d94b91
+862,Mihailo Ristić,DF,Montpellier,fr Ligue 1,46,ea0aa7e0
+863,Fábio Silva,FW,Wolves,eng Premier League,46,e7aa9d7c
+864,Roberto Soldado,FW,Levante,es La Liga,46,9d66fbe3
+865,Luca Waldschmidt,MFFW,Wolfsburg,de Bundesliga,46,e5a35ae9
+866,Ola Aina,DF,Torino,it Serie A,45,246d153b
+867,Ander Barrenetxea,FWMF,Real Sociedad,es La Liga,45,200e89e1
+868,Josh Brownhill,MF,Burnley,eng Premier League,45,47369df8
+869,José Campaña,MF,Levante,es La Liga,45,61220da2
+870,Maxence Caqueret,MF,Lyon,fr Ligue 1,45,f81ef10d
+871,Marcus Coco,FWDF,Nantes,fr Ligue 1,45,3010aefb
+872,Séamus Coleman,DF,Everton,eng Premier League,45,0420d84f
+873,Abdu Conté,DF,Troyes,fr Ligue 1,45,cfa49cc1
+874,Julian Draxler,FWMF,Paris S-G,fr Ligue 1,45,1a992676
+875,Lukas Kübler,DF,Freiburg,de Bundesliga,45,2a29eb9b
+876,João Moutinho,MF,Wolves,eng Premier League,45,f5a00fa4
+877,Pedro Neto,FWMF,Wolves,eng Premier League,45,7ba2eaa9
+878,Mads Pedersen,MFDF,Augsburg,de Bundesliga,45,582a5247
+879,Mathias Pereira Lage,DF,Angers,fr Ligue 1,45,8846a40f
+880,Abdón Prats,FW,Mallorca,es La Liga,45,d1b060e2
+881,Tetê,FWMF,Lyon,fr Ligue 1,45,7120a04d
+882,Simone Verdi,FWMF,Salernitana,it Serie A,45,0375723e
+883,Álex Cantero,FWMF,Levante,es La Liga,44,4aa253fd
+884,Rayan Cherki,FWMF,Lyon,fr Ligue 1,44,b34c63a5
+885,Éderson,MF,Salernitana,it Serie A,44,a9202def
+886,Jordan Ferri,MF,Montpellier,fr Ligue 1,44,375622c5
+887,Albert Guðmundsson,FWMF,Genoa,it Serie A,44,b79858d5
+888,Konrad Laimer,MF,RB Leipzig,de Bundesliga,44,c1b7847c
+889,Carlos Neva,DF,Granada,es La Liga,44,8d47bb39
+890,Romain Perraud,DF,Southampton,eng Premier League,44,6dfd8f05
+891,Gio Reyna,MF,Dortmund,de Bundesliga,44,7fa4e703
+892,Iván Alejo,MFFW,Cádiz,es La Liga,43,3d7e48ce
+893,Youcef Atal,DF,Nice,fr Ligue 1,43,6a827d8e
+894,Mitchel Bakker,DF,Leverkusen,de Bundesliga,43,a8567629
+895,Youcef Belaïli,MFFW,Brest,fr Ligue 1,43,1a248246
+896,Giulian Biancone,DF,Troyes,fr Ligue 1,43,de40e38c
+897,Edinson Cavani,FW,Manchester Utd,eng Premier League,43,527f063d
+898,Nicolás Domínguez,MF,Bologna,it Serie A,43,20b3a502
+899,Eberechi Eze,MFFW,Crystal Palace,eng Premier League,43,ae4fc6a4
+900,Julian Green,MF,Greuther Fürth,de Bundesliga,43,ad1d6fa4
+901,Yangel Herrera,MF,Espanyol,es La Liga,43,e778654a
+902,Curtis Jones,MF,Liverpool,eng Premier League,43,4fb9c88f
+903,Thomas Meunier,DF,Dortmund,de Bundesliga,43,e162b013
+904,Maximilian Mittelstädt,DFFW,Hertha BSC,de Bundesliga,43,88d4144a
+905,Krzysztof Piątek,FW,Fiorentina,it Serie A,43,17f3620a
+906,Ellyes Skhiri,MF,Köln,de Bundesliga,43,c2211709
+907,Anton Stach,MF,Mainz 05,de Bundesliga,43,0f59a7bf
+908,Kevin Stöger,MFFW,Mainz 05,de Bundesliga,43,e5649a78
+909,Stefano Sturaro,MF,Genoa,it Serie A,43,2334478a
+910,Nuno Tavares,DF,Arsenal,eng Premier League,43,a65c844b
+911,Lucas Torró,MF,Osasuna,es La Liga,43,0e4fef6e
+912,Daniel Bessa,MFFW,Hellas Verona,it Serie A,42,88895312
+913,Diogo Dalot,DF,Manchester Utd,eng Premier League,42,d9565625
+914,Kerem Demirbay,MF,Leverkusen,de Bundesliga,42,54b4dc4e
+915,Landry Dimata,FWMF,Espanyol,es La Liga,42,b5f63410
+916,Benjamin Henrichs,DF,RB Leipzig,de Bundesliga,42,0a89e877
+917,Jonathan Ikone,FW,Fiorentina,it Serie A,42,42eaa028
+918,Nemanja Maksimović,MF,Getafe,es La Liga,42,00b28772
+919,Joel Obi,MFDF,Salernitana,it Serie A,42,614c38fb
+920,Brian Oliván,DF,Mallorca,es La Liga,42,a3e4bf46
+921,Daniel Parejo,MF,Villarreal,es La Liga,42,7460ca0d
+922,Oleksandr Zinchenko,DF,Manchester City,eng Premier League,42,51cf8561
+923,Filip Đuričić,MFFW,Sassuolo,it Serie A,42,eccbe56a
+924,Max Aarons,DF,Norwich City,eng Premier League,41,774cf58b
+925,Fábio,DF,Nantes,fr Ligue 1,41,bc7b4580
+926,Fred,MF,Manchester Utd,eng Premier League,41,b853e0ad
+927,Gabriel Gudmundsson,DFMF,Lille,fr Ligue 1,41,d5d22a58
+928,Bruno Guimarães,MF,Lyon,fr Ligue 1,41,82518f62
+929,Oussama Idrissi,MF,Cádiz,es La Liga,41,34caa4b3
+930,Kristijan Jakić,MF,Eint Frankfurt,de Bundesliga,41,a8ee54ad
+931,Anthony Martial,FWMF,Sevilla,es La Liga,41,8b788c01
+932,Gonzalo Montiel,DF,Sevilla,es La Liga,41,374d5158
+933,Gastón Pereiro,FWMF,Cagliari,it Serie A,41,7ec7738e
+934,Carles Pérez,MFFW,Roma,it Serie A,41,a8f21b9f
+935,Roberto Torres,MFFW,Osasuna,es La Liga,41,d733aa38
+936,Melvin Bard,DF,Nice,fr Ligue 1,40,1ddbc7ca
+937,Anthony Caci,DF,Strasbourg,fr Ligue 1,40,0118c54c
+938,Eduardo Camavinga,MF,Real Madrid,es La Liga,40,7b9c2d84
+939,Matt Doherty,DF,Tottenham,eng Premier League,40,d557d734
+940,Sam Lammers,FW,Eint Frankfurt,de Bundesliga,40,c283ddef
+941,Maxime Lopez,MF,Sassuolo,it Serie A,40,20094685
+942,Pape Matar Sarr,MF,Metz,fr Ligue 1,40,feb5d972
+943,Gideon Mensah,DF,Bordeaux,fr Ligue 1,40,9bdd8118
+944,Luis Milla,MF,Granada,es La Liga,40,19c36442
+945,Benjamin Pavard,DF,Bayern Munich,de Bundesliga,40,45a03961
+946,Giuseppe Pezzella,DF,Atalanta,it Serie A,40,149c5f5d
+947,Rogério,DF,Sassuolo,it Serie A,40,10e7f486
+948,Oriol Romeu,MF,Southampton,eng Premier League,40,4b511457
+949,Baptiste Santamaria,MFDF,Rennes,fr Ligue 1,40,5e22e2a4
+950,Alex Telles,DF,Manchester Utd,eng Premier League,40,e73c9bb2
+951,Toma Bašić,MF,Lazio,it Serie A,39,80556f08
+952,Marcelo Brozović,MF,Inter,it Serie A,39,33b8d077
+953,Pierrick Capelle,MFDF,Angers,fr Ligue 1,39,79b2399c
+954,Álex Fernández,MF,Cádiz,es La Liga,39,aa677a35
+955,Hamadi Al Ghaddioui,FW,Stuttgart,de Bundesliga,39,5723931e
+956,Nicolas Haas,MF,Empoli,it Serie A,39,fa449bba
+957,Kouadio Koné,MF,M'Gladbach,de Bundesliga,39,86574238
+958,Óscar de Marcos,DF,Athletic Club,es La Liga,39,9f323c71
+959,Javier Pastore,MFFW,Elche,es La Liga,39,881ef58c
+960,Rafinha,MFFW,Real Sociedad,es La Liga,39,0c2ac3cb
+961,Sandro Tonali,MF,Milan,it Serie A,39,0db169ae
+962,Christopher Trimmel,DF,Union Berlin,de Bundesliga,39,056d2d95
+963,James Ward-Prowse,MF,Southampton,eng Premier League,39,3515d404
+964,Fodé Ballo-Touré,DF,Milan,it Serie A,38,f449640d
+965,Davide Calabria,DF,Milan,it Serie A,38,2146785a
+966,Ridgeciano Haps,DF,Venezia,it Serie A,38,c8d7131c
+967,Philippe Koffi,FW,Reims,fr Ligue 1,38,9f1c2822
+968,Karol Linetty,MFFW,Torino,it Serie A,38,d023d70f
+969,Unai López,MF,Rayo Vallecano,es La Liga,38,88050721
+970,Reinildo Mandava,DF,Lille,fr Ligue 1,38,c20bdcd7
+971,Scott McTominay,MF,Manchester Utd,eng Premier League,38,d93c2511
+972,Houboulang Mendes,DF,Lorient,fr Ligue 1,38,1545cf15
+973,Salih Özcan,MF,Köln,de Bundesliga,38,15413fa5
+974,Pablo Rosario,MF,Nice,fr Ligue 1,38,1a6b7ea4
+975,Alex Sandro,DF,Juventus,it Serie A,38,0d82903c
+976,Adama Traoré,FWDF,Barcelona,es La Liga,38,9a28eba4
+977,Xeka,MF,Lille,fr Ligue 1,38,f3600c02
+978,Nadir Zortea,DFMF,Salernitana,it Serie A,38,82598b71
+979,Patrick Bamford,FW,Leeds United,eng Premier League,37,93feac6e
+980,Haris Belkebla,MF,Brest,fr Ligue 1,37,2b1bed19
+981,Ansu Fati,FW,Barcelona,es La Liga,37,0ba976e4
+982,Óscar Gil,DF,Espanyol,es La Liga,37,6652cf96
+983,Lamine Gueye,MFFW,Metz,fr Ligue 1,37,9d5dcc23
+984,Jorginho,MF,Chelsea,eng Premier League,37,45db685d
+985,Luca Ranieri,DF,Salernitana,it Serie A,37,8c63fae5
+986,Paul Seguin,MF,Greuther Fürth,de Bundesliga,37,8872ed17
+987,Damián Suárez,DF,Getafe,es La Liga,37,ba5004e1
+988,Unai Vencedor Paris,MF,Athletic Club,es La Liga,37,4112ace5
+989,Nacho Vidal,DF,Osasuna,es La Liga,37,3a9c4b7b
+990,Aaron Wan-Bissaka,DF,Manchester Utd,eng Premier League,37,9e525177
+991,Shandon Baptiste,MF,Brentford,eng Premier League,36,2886c9b5
+992,Jeremie Boga,FWMF,Sassuolo,it Serie A,36,fe012aca
+993,Tom Cleverley,MF,Watford,eng Premier League,36,6cdd8245
+994,Fabinho,MF,Liverpool,eng Premier League,36,7f3b388c
+995,Nicholas Gioacchini,MFFW,Montpellier,fr Ligue 1,36,79ab7593
+996,Elseid Hysaj,DF,Lazio,it Serie A,36,2f3452eb
+997,Naby Keïta,MF,Liverpool,eng Premier League,36,f25c8e3a
+998,Mateo Klimowicz,FWMF,Stuttgart,de Bundesliga,36,2b7c56b4
+999,Manuel Locatelli,MF,Juventus,it Serie A,36,a8a874f1
+1000,Yvann Macon,DF,Saint-Étienne,fr Ligue 1,36,0bb6e193
+1001,Ayoze Pérez,MFFW,Leicester City,eng Premier League,36,819aa8e7
+1002,Stefano Sensi,MF,Sampdoria,it Serie A,36,b70bde8f
+1003,Khéphren Thuram-Ulie,MF,Nice,fr Ligue 1,36,7d9397f8
+1004,Ike Ugbo,FW,Troyes,fr Ligue 1,36,8a53d24b
+1005,Arthur,FW,Fiorentina,it Serie A,35,a820e429
+1006,Cédric Bakambu,FW,Marseille,fr Ligue 1,35,0af4dcf0
+1007,Ismaël Bennacer,MF,Milan,it Serie A,35,db092d3b
+1008,Jonny Castro,DF,Wolves,eng Premier League,35,e28868f3
+1009,Thierry Correia,DF,Valencia,es La Liga,35,c78b352d
+1010,Niko Gießelmann,DF,Union Berlin,de Bundesliga,35,7242b495
+1011,Samuel Kalu,FWMF,Bordeaux,fr Ligue 1,35,b8d22478
+1012,Rani Khedira,MF,Union Berlin,de Bundesliga,35,59e4b92e
+1013,Andrea La Mantia,FW,Empoli,it Serie A,35,c375dfa5
+1014,Louis Mafouta,FW,Metz,fr Ligue 1,35,bec3d251
+1015,Aarón Martín,DF,Mainz 05,de Bundesliga,35,2f3e911a
+1016,Casimir Ninga,FW,Angers,fr Ligue 1,35,91f2da4c
+1017,Jean Onana,MF,Bordeaux,fr Ligue 1,35,b5bb8188
+1018,Levin Öztunalı,MF,Union Berlin,de Bundesliga,35,66385c46
+1019,Declan Rice,MF,West Ham,eng Premier League,35,1c7012b8
+1020,Lukas Rupp,MF,Norwich City,eng Premier League,35,3faa1780
+1021,Ken Sema,MFFW,Watford,eng Premier League,35,1770bd68
+1022,Nathan Tella,MFFW,Southampton,eng Premier League,35,f1e94cd6
+1023,Kelvin Amian,DF,Spezia,it Serie A,34,bcc81786
+1024,Evann Guessand,FW,Nice,fr Ligue 1,34,b73f17f8
+1025,Jordan Lotomba,DF,Nice,fr Ligue 1,34,fc4cf6a7
+1026,Marcelo,DF,Real Madrid,es La Liga,34,603116a7
+1027,Óscar Melendo,MFFW,Espanyol,es La Liga,34,379652be
+1028,Quentin Merlin,DF,Nantes,fr Ligue 1,34,0bfca6a1
+1029,Christian Nørgaard,MF,Brentford,eng Premier League,34,df0a4c90
+1030,Quini,DF,Granada,es La Liga,34,7a538238
+1031,Petar Stojanović,DF,Empoli,it Serie A,34,13b44b02
+1032,Lucas Torreira,MF,Fiorentina,it Serie A,34,52611641
+1033,Nabil Bentaleb,MF,Angers,fr Ligue 1,33,3189f61a
+1034,Rémy Cabella,MFFW,Montpellier,fr Ligue 1,33,148e136f
+1035,Étienne Capoue,MF,Villarreal,es La Liga,33,5acc4a10
+1036,Anastasios Donis,FWMF,Reims,fr Ligue 1,33,0f26fd24
+1037,Harvey Elliott,MF,Liverpool,eng Premier League,33,c8387671
+1038,Pape Gueye,MF,Marseille,fr Ligue 1,33,7155e3e1
+1039,Toni Kroos,MF,Real Madrid,es La Liga,33,6ce1f46f
+1040,Grejohn Kyei,FW,Clermont Foot,fr Ligue 1,33,397ba086
+1041,Kevin Mbabu,DF,Wolfsburg,de Bundesliga,33,493924a7
+1042,Xaver Schlager,MF,Wolfsburg,de Bundesliga,33,8f056768
+1043,Carlos Akapo,DF,Cádiz,es La Liga,32,f2a68b97
+1044,Luke Ayling,DF,Leeds United,eng Premier League,32,420d7c7d
+1045,Rodrigo Bentancur,MF,Juventus,it Serie A,32,3b8674e6
+1046,Juan Bernat,DF,Paris S-G,fr Ligue 1,32,433dc9a2
+1047,Gianluca Busio,MF,Venezia,it Serie A,32,4a0b7f07
+1048,Fabien Centonze,DF,Metz,fr Ligue 1,32,3c6bbbab
+1049,Dylan Chambost,MFFW,Troyes,fr Ligue 1,32,dbde4959
+1050,Lassana Coulibaly,MF,Salernitana,it Serie A,32,85a44ecc
+1051,Mamadou Coulibaly,MF,Salernitana,it Serie A,32,c976160c
+1052,Jean-Kevin Duverne,DF,Brest,fr Ligue 1,32,0cbc8baa
+1053,Johan Gastien,MF,Clermont Foot,fr Ligue 1,32,868eaba0
+1054,Ander Herrera,MF,Paris S-G,fr Ligue 1,32,436a9dd0
+1055,Mateo Kovačić,MF,Chelsea,eng Premier League,32,79c0821a
+1056,Jean-Philippe Krasso,FW,Saint-Étienne,fr Ligue 1,32,037f2523
+1057,Dion Lopy,MF,Reims,fr Ligue 1,32,64c14d49
+1058,Abdul Majeed Waris,MFFW,Strasbourg,fr Ligue 1,32,46907171
+1059,Mert Müldür,DF,Sassuolo,it Serie A,32,1295552e
+1060,Adam Ounas,MFFW,Napoli,it Serie A,32,ed90babd
+1061,Luke Shaw,DF,Manchester Utd,eng Premier League,32,9c94165b
+1062,Lucas Tousart,MF,Hertha BSC,de Bundesliga,32,71ec39ef
+1063,Andriy Yarmolenko,FW,West Ham,eng Premier League,32,849c826a
+1064,Ragnar Ache,MFFW,Eint Frankfurt,de Bundesliga,31,dc38e3bc
+1065,Marc Albrighton,FWDF,Leicester City,eng Premier League,31,b827d5b3
+1066,Dele Alli,MFFW,Tottenham,eng Premier League,31,cea4ee8f
+1067,Darío Benedetto,FW,Elche,es La Liga,31,bef0a7ac
+1068,Ramy Bensebaini,DF,M'Gladbach,de Bundesliga,31,378825c7
+1069,Maxime Busi,DF,Reims,fr Ligue 1,31,7b082ec2
+1070,Álex Collado,MFFW,Granada,es La Liga,31,85dace26
+1071,Wylan Cyprien,MF,Nantes,fr Ligue 1,31,3e092724
+1072,Daniel Didavi,FWMF,Stuttgart,de Bundesliga,31,d3096421
+1073,Willem Geubbels,FWMF,Nantes,fr Ligue 1,31,9836e892
+1074,Saman Ghoddos,DFMF,Brentford,eng Premier League,31,f7b1d4e0
+1075,Mario Lemina,MF,Nice,fr Ligue 1,31,2b471f99
+1076,Jürgen Locadia,FWMF,Bochum,de Bundesliga,31,6cc47ae1
+1077,Anthony Losilla,MF,Bochum,de Bundesliga,31,07c7eb0c
+1078,Javi Martínez,MF,Osasuna,es La Liga,31,3672b352
+1079,Pablo Martínez,MF,Levante,es La Liga,31,ecc77652
+1080,James McArthur,MF,Crystal Palace,eng Premier League,31,cee31595
+1081,James Milner,MFDF,Liverpool,eng Premier League,31,2f90f6b8
+1082,Vedat Muriqi,FW,Lazio,it Serie A,31,0cadc46d
+1083,Nils Petersen,FWMF,Freiburg,de Bundesliga,31,f93e6e94
+1084,Ronaël Pierre-Gabriel,DF,Brest,fr Ligue 1,31,64ba07c0
+1085,Diadie Samassékou,MF,Hoffenheim,de Bundesliga,31,08593525
+1086,Andreas Skov Olsen,DFFW,Bologna,it Serie A,31,c50cee19
+1087,Augusto Solari,MFDF,Celta Vigo,es La Liga,31,3ca6106c
+1088,Djibril Sow,MF,Eint Frankfurt,de Bundesliga,31,4c6facae
+1089,Mamadou Sylla,FW,Alavés,es La Liga,31,e5ec95f8
+1090,Ádám Szalai,FW,Mainz 05,de Bundesliga,31,53e07d0b
+1091,Matt Targett,DF,Aston Villa,eng Premier League,31,e514ab62
+1092,Luke Thomas,DF,Leicester City,eng Premier League,31,fc027d02
+1093,Myrto Uzuni,MFFW,Granada,es La Liga,31,01da7812
+1094,José Luis García Vayá,MF,Levante,es La Liga,31,27dc1378
+1095,Matías Viña,DF,Roma,it Serie A,31,08eb3b58
+1096,Ashley Young,DFFW,Aston Villa,eng Premier League,31,be927d03
+1097,Lucien Agoume,MF,Brest,fr Ligue 1,30,8bc8829a
+1098,Serge Aurier,DF,Villarreal,es La Liga,30,5c2b4f07
+1099,Carlos Bacca,FW,Granada,es La Liga,30,09a9e921
+1100,Milan Badelj,MF,Genoa,it Serie A,30,e8c930bb
+1101,Alessandro Bastoni,DF,Inter,it Serie A,30,75b86fb3
+1102,Ben Chilwell,DF,Chelsea,eng Premier League,30,d2424d1b
+1103,Ben Davies,DF,Tottenham,eng Premier League,30,44781702
+1104,Jeremy Doku,FWMF,Rennes,fr Ligue 1,30,fffea3e5
+1105,Julien Faussurier,MFDF,Brest,fr Ligue 1,30,767212e6
+1106,Manu García,MF,Alavés,es La Liga,30,6ed1a2a2
+1107,Raúl Guti,MF,Elche,es La Liga,30,0b2c8585
+1108,Dominik Kohr,MF,Mainz 05,de Bundesliga,30,0fbecd11
+1109,Julen Lobete,FWMF,Real Sociedad,es La Liga,30,a952a529
+1110,Rolando Mandragora,MF,Torino,it Serie A,30,c7259b83
+1111,Anthony Martial,FW,Manchester Utd,eng Premier League,30,8b788c01
+1112,Tanguy Ndombele,MF,Tottenham,eng Premier League,30,5cdddffa
+1113,Amadou Onana,MF,Lille,fr Ligue 1,30,828657ff
+1114,Vincent Pajot,MF,Metz,fr Ligue 1,30,f86ca403
+1115,Facundo Pellistri,MFFW,Alavés,es La Liga,30,ac7e7b1c
+1116,Rubén Rochina,MFFW,Granada,es La Liga,30,ecd8c01e
+1117,Danilo Soares,DF,Bochum,de Bundesliga,30,c05f2f8c
+1118,Alberto Soro,MFFW,Granada,es La Liga,30,452c3055
+1119,Kieran Trippier,DF,Atlético Madrid,es La Liga,30,21512407
+1120,Kevin Vázquez,DF,Celta Vigo,es La Liga,30,ee923664
+1121,Kyle Walker,DF,Manchester City,eng Premier League,30,86dd77d1
+1122,Brandon Williams,DF,Norwich City,eng Premier League,30,5e74d6c8
+1123,Yusuf Yazıcı,MFFW,Lille,fr Ligue 1,30,f5c8b425
+1124,Mikel Balenziaga,DF,Athletic Club,es La Liga,29,1fe67e86
+1125,Jimmy Briand,FWMF,Bordeaux,fr Ligue 1,29,f83c8d6c
+1126,Sébastien Corchia,DF,Nantes,fr Ligue 1,29,0e7ccfc4
+1127,Aaron Cresswell,DF,West Ham,eng Premier League,29,4f974391
+1128,Alessandro Florenzi,DFFW,Milan,it Serie A,29,e288d4b3
+1129,Fransérgio,MF,Bordeaux,fr Ligue 1,29,deba6b05
+1130,Anwar El Ghazi,FWMF,Aston Villa,eng Premier League,29,ffa90327
+1131,Robert Gumny,DF,Augsburg,de Bundesliga,29,1df0c0b9
+1132,Jutglà,FW,Barcelona,es La Liga,29,2a9f6b4d
+1133,Kevin Kampl,MF,RB Leipzig,de Bundesliga,29,b825a650
+1134,Gaëtan Laborde,FW,Montpellier,fr Ligue 1,29,7cdda3bf
+1135,Banzouzi Locko,DFMF,Reims,fr Ligue 1,29,40221fa7
+1136,Douglas Luiz,MF,Aston Villa,eng Premier League,29,6f7d826d
+1137,Leonardo Mancuso,FW,Empoli,it Serie A,29,311027cb
+1138,Adam Marušić,DF,Lazio,it Serie A,29,d4535821
+1139,Ángel Montoro,MF,Granada,es La Liga,29,719384c1
+1140,Frank Onyeka,MF,Brentford,eng Premier League,29,2944f86f
+1141,Alberto Perea,MF,Cádiz,es La Liga,29,5496cc91
+1142,Riqui Puig,MF,Barcelona,es La Liga,29,f090a37a
+1143,Sebastian Rudy,MF,Hoffenheim,de Bundesliga,29,80f36c88
+1144,Oier Sanjurjo,MF,Osasuna,es La Liga,29,466824fb
+1145,Sambou Soumano,FW,Lorient,fr Ligue 1,29,7cc00776
+1146,Florian Tardieu,MF,Troyes,fr Ligue 1,29,ed39121c
+1147,Alexis Tibidi,FWMF,Stuttgart,de Bundesliga,29,ca6f4846
+1148,Takehiro Tomiyasu,DF,Arsenal,eng Premier League,29,b3af9be1
+1149,Ferrán Torres,FW,Manchester City,eng Premier League,29,9e1035f8
+1150,Christos Tzolis,FWMF,Norwich City,eng Premier League,29,9f333379
+1151,Valerio Verre,MFFW,Sampdoria,it Serie A,29,33ecf462
+1152,Oier Zarraga,MF,Athletic Club,es La Liga,29,968a1c2f
+1153,Arber Zeneli,FW,Reims,fr Ligue 1,29,095e4199
+1154,Noah Joel Sarenren Bazee,MFFW,Augsburg,de Bundesliga,28,fbbc8e15
+1155,Bilal Brahimi,MFFW,Nice,fr Ligue 1,28,02bcaf8e
+1156,Bilal Brahimi,FWDF,Angers,fr Ligue 1,28,02bcaf8e
+1157,Carlos Clerc,DF,Levante,es La Liga,28,33a61a52
+1158,Silvan Hefti,DF,Genoa,it Serie A,28,f8342731
+1159,Atakan Karazor,MF,Stuttgart,de Bundesliga,28,5762be5c
+1160,Sofian Kiyine,MFFW,Venezia,it Serie A,28,ce1806be
+1161,Juraj Kucka,MF,Watford,eng Premier League,28,5aaef9ef
+1162,Charalambos Lykogiannis,DF,Cagliari,it Serie A,28,5efc5389
+1163,Thomas Mangani,MF,Angers,fr Ligue 1,28,c801616a
+1164,Ricardo Pepi,FWMF,Augsburg,de Bundesliga,28,a2b1ed42
+1165,Nicolò Rovella,MF,Genoa,it Serie A,28,e58cbfd5
+1166,Nico Schulz,DF,Dortmund,de Bundesliga,28,fa274d97
+1167,Suso,FW,Sevilla,es La Liga,28,4e219ad2
+1168,Aster Vranckx,MF,Wolfsburg,de Bundesliga,28,f86cd5df
+1169,Danny Blum,FWMF,Bochum,de Bundesliga,27,eb61713c
+1170,Bryan Cristante,MF,Roma,it Serie A,27,16657b95
+1171,Mickaël Cuisance,MF,Venezia,it Serie A,27,5722eced
+1172,Dimitris Giannoulis,DF,Norwich City,eng Premier League,27,112c495e
+1173,John Guidetti,FWMF,Alavés,es La Liga,27,99bebd12
+1174,James Justin,DF,Leicester City,eng Premier League,27,fb614c44
+1175,Ansgar Knauff,DF,Eint Frankfurt,de Bundesliga,27,19a967ab
+1176,Wu Lei,FWMF,Espanyol,es La Liga,27,e3fabb0a
+1177,Marco Meyerhöfer,DF,Greuther Fürth,de Bundesliga,27,0b104510
+1178,Rúben Neves,MF,Wolves,eng Premier League,27,44bfb6c5
+1179,Darío Poveda,FWMF,Getafe,es La Liga,27,cbdf7d5c
+1180,Óscar Rodríguez Arnaiz,FWMF,Sevilla,es La Liga,27,19709006
+1181,Eddie Salcedo,MFFW,Spezia,it Serie A,27,0489bb30
+1182,Robert Skov,DFFW,Hoffenheim,de Bundesliga,27,ff98492b
+1183,Dávid Strelec,FWMF,Spezia,it Serie A,27,2cb9486d
+1184,Corentin Tolisso,MF,Bayern Munich,de Bundesliga,27,652d4c37
+1185,Zaydou Youssouf,MF,Saint-Étienne,fr Ligue 1,27,e2f9bb5f
+1186,Tolgay Arslan,MF,Udinese,it Serie A,26,963a328b
+1187,Federico Ceccherini,DF,Hellas Verona,it Serie A,26,d9624b51
+1188,Sergio Escudero,DFMF,Granada,es La Liga,26,b0616e3d
+1189,Salvador Ferrer,DFMF,Spezia,it Serie A,26,eb76987d
+1190,Munir El Haddadi,FWMF,Sevilla,es La Liga,26,8696bc90
+1191,Ajdin Hrustic,MF,Eint Frankfurt,de Bundesliga,26,1f2d714c
+1192,Joaquín,FWMF,Betis,es La Liga,26,4c5b14d2
+1193,Shane Long,FW,Southampton,eng Premier League,26,9f472354
+1194,Yohann Magnin,MFDF,Clermont Foot,fr Ligue 1,26,caa7aaea
+1195,Exequiel Palacios,MF,Leverkusen,de Bundesliga,26,e82adcab
+1196,Óscar Rodríguez Arnaiz,MFFW,Getafe,es La Liga,26,19709006
+1197,Arturo Vidal,MF,Inter,it Serie A,26,67cdbc0e
+1198,Santiago Ascacíbar,MF,Hertha BSC,de Bundesliga,25,e26fcca3
+1199,Felipe Caicedo,FW,Genoa,it Serie A,25,93b891d1
+1200,Adam Forshaw,MF,Leeds United,eng Premier League,25,9f1938ab
+1201,Pablo Galdames Millán,MF,Genoa,it Serie A,25,dd403465
+1202,Amadou Haidara,MF,RB Leipzig,de Bundesliga,25,92432bc6
+1203,Pierre-Yves Hamel,FW,Clermont Foot,fr Ligue 1,25,a99da9ec
+1204,Thilo Kehrer,DF,Paris S-G,fr Ligue 1,25,51dbeea9
+1205,Jules Koundé,DF,Sevilla,es La Liga,25,4d1666ff
+1206,Béni Makouana,FWMF,Montpellier,fr Ligue 1,25,654f49ca
+1207,Aleš Matějů,DF,Venezia,it Serie A,25,deb748c9
+1208,Juan Miranda,DF,Betis,es La Liga,25,ead61f73
+1209,Peter Pekarík,DF,Hertha BSC,de Bundesliga,25,c18d22f5
+1210,Sanjin Prcić,MF,Strasbourg,fr Ligue 1,25,51c30111
+1211,Omar Richards,DF,Bayern Munich,de Bundesliga,25,f9b1b7bf
+1212,Mads Roerslev,DF,Brentford,eng Premier League,25,57c94db2
+1213,Djibril Sidibé,DF,Monaco,fr Ligue 1,25,4c5b714f
+1214,Milan Škriniar,DF,Inter,it Serie A,25,30f5ffa9
+1215,Brandon Soppy,DFMF,Udinese,it Serie A,25,28f66c2e
+1216,Valerio Verre,MFFW,Empoli,it Serie A,25,33ecf462
+1217,Sargis Adamyan,FWMF,Hoffenheim,de Bundesliga,24,22919e97
+1218,Nadiem Amiri,MFFW,Leverkusen,de Bundesliga,24,555d5edd
+1219,Robert Andrich,MF,Leverkusen,de Bundesliga,24,e0b113a7
+1220,Timothy Chandler,DF,Eint Frankfurt,de Bundesliga,24,b3b7f5a6
+1221,Lucas Douath,MF,Saint-Étienne,fr Ligue 1,24,3cd7820a
+1222,Adrian Grbić,FWMF,Lorient,fr Ligue 1,24,4a987ffa
+1223,Fraser Hornby,FWMF,Reims,fr Ligue 1,24,29aee77c
+1224,Timothée Kolodziejczak,DF,Saint-Étienne,fr Ligue 1,24,ab096c6f
+1225,Habib Maïga,MFFW,Metz,fr Ligue 1,24,e768de1f
+1226,Marshall Munetsi,MFDF,Reims,fr Ligue 1,24,2acf0cd7
+1227,Aihen Muñoz,DF,Real Sociedad,es La Liga,24,228b0d9d
+1228,Ilija Nestorovski,FW,Udinese,it Serie A,24,b1236c63
+1229,Bastian Oczipka,DF,Union Berlin,de Bundesliga,24,d1661819
+1230,Iván Romero,FW,Sevilla,es La Liga,24,2fbe6af0
+1231,Youssouf Sabaly,DF,Betis,es La Liga,24,fbbb9269
+1232,Miguel Trauco,DF,Saint-Étienne,fr Ligue 1,24,e4b72e34
+1233,Mërgim Vojvoda,DF,Torino,it Serie A,24,be2706c0
+1234,Edon Zhegrova,MFFW,Lille,fr Ligue 1,24,34a88e3e
+1235,Martín Zubimendi,MF,Real Sociedad,es La Liga,24,3ee0dd59
+1236,Ross Barkley,MF,Chelsea,eng Premier League,23,3a24769f
+1237,Rodrigo Bentancur,MF,Tottenham,eng Premier League,23,3b8674e6
+1238,Denis Cheryshev,MF,Valencia,es La Liga,23,0ac94a23
+1239,Joris Chotard,MF,Montpellier,fr Ligue 1,23,7909ffa4
+1240,Mattia De Sciglio,DF,Juventus,it Serie A,23,ae4e2852
+1241,Kamory Doumbia,MFFW,Reims,fr Ligue 1,23,9226aa22
+1242,Christian Eriksen,MF,Brentford,eng Premier League,23,980522ec
+1243,Iñigo Ruiz de Galarreta,MF,Mallorca,es La Liga,23,91f7631f
+1244,Alberto Grassi,MF,Cagliari,it Serie A,23,6cc97b6a
+1245,Matheus Henrique,MF,Sassuolo,it Serie A,23,a2d9f138
+1246,Nicolas Jackson,FW,Villarreal,es La Liga,23,9c36ed83
+1247,Flavio Junior Bianchi,FWMF,Genoa,it Serie A,23,3ef965c1
+1248,Hassane Kamara,MFDF,Nice,fr Ligue 1,23,19a12bed
+1249,Giovani Lo Celso,MFFW,Tottenham,eng Premier League,23,d7553721
+1250,Batista Mendy,MFDF,Angers,fr Ligue 1,23,e472a6f6
+1251,Jean-Pierre Nsame,FW,Venezia,it Serie A,23,12e6d21a
+1252,Przemysław Płacheta,FWMF,Norwich City,eng Premier League,23,3c33f9d9
+1253,Nemanja Radoja,MF,Levante,es La Liga,23,b5dd3469
+1254,Charlie Taylor,DF,Burnley,eng Premier League,23,cc2d7ad5
+1255,Manu Vallejo,MFFW,Alavés,es La Liga,23,0bc4e720
+1256,Lorenzo Venuti,DF,Fiorentina,it Serie A,23,983ff2c7
+1257,Ashley Westwood,MF,Burnley,eng Premier League,23,495945ef
+1258,Tomás Alarcón,MF,Cádiz,es La Liga,22,99ea2ddd
+1259,Dele Alli,MF,Everton,eng Premier League,22,cea4ee8f
+1260,Bradley Barcola,FWMF,Lyon,fr Ligue 1,22,a0d55a09
+1261,Fran Beltrán,MF,Celta Vigo,es La Liga,22,ed5c5fa3
+1262,Kevin-Prince Boateng,MFFW,Hertha BSC,de Bundesliga,22,f4ec4fd0
+1263,Gonzalo Castro,MFFW,Arminia,de Bundesliga,22,68829001
+1264,Chiquinho,DFMF,Wolves,eng Premier League,22,dc6c2f02
+1265,Thomas Delaney,MF,Sevilla,es La Liga,22,fe641c1a
+1266,Rubén Duarte,DF,Alavés,es La Liga,22,1fe0492d
+1267,Albin Ekdal,MF,Sampdoria,it Serie A,22,f503ea63
+1268,Francesco Forte,FW,Venezia,it Serie A,22,69e11a01
+1269,Roberto Gagliardini,MF,Inter,it Serie A,22,ce30bfc8
+1270,Billy Gilmour,MF,Norwich City,eng Premier League,22,df10e27c
+1271,Henrique,DF,Lyon,fr Ligue 1,22,f28474a4
+1272,Iñigo Lekue,DF,Athletic Club,es La Liga,22,59b7d823
+1273,Sean Longstaff,MF,Newcastle Utd,eng Premier League,22,a2b105e0
+1274,Jordi Mboula,FW,Mallorca,es La Liga,22,4887118d
+1275,Arial Mendy,DFFW,Clermont Foot,fr Ligue 1,22,9f0f4b49
+1276,Takumi Minamino,FWMF,Liverpool,eng Premier League,22,f833a830
+1277,Toni Moya,MF,Alavés,es La Liga,22,9e098912
+1278,Krzysztof Piątek,FW,Hertha BSC,de Bundesliga,22,17f3620a
+1279,Connor Roberts,DF,Burnley,eng Premier League,22,24fae784
+1280,Roli Pereira de Sa,MF,Nantes,fr Ligue 1,22,60f58477
+1281,Lazar Samardzic,MF,Udinese,it Serie A,22,217c93a1
+1282,Ernesto Torregrossa,FW,Sampdoria,it Serie A,22,bf39bdec
+1283,Theo Walcott,MFFW,Southampton,eng Premier League,22,1ecb65be
+1284,Hannes Wolf,FWMF,M'Gladbach,de Bundesliga,22,be42a291
+1285,Mattia Zaccagni,MFFW,Hellas Verona,it Serie A,22,d85c238b
+1286,Dennis Appiah,DF,Nantes,fr Ligue 1,21,feb5d3ab
+1287,Maximilian Arnold,MF,Wolfsburg,de Bundesliga,21,86e119e0
+1288,Kristoffer Askildsen,MF,Sampdoria,it Serie A,21,a69cc629
+1289,Kristjan Asllani,MF,Empoli,it Serie A,21,0fdcef0e
+1290,Sardar Azmoun,FWMF,Leverkusen,de Bundesliga,21,10549b49
+1291,Rodrigo Becão,DF,Udinese,it Serie A,21,19e4eab9
+1292,Isaac Carcelen,DFMF,Cádiz,es La Liga,21,c4b888df
+1293,Lucas Digne,DF,Everton,eng Premier League,21,1b84dbe1
+1294,Wahidullah Faghir,FW,Stuttgart,de Bundesliga,21,93c9e7d9
+1295,Karol Fila,DF,Strasbourg,fr Ligue 1,21,50ac8941
+1296,Matthias Ginter,DF,M'Gladbach,de Bundesliga,21,f521b80a
+1297,Hernani,MFFW,Genoa,it Serie A,21,6f5ead86
+1298,Jason,MFFW,Alavés,es La Liga,21,9038c2a1
+1299,Luka Jović,FW,Real Madrid,es La Liga,21,4d8cd038
+1300,Tim Lemperle,FWMF,Köln,de Bundesliga,21,792ffa71
+1301,Mariano,FW,Real Madrid,es La Liga,21,5c4dc0ff
+1302,Loren Morón,FWMF,Espanyol,es La Liga,21,3aa4a3be
+1303,Sérgio Oliveira,MF,Roma,it Serie A,21,947e036f
+1304,Patrick Osterhage,MF,Bochum,de Bundesliga,21,9662c9ec
+1305,Cole Palmer,FWMF,Manchester City,eng Premier League,21,dc7f8a28
+1306,Danilo Pereira,MF,Paris S-G,fr Ligue 1,21,8fd9996f
+1307,Boubakary Soumaré,MF,Leicester City,eng Premier League,21,ae59b359
+1308,Bertrand Traoré,MFFW,Aston Villa,eng Premier League,21,c47541e0
+1309,Jesus Vazquez,DF,Valencia,es La Liga,21,106c142c
+1310,Emanuel Vignato,MFDF,Bologna,it Serie A,21,ec5dae45
+1311,Denis Zakaria,MFDF,M'Gladbach,de Bundesliga,21,384d58d9
+1312,Kevin Akpoguma,DF,Hoffenheim,de Bundesliga,20,6ec6fde0
+1313,Charles Aránguiz,MF,Leverkusen,de Bundesliga,20,56413b1f
+1314,Lorenz Assignon,DF,Rennes,fr Ligue 1,20,b026bbf6
+1315,Moussa Djenepo,MF,Southampton,eng Premier League,20,254147d4
+1316,Tyronne Ebuehi,DF,Venezia,it Serie A,20,6af30900
+1317,Gonzalo Escalante,MF,Alavés,es La Liga,20,3f79a1c8
+1318,Alfreð Finnbogason,FWMF,Augsburg,de Bundesliga,20,f9e7c4ac
+1319,Dani García,MF,Athletic Club,es La Liga,20,240d3a0b
+1320,Antoine Griezmann,FW,Barcelona,es La Liga,20,df69b544
+1321,Hugo Guillamón,MFDF,Valencia,es La Liga,20,f7c12fbf
+1322,Nicolas Höfler,MF,Freiburg,de Bundesliga,20,5d8e331f
+1323,Isco,MFFW,Real Madrid,es La Liga,20,a0b4bb3e
+1324,José Juan Macías,FWMF,Getafe,es La Liga,20,1f1c8a15
+1325,Felix Kalu Nmecha,MFFW,Wolfsburg,de Bundesliga,20,091c86e2
+1326,Silas Katompa,MFFW,Stuttgart,de Bundesliga,20,de4cac2d
+1327,Jesse Lingard,FWMF,Manchester Utd,eng Premier League,20,810e3c74
+1328,Azor Matusiwa,MF,Reims,fr Ligue 1,20,a17a94d6
+1329,Martín Montoya,DF,Betis,es La Liga,20,5cec2487
+1330,Loum Ndiaye,MF,Alavés,es La Liga,20,bcfc4473
+1331,Dan Ndoye,FWMF,Nice,fr Ligue 1,20,8e697a8f
+1332,Paul Nebel,MFFW,Mainz 05,de Bundesliga,20,1b6d8083
+1333,Jessic Ngankam,FW,Greuther Fürth,de Bundesliga,20,bc249af8
+1334,Saúl Ñíguez,MFDF,Chelsea,eng Premier League,20,c14bc029
+1335,Roberto Piccoli,FW,Atalanta,it Serie A,20,1cadaf34
+1336,Rafinha,FWMF,Paris S-G,fr Ligue 1,20,0c2ac3cb
+1337,Arkadiusz Reca,DF,Spezia,it Serie A,20,6213fd82
+1338,Nico Schlotterbeck,DF,Freiburg,de Bundesliga,20,34e12499
+1339,Salva Sevilla,MF,Mallorca,es La Liga,20,75bd85ea
+1340,Mikel Vesga,MF,Athletic Club,es La Liga,20,b0fce72c
+1341,Daniel Wass,MF,Valencia,es La Liga,20,d83bbc54
+1342,Simon Zoller,FW,Bochum,de Bundesliga,20,29f7cfd9
+1343,Martin Agirregabiria,DF,Alavés,es La Liga,19,355c883a
+1344,Allan,MF,Everton,eng Premier League,19,cc700722
+1345,Valon Berisha,MFFW,Reims,fr Ligue 1,19,d5575935
+1346,Bartosz Bialek,FW,Wolfsburg,de Bundesliga,19,763b8b37
+1347,Lucas Da Cunha,MF,Nice,fr Ligue 1,19,007faf7a
+1348,Andy Delort,FW,Montpellier,fr Ligue 1,19,d33c706e
+1349,Berat Djimsiti,DF,Atalanta,it Serie A,19,6eee05f1
+1350,Kiko Femenía,DF,Watford,eng Premier League,19,e5d01ecf
+1351,Dimitri Foulquier,DF,Valencia,es La Liga,19,45e17712
+1352,Fredrik Jensen,MFFW,Augsburg,de Bundesliga,19,3eeb80e0
+1353,Christopher Lenz,DF,Eint Frankfurt,de Bundesliga,19,bbd86530
+1354,Stanislav Lobotka,MF,Napoli,it Serie A,19,e1cbb531
+1355,Riccardo Marchizza,DF,Empoli,it Serie A,19,91d0fabf
+1356,Pasquale Mazzocchi,DF,Venezia,it Serie A,19,eb0ec070
+1357,Youssoufa Moukoko,FW,Dortmund,de Bundesliga,19,6ce43701
+1358,Nikolas Nartey,MFDF,Stuttgart,de Bundesliga,19,30261ba1
+1359,Helibelton Palacios,DF,Elche,es La Liga,19,ac8b2421
+1360,Luan Peres Petroni,DF,Marseille,fr Ligue 1,19,a5549ec1
+1361,Diego Rico,DF,Real Sociedad,es La Liga,19,d9ba39fc
+1362,Julian Ryerson,DF,Union Berlin,de Bundesliga,19,009a4f60
+1363,Rafiki Said Ahamada,MFFW,Brest,fr Ligue 1,19,c2e5f306
+1364,Kingsley Schindler,DFMF,Köln,de Bundesliga,19,bd527260
+1365,Jerdy Schouten,MF,Bologna,it Serie A,19,2cfae697
+1366,Nicolás Serrano,MF,Athletic Club,es La Liga,19,2ad0e5e5
+1367,Jordan Tell,FW,Clermont Foot,fr Ligue 1,19,4f093689
+1368,Tanner Tessmann,MF,Venezia,it Serie A,19,ac277993
+1369,Erik Thommy,DFFW,Stuttgart,de Bundesliga,19,df8e7b62
+1370,Tyler Adams,MF,RB Leipzig,de Bundesliga,18,2b09d998
+1371,Kristoffer Ajer,DF,Brentford,eng Premier League,18,a8c0acb7
+1372,Ludwig Augustinsson,DF,Sevilla,es La Liga,18,9fec8860
+1373,Todd Cantwell,FWMF,Norwich City,eng Premier League,18,f63d8a4b
+1374,Sergio Córdova,FWMF,Augsburg,de Bundesliga,18,229cd98a
+1375,Danilo D'Ambrosio,DF,Inter,it Serie A,18,44eb9093
+1376,Yusuf Demir,FW,Barcelona,es La Liga,18,fa265f6d
+1377,Fernando,MFDF,Sevilla,es La Liga,18,41f32541
+1378,Juan Foyth,DF,Villarreal,es La Liga,18,6c7762c3
+1379,Mario Gaspar,DF,Villarreal,es La Liga,18,fb5d47b3
+1380,Dennis Geiger,MF,Hoffenheim,de Bundesliga,18,37f606f0
+1381,Robin Gosens,DF,Atalanta,it Serie A,18,2d970560
+1382,Sam Greenwood,MFFW,Leeds United,eng Premier League,18,f3354c07
+1383,Piero Hincapié,DF,Leverkusen,de Bundesliga,18,0c7a48f8
+1384,Gian-Luca Itter,DF,Greuther Fürth,de Bundesliga,18,e6c15f6e
+1385,Ben Johnson,DF,West Ham,eng Premier League,18,9319781b
+1386,Enock Kwateng,DF,Bordeaux,fr Ligue 1,18,4bf69118
+1387,Isaac Lihadji,MFFW,Lille,fr Ligue 1,18,57a46f3f
+1388,Matthew Lowton,DF,Burnley,eng Premier League,18,9a9c05db
+1389,Javier Manquillo,DF,Newcastle Utd,eng Premier League,18,758dd7f0
+1390,Jonas Martin,MF,Rennes,fr Ligue 1,18,468fdbad
+1391,Nicola Murru,DF,Sampdoria,it Serie A,18,d183e9d6
+1392,Tanguy Ndombele,MF,Lyon,fr Ligue 1,18,5cdddffa
+1393,Felix Passlack,DF,Dortmund,de Bundesliga,18,5c899683
+1394,Pietro Pellegri,FW,Torino,it Serie A,18,a44d3a3c
+1395,Pablo Piatti,MFFW,Elche,es La Liga,18,48e89655
+1396,Reinier,FWMF,Dortmund,de Bundesliga,18,6b21b7b5
+1397,Samuele Ricci,MF,Empoli,it Serie A,18,9823be92
+1398,Jonathan Schmid,DF,Freiburg,de Bundesliga,18,088ca1bd
+1399,Matt Targett,DF,Newcastle Utd,eng Premier League,18,e514ab62
+1400,Sada Thioub,DF,Saint-Étienne,fr Ligue 1,18,f4bc42b1
+1401,Dani Alves,DF,Barcelona,es La Liga,17,c9e99e49
+1402,Simon Asta,DF,Greuther Fürth,de Bundesliga,17,dfc85b89
+1403,Hatem Ben Arfa,FWMF,Lille,fr Ligue 1,17,74dc806c
+1404,Yuri Berchiche,DF,Athletic Club,es La Liga,17,b6e50615
+1405,Francesco Caputo,FW,Sassuolo,it Serie A,17,5bd72174
+1406,Carney Chukwuemeka,MFFW,Aston Villa,eng Premier League,17,b2f9c73e
+1407,Alexis Claude-Maurice,MF,Nice,fr Ligue 1,17,741418c3
+1408,Ebrima Colley,FWMF,Spezia,it Serie A,17,bf356094
+1409,Nicolas Cozza,DF,Montpellier,fr Ligue 1,17,8f325097
+1410,Krepin Diatta,MFDF,Monaco,fr Ligue 1,17,8104e41e
+1411,Marcus Forss,FWMF,Brentford,eng Premier League,17,82c215a0
+1412,Josuha Guilavogui,MFDF,Bordeaux,fr Ligue 1,17,e6c43eec
+1413,Abdou Harroui,MF,Sassuolo,it Serie A,17,65fd099c
+1414,Kaio Jorge,MFFW,Juventus,it Serie A,17,0cf465f2
+1415,Pierre Kalulu,DF,Milan,it Serie A,17,85f7d1be
+1416,Thibault Klidje,DFFW,Bordeaux,fr Ligue 1,17,db013c7d
+1417,Ainsley Maitland-Niles,DF,Roma,it Serie A,17,e3a5814e
+1418,Eliot Matazo,MF,Monaco,fr Ligue 1,17,15944afd
+1419,Roberto Navarro,MFFW,Real Sociedad,es La Liga,17,c997b942
+1420,Divock Origi,FW,Liverpool,eng Premier League,17,43a166b4
+1421,Fabiano Parisi,DF,Empoli,it Serie A,17,0967845b
+1422,Kalvin Phillips,MF,Leeds United,eng Premier League,17,4f565d77
+1423,Uroš Račić,MF,Valencia,es La Liga,17,faed84db
+1424,Tomás Rincón,MF,Sampdoria,it Serie A,17,f1cfc209
+1425,Sebastian Rode,MF,Eint Frankfurt,de Bundesliga,17,e12b0b5b
+1426,Marten de Roon,MFDF,Atalanta,it Serie A,17,2a1beb34
+1427,Antonio Rüdiger,DF,Chelsea,eng Premier League,17,18b896d6
+1428,Albert Sambi Lokonga,MF,Arsenal,eng Premier League,17,1b4f1169
+1429,Issouf Sissokho,MF,Bordeaux,fr Ligue 1,17,792a9d41
+1430,Josip Stanišić,DF,Bayern Munich,de Bundesliga,17,7ed08d5c
+1431,Óscar Valentín,MF,Rayo Vallecano,es La Liga,17,592f3158
+1432,Walace,MF,Udinese,it Serie A,17,26db8853
+1433,Sergio Agüero,FW,Barcelona,es La Liga,16,4d034881
+1434,Ethan Ampadu,MFDF,Venezia,it Serie A,16,10b9fa99
+1435,Matias Arezo,FW,Granada,es La Liga,16,484ebdb0
+1436,Marco Benassi,MF,Empoli,it Serie A,16,0000acda
+1437,Martin Braithwaite,FW,Barcelona,es La Liga,16,fd771f95
+1438,Brian Brobbey,FW,RB Leipzig,de Bundesliga,16,4c184730
+1439,Cédric Brunner,DF,Arminia,de Bundesliga,16,f0a37d36
+1440,Jamie Bynoe-Gittens,FW,Dortmund,de Bundesliga,16,10745192
+1441,Jovane Cabral,FW,Lazio,it Serie A,16,e34e086c
+1442,Sacha Delaye,MFFW,Montpellier,fr Ligue 1,16,e4448c8c
+1443,Ibrahima Diallo,MF,Southampton,eng Premier League,16,11ff3d56
+1444,Fernandinho,MFDF,Manchester City,eng Premier League,16,101da2b5
+1445,Ben Godfrey,DF,Everton,eng Premier League,16,9f7c837d
+1446,Gerard Gumbau,MF,Elche,es La Liga,16,ac454a4f
+1447,Janik Haberer,MF,Freiburg,de Bundesliga,16,70dcf94d
+1448,Massadio Haïdara,DF,Lens,fr Ligue 1,16,5167c97e
+1449,Hassane Kamara,DF,Watford,eng Premier League,16,19a12bed
+1450,Philipp Klement,MFFW,Stuttgart,de Bundesliga,16,0cddeaa7
+1451,Youssouf Koné,DF,Troyes,fr Ligue 1,16,e6eadfb8
+1452,Imran Louza,MF,Watford,eng Premier League,16,e1df6989
+1453,Deiver Machado,DF,Lens,fr Ligue 1,16,b3f8bdef
+1454,Reinildo Mandava,DF,Atlético Madrid,es La Liga,16,c20bdcd7
+1455,Arthur Melo,MF,Juventus,it Serie A,16,48b3dd60
+1456,Samuel Moutoussamy,MF,Nantes,fr Ligue 1,16,af0c835b
+1457,Kike Pérez,FWMF,Elche,es La Liga,16,237a3851
+1458,Bakary Sako,FWMF,Saint-Étienne,fr Ligue 1,16,381d7d54
+1459,Arnór Sigurðsson,MFFW,Venezia,it Serie A,16,f209b81e
+1460,Jere Uronen,DF,Brest,fr Ligue 1,16,d75f3980
+1461,Vitolo,MFFW,Getafe,es La Liga,16,db750822
+1462,Nicola Zalewski,DF,Roma,it Serie A,16,45191c29
+1463,Rubén Alcaraz,MF,Cádiz,es La Liga,15,036bba5f
+1464,Cristian Ansaldi,DF,Torino,it Serie A,15,bbafc0c4
+1465,Stefan Bell,DF,Mainz 05,de Bundesliga,15,857a5abe
+1466,Yves Bissouma,MF,Brighton,eng Premier League,15,6c203af0
+1467,Danilo,DFMF,Juventus,it Serie A,15,94b2001f
+1468,Enric Franquesa,DF,Levante,es La Liga,15,40883e3a
+1469,Andrei Girotto,DFMF,Nantes,fr Ligue 1,15,3befc2b6
+1470,Ander Guevara,MF,Real Sociedad,es La Liga,15,8e48dc61
+1471,Daniel James,FW,Manchester Utd,eng Premier League,15,c931d9f9
+1472,Corentin Jean,FWDF,Lens,fr Ligue 1,15,7d9b37bf
+1473,Jens Jønsson,MF,Cádiz,es La Liga,15,53520a67
+1474,Lukas Klostermann,DF,RB Leipzig,de Bundesliga,15,ca8033cb
+1475,Sead Kolašinac,DF,Marseille,fr Ligue 1,15,3935e52e
+1476,Hianga Mananga Mbock,MF,Brest,fr Ligue 1,15,0f86995c
+1477,Pasquale Mazzocchi,DF,Salernitana,it Serie A,15,eb0ec070
+1478,Óscar Mingueza,DF,Barcelona,es La Liga,15,056269d7
+1479,Ricardo Pereira,DF,Leicester City,eng Premier League,15,75a72a99
+1480,Roberto Piccoli,FW,Genoa,it Serie A,15,1cadaf34
+1481,Dani Raba,MFFW,Villarreal,es La Liga,15,ea6a7ab4
+1482,Mamadou Sylla,FWMF,Rayo Vallecano,es La Liga,15,e5ec95f8
+1483,Boubacar Traoré,MF,Metz,fr Ligue 1,15,999ceb5f
+1484,Sebastian Vasiliadis,MF,Arminia,de Bundesliga,15,d3112d86
+1485,Miguel Veloso,MF,Hellas Verona,it Serie A,15,ab1ca213
+1486,Joël Veltman,DF,Brighton,eng Premier League,15,dad4b285
+1487,Joseba Zaldúa,DF,Real Sociedad,es La Liga,15,5ca20b7a
+1488,Gareth Bale,FW,Real Madrid,es La Liga,14,a58bb1e1
+1489,Keidi Bare,MF,Espanyol,es La Liga,14,03049c8c
+1490,Herbert Bockhorn,DF,Bochum,de Bundesliga,14,5ad8c360
+1491,Yannick Cahuzac,MF,Lens,fr Ligue 1,14,677ee102
+1492,Jens Cajuste,MF,Reims,fr Ligue 1,14,928a4a61
+1493,Emre Can,DFMF,Dortmund,de Bundesliga,14,a65ce836
+1494,Mohamed Fares,DFFW,Genoa,it Serie A,14,b7a5bc86
+1495,Robin Gosens,DF,Inter,it Serie A,14,2d970560
+1496,Bruno Guimarães,MF,Newcastle Utd,eng Premier League,14,82518f62
+1497,Héctor Herrera,MF,Atlético Madrid,es La Liga,14,a8542814
+1498,Jonathan Iglesias,MF,Clermont Foot,fr Ligue 1,14,639ca1cf
+1499,Danylo Ihnatenko,MF,Bordeaux,fr Ligue 1,14,65bbfba3
+1500,Marin Jakoliš,FW,Angers,fr Ligue 1,14,96f4ebc0
+1501,Jakub Jankto,DFMF,Getafe,es La Liga,14,1ea5f91c
+1502,Dennis Jastrzembski,DFFW,Hertha BSC,de Bundesliga,14,6bba916f
+1503,Wajdi Kechrida,DFMF,Salernitana,it Serie A,14,11962fe7
+1504,Robin Koch,MFDF,Leeds United,eng Premier League,14,ea6bc03a
+1505,Omar Mascarell,MF,Elche,es La Liga,14,11fd2b75
+1506,Juan Mata,MF,Manchester Utd,eng Premier League,14,29733c72
+1507,Jan Morávek,MF,Augsburg,de Bundesliga,14,e7d22eae
+1508,Nani,FWMF,Venezia,it Serie A,14,15e9c7e6
+1509,Papa Ndiaga Yade,DFMF,Metz,fr Ligue 1,14,87e9c7cd
+1510,Yvan Neyou,MF,Saint-Étienne,fr Ligue 1,14,0ad37003
+1511,Hugo Novoa,MFFW,RB Leipzig,de Bundesliga,14,5458f670
+1512,Ambroise Oyongo,DF,Montpellier,fr Ligue 1,14,e3e05edf
+1513,Thomas Partey,MF,Arsenal,eng Premier League,14,529f49ab
+1514,Luca Pellegrini,DF,Juventus,it Serie A,14,3b61c9ec
+1515,Marvin Plattenhardt,DF,Hertha BSC,de Bundesliga,14,f7aa75bd
+1516,Stefano Sensi,MF,Inter,it Serie A,14,b70bde8f
+1517,Jamie Shackleton,DFMF,Leeds United,eng Premier League,14,8d03ca5a
+1518,Adrien Silva,MF,Sampdoria,it Serie A,14,d6f88a1d
+1519,Ozan Tufan,MF,Watford,eng Premier League,14,17d45fb2
+1520,Matías Vecino,MF,Inter,it Serie A,14,44ac04e9
+1521,Joel Ward,DF,Crystal Palace,eng Premier League,14,8a7ff278
+1522,Denis Zakaria,MF,Juventus,it Serie A,14,384d58d9
+1523,Youssouph Badji,FW,Brest,fr Ligue 1,13,6a2b9aee
+1524,Jacob Barrett Laursen,DF,Arminia,de Bundesliga,13,c0d3bd23
+1525,Bryan,FWMF,Tottenham,eng Premier League,13,7b5ab7f2
+1526,Mathieu Cafaro,FWMF,Reims,fr Ligue 1,13,2a657da0
+1527,Max Christiansen,MF,Greuther Fürth,de Bundesliga,13,e7b899b8
+1528,Pathé Ciss,MF,Rayo Vallecano,es La Liga,13,9a0408b6
+1529,Fabio Depaoli,DF,Hellas Verona,it Serie A,13,d97f2e8d
+1530,Raphael Framberger,DF,Augsburg,de Bundesliga,13,626fab5f
+1531,Florian Grillitsch,DFMF,Hoffenheim,de Bundesliga,13,ffbbc83b
+1532,Joško Gvardiol,DF,RB Leipzig,de Bundesliga,13,5ad50391
+1533,Mario Hermoso,DF,Atlético Madrid,es La Liga,13,555f3a0b
+1534,Jannes Horn,DF,Köln,de Bundesliga,13,2b83fa49
+1535,Vicente Iborra,MF,Villarreal,es La Liga,13,ad1ffcfd
+1536,Léo Leroy,MF,Montpellier,fr Ligue 1,13,fcc84a07
+1537,Mickael Malsa,MF,Levante,es La Liga,13,bbc19252
+1538,Facundo Medina,DF,Lens,fr Ligue 1,13,6f5ec8bb
+1539,Thiago Mendes,MFDF,Lyon,fr Ligue 1,13,c6e5d20f
+1540,Fabio Miretti,MF,Juventus,it Serie A,13,34693494
+1541,Ilaix Moriba,MF,Valencia,es La Liga,13,f4c69aa6
+1542,Lys Mousset,FWMF,Salernitana,it Serie A,13,d9cfca3d
+1543,Tomás Pina Isla,MF,Alavés,es La Liga,13,e54bd0a2
+1544,Ethan Pinnock,DF,Brentford,eng Premier League,13,e541326e
+1545,Tobias Raschl,MF,Greuther Fürth,de Bundesliga,13,bd992863
+1546,Jeff Reine-Adélaïde,MF,Lyon,fr Ligue 1,13,d504b3e1
+1547,Matt Ritchie,DF,Newcastle Utd,eng Premier League,13,71ef519e
+1548,Ricardo Rodríguez,DF,Torino,it Serie A,13,7f78ad23
+1549,Marko Rog,MF,Cagliari,it Serie A,13,b6b2b820
+1550,Jon Rowe,FWMF,Norwich City,eng Premier League,13,8c12f884
+1551,Oliver Skipp,MF,Tottenham,eng Premier League,13,6250083a
+1552,Crysencio Summerville,MFFW,Leeds United,eng Premier League,13,df04eb4b
+1553,Jetro Willems,DF,Greuther Fürth,de Bundesliga,13,9050ddc4
+1554,Yunis Abdelhamid,DF,Reims,fr Ligue 1,12,32c2d95f
+1555,Jean-Daniel Akpa-Akpro,MF,Lazio,it Serie A,12,fdf4b948
+1556,Santiago Arzamendia,MFDF,Cádiz,es La Liga,12,759d8dd7
+1557,Riccardo Ciervo,MFDF,Sampdoria,it Serie A,12,da77b60b
+1558,Brandon Domingues,MFFW,Troyes,fr Ligue 1,12,2a00c6c0
+1559,Luca Fiordilino,MF,Venezia,it Serie A,12,9bb1ad91
+1560,Joe Gomez,DF,Liverpool,eng Premier League,12,7a11550b
+1561,Jonjoe Kenny,DF,Everton,eng Premier League,12,099e666f
+1562,Maxence Lacroix,DF,Wolfsburg,de Bundesliga,12,277c49ed
+1563,Paul Lasne,MF,Brest,fr Ligue 1,12,542cc80f
+1564,Javier Llabrés,FWMF,Mallorca,es La Liga,12,38b0cf42
+1565,Marquinhos,DF,Paris S-G,fr Ligue 1,12,d5f2f82b
+1566,Dion Moise Sahi,FWMF,Strasbourg,fr Ligue 1,12,cdc4458b
+1567,Aimen Moueffek,MF,Saint-Étienne,fr Ligue 1,12,2591b066
+1568,Wilfred Ndidi,MFDF,Leicester City,eng Premier League,12,6b47c5db
+1569,Paulo Otávio,DF,Wolfsburg,de Bundesliga,12,1cbe4984
+1570,Rubén Peña,MFFW,Villarreal,es La Liga,12,1f079188
+1571,Diego Perotti,FWMF,Salernitana,it Serie A,12,a40d5a0c
+1572,Sergi Roberto,MFDF,Barcelona,es La Liga,12,335fa267
+1573,Japhet Tanganga,DF,Tottenham,eng Premier League,12,e9971f2d
+1574,James Tarkowski,DF,Burnley,eng Premier League,12,15ea812b
+1575,Arthur Theate,DF,Bologna,it Serie A,12,df8d6029
+1576,Harry Winks,MF,Tottenham,eng Premier League,12,2f7acede
+1577,Axel Witsel,MFDF,Dortmund,de Bundesliga,12,5dfc6ad5
+1578,Martin Adeline,MFFW,Reims,fr Ligue 1,11,7587446d
+1579,José Ángel,DF,Osasuna,es La Liga,11,3024e383
+1580,Antonio Barragán,DF,Elche,es La Liga,11,487d9b09
+1581,Amine Bassi,MF,Metz,fr Ligue 1,11,ced1d98f
+1582,Daniel Brosinski,DF,Mainz 05,de Bundesliga,11,a7813ac4
+1583,Sam Byram,DF,Norwich City,eng Premier League,11,1bf811d4
+1584,Samu Castillejo,FWMF,Milan,it Serie A,11,130a7a3f
+1585,Danilo Cataldi,MF,Lazio,it Serie A,11,ba3d3bea
+1586,Dani Ceballos,MF,Real Madrid,es La Liga,11,c0617e2b
+1587,Nathaniel Clyne,DF,Crystal Palace,eng Premier League,11,0442183b
+1588,Jack Cork,MF,Burnley,eng Premier League,11,74e12f1e
+1589,Mitchell Dijks,DF,Bologna,it Serie A,11,0a3065c8
+1590,Erik Durm,DF,Eint Frankfurt,de Bundesliga,11,cf623c78
+1591,Andrés Guardado,MF,Betis,es La Liga,11,ef322658
+1592,Daan Heymans,MFFW,Venezia,it Serie A,11,6d70c771
+1593,Matthew Hoppe,FW,Mallorca,es La Liga,11,1bc432b7
+1594,Oussama Idrissi,FWMF,Sevilla,es La Liga,11,34caa4b3
+1595,Samuel Kalu,FW,Watford,eng Premier League,11,b8d22478
+1596,Denso Kasius,DF,Bologna,it Serie A,11,7ae36711
+1597,Fabian Kunze,MF,Arminia,de Bundesliga,11,d25fee56
+1598,Anderson Lucoqui,DF,Mainz 05,de Bundesliga,11,5569bf9a
+1599,Florentino Luís,MF,Getafe,es La Liga,11,881cd6be
+1600,Hugo Magnetti,MF,Brest,fr Ligue 1,11,d4d35152
+1601,Arthur Masuaku,DFFW,West Ham,eng Premier League,11,57df7a11
+1602,Raúl Moro,FW,Lazio,it Serie A,11,919dd4b1
+1603,Vitaliy Mykolenko,DF,Everton,eng Premier League,11,30d4a2e5
+1604,Stefan Posch,DF,Hoffenheim,de Bundesliga,11,7f609bfc
+1605,José Pozo,MF,Rayo Vallecano,es La Liga,11,fc8b614b
+1606,Afimico Pululu,FW,Greuther Fürth,de Bundesliga,11,32c016f8
+1607,Karim Rekik,DF,Sevilla,es La Liga,11,3376a776
+1608,Morgan Schneiderlin,MF,Nice,fr Ligue 1,11,51b41c5c
+1609,Pascal Struijk,DF,Leeds United,eng Premier League,11,f4d296e4
+1610,Niklas Süle,DF,Bayern Munich,de Bundesliga,11,e33c06cf
+1611,Cheikh Tidiane Sabaly,FWMF,Metz,fr Ligue 1,11,9ddf7fae
+1612,Almamy Touré,DF,Eint Frankfurt,de Bundesliga,11,c8c60119
+1613,Ronaldo Vieira,MF,Sampdoria,it Serie A,11,75e60d75
+1614,Simone Zaza,FWMF,Torino,it Serie A,11,9592289a
+1615,Francesco Acerbi,DF,Lazio,it Serie A,10,b96b595c
+1616,Florin Andone,FW,Cádiz,es La Liga,10,dc008610
+1617,Santiago Arias,DF,Granada,es La Liga,10,fdd60087
+1618,Daniele Baselli,MF,Cagliari,it Serie A,10,ea06dd97
+1619,Domagoj Bradarić,DFMF,Lille,fr Ligue 1,10,8bbe2df5
+1620,Danny da Costa,DF,Eint Frankfurt,de Bundesliga,10,5ddb8f9f
+1621,Enzo Crivelli,FWMF,Saint-Étienne,fr Ligue 1,10,06f33dc8
+1622,Abdou Diallo,DF,Paris S-G,fr Ligue 1,10,fc62f087
+1623,Keita Endo,MFFW,Union Berlin,de Bundesliga,10,1a83027b
+1624,José Fonte,DF,Lille,fr Ligue 1,10,90f87966
+1625,Silvère Ganvoula M'Boussy,FW,Bochum,de Bundesliga,10,6c731625
+1626,Paolo Ghiglione,DF,Genoa,it Serie A,10,71dc23da
+1627,André Gomes,MF,Everton,eng Premier League,10,1961b2aa
+1628,Jeffrey Gouweleeuw,DF,Augsburg,de Bundesliga,10,1025db8e
+1629,Isaac Hayden,MFDF,Newcastle Utd,eng Premier League,10,c951a6df
+1630,Suk Hyun-jun,FWMF,Troyes,fr Ligue 1,10,7ffaf233
+1631,Burak İnce,FW,Arminia,de Bundesliga,10,683dec01
+1632,Mato Jajalo,MF,Udinese,it Serie A,10,8c65eb5f
+1633,Lago Junior,FWMF,Mallorca,es La Liga,10,360d70f8
+1634,Nordine Kandil,MFFW,Strasbourg,fr Ligue 1,10,c5908bc4
+1635,Edo Kayembe,MF,Watford,eng Premier League,10,f99b71de
+1636,Presnel Kimpembe,DF,Paris S-G,fr Ligue 1,10,aef6e670
+1637,Ansgar Knauff,FWMF,Dortmund,de Bundesliga,10,19a967ab
+1638,Geoffrey Kondogbia,MFDF,Atlético Madrid,es La Liga,10,cce181df
+1639,Kalidou Koulibaly,DF,Napoli,it Serie A,10,da974c7b
+1640,Diego Lainez,FW,Betis,es La Liga,10,bf12926c
+1641,Toni Lato,DFMF,Valencia,es La Liga,10,8e088e04
+1642,Samuel Loric,DF,Lorient,fr Ligue 1,10,9004f318
+1643,Andrés Martín,FWMF,Rayo Vallecano,es La Liga,10,2ae30661
+1644,Borja Mayoral,FWDF,Roma,it Serie A,10,64e8ed6d
+1645,William Mikelbrencis,DF,Metz,fr Ligue 1,10,14df1d7f
+1646,Nikola Milenković,DF,Fiorentina,it Serie A,10,bee704fc
+1647,Tyrone Mings,DF,Aston Villa,eng Premier League,10,8397a50c
+1648,Monchu,MF,Granada,es La Liga,10,8ac501f5
+1649,Ximo Navarro,DF,Alavés,es La Liga,10,8db394aa
+1650,Iñigo Pérez,MF,Osasuna,es La Liga,10,bc61cc65
+1651,Njegoš Petrović,MF,Granada,es La Liga,10,0cb29e91
+1652,Pubill,DF,Levante,es La Liga,10,365113c0
+1653,Marc Roca,MF,Bayern Munich,de Bundesliga,10,da27e268
+1654,Guido Rodríguez,MF,Betis,es La Liga,10,34e393f2
+1655,William Saliba,DF,Marseille,fr Ligue 1,10,972aeb2a
+1656,Alidu Seidu,DF,Clermont Foot,fr Ligue 1,10,cea59f02
+1657,Nahuel Tenaglia,DF,Alavés,es La Liga,10,66654daa
+1658,Steffen Tigges,FWMF,Dortmund,de Bundesliga,10,6b8887c2
+1659,Šime Vrsaljko,DF,Atlético Madrid,es La Liga,10,46a8347f
+1660,Gabriele Zappa,DF,Cagliari,it Serie A,10,ca3db240
+1661,Giorgio Altare,DF,Cagliari,it Serie A,9,aa5322d5
+1662,Waldemar Anton,DF,Stuttgart,de Bundesliga,9,5e66fa06
+1663,Louis Beyer,DF,M'Gladbach,de Bundesliga,9,9af1f9ff
+1664,Emil Bohinen,MF,Salernitana,it Serie A,9,c83c203f
+1665,Andrea Carboni,DF,Cagliari,it Serie A,9,f7e2af2c
+1666,Nicolò Casale,DF,Hellas Verona,it Serie A,9,3f5f38fb
+1667,Domenico Criscito,DF,Genoa,it Serie A,9,35dd6d80
+1668,Juan Cruz Armada,DF,Osasuna,es La Liga,9,a56da3ba
+1669,Flavius Daniliuc,DF,Nice,fr Ligue 1,9,7ef972c3
+1670,Josh Dasilva,MFFW,Brentford,eng Premier League,9,60344e4f
+1671,Tom Davies,MF,Everton,eng Premier League,9,9228b07c
+1672,Merih Demiral,DF,Atalanta,it Serie A,9,e3cceee6
+1673,Tiago Djaló,DF,Lille,fr Ligue 1,9,b2336681
+1674,Naïs Djouahra,FWMF,Real Sociedad,es La Liga,9,3594a357
+1675,Lee Dongjun,MF,Hertha BSC,de Bundesliga,9,96d0b6f0
+1676,Niklas Dorsch,MF,Augsburg,de Bundesliga,9,7f73bdf4
+1677,Moussa Doumbia,FW,Reims,fr Ligue 1,9,6481421d
+1678,Kingsley Ehizibue,DF,Köln,de Bundesliga,9,76b2817e
+1679,Wout Faes,DF,Reims,fr Ligue 1,9,9c221d14
+1680,Diego Falcinelli,FWMF,Bologna,it Serie A,9,a39b9ef6
+1681,Edimilson Fernandes,DFFW,Arminia,de Bundesliga,9,3bb625ac
+1682,Giovanni González,DF,Mallorca,es La Liga,9,1fc474ae
+1683,Carlos Gruezo,MF,Augsburg,de Bundesliga,9,f2dd9a21
+1684,Lucas Hernández,DF,Bayern Munich,de Bundesliga,9,c3ee18ef
+1685,Will Hughes,MF,Crystal Palace,eng Premier League,9,a0666d3e
+1686,Iglesias,DF,Getafe,es La Liga,9,974322dc
+1687,Hiroki Ito,DF,Stuttgart,de Bundesliga,9,204dded0
+1688,Álvaro Jiménez,MFFW,Cádiz,es La Liga,9,5f5501ed
+1689,Tom Lacoux,DFMF,Bordeaux,fr Ligue 1,9,295ba708
+1690,Sam Lammers,FW,Atalanta,it Serie A,9,c283ddef
+1691,Fabien Lemoine,MF,Lorient,fr Ligue 1,9,54d51e22
+1692,Kévin Malcuit,DF,Napoli,it Serie A,9,d6a889ea
+1693,Martín Merquelanz,FW,Rayo Vallecano,es La Liga,9,ddd5348b
+1694,Éder Militão,DF,Real Madrid,es La Liga,9,2784f898
+1695,Nacho,DF,Real Madrid,es La Liga,9,2946f9a1
+1696,Demba Seck,FWMF,Torino,it Serie A,9,16463a79
+1697,Jens Stryger Larsen,DF,Udinese,it Serie A,9,f91e81c9
+1698,Leo Štulac,MF,Empoli,it Serie A,9,92948398
+1699,Loum Tchaouna,FWMF,Rennes,fr Ligue 1,9,a3c8b4d3
+1700,Malik Tillman,FWMF,Bayern Munich,de Bundesliga,9,a5420709
+1701,Rafael Tolói,DF,Atalanta,it Serie A,9,c56dc39e
+1702,Deyovaisio Zeefuik,DFMF,Hertha BSC,de Bundesliga,9,58a2e9f6
+1703,Matthis Abline,FW,Rennes,fr Ligue 1,8,0e46fa2f
+1704,Michel Aebischer,MF,Bologna,it Serie A,8,f9c927de
+1705,Fredrik André Bjørkan,DF,Hertha BSC,de Bundesliga,8,3724baa1
+1706,Ronald Araújo,DF,Barcelona,es La Liga,8,2bef2bca
+1707,Jean-Kévin Augustin,FWMF,Nantes,fr Ligue 1,8,97bfa797
+1708,Alejandro Balde,DFFW,Barcelona,es La Liga,8,5ccc9672
+1709,Daniele Baselli,MFFW,Torino,it Serie A,8,ea06dd97
+1710,Toma Bašić,MF,Bordeaux,fr Ligue 1,8,80556f08
+1711,László Bénes,MF,M'Gladbach,de Bundesliga,8,fe888e39
+1712,Iker Benito,MFFW,Osasuna,es La Liga,8,50cbc806
+1713,Gleison Bremer,DF,Torino,it Serie A,8,5fd5ed86
+1714,Fali Candé,DF,Metz,fr Ligue 1,8,3cc4bb19
+1715,Chapela,MFFW,Cádiz,es La Liga,8,9ed40a69
+1716,Nathan Collins,DF,Burnley,eng Premier League,8,a8c19eb8
+1717,Yadaly Diaby,FWMF,Clermont Foot,fr Ligue 1,8,5630a6e0
+1718,Rúben Dias,DF,Manchester City,eng Premier League,8,31c69ef1
+1719,Virgil van Dijk,DF,Liverpool,eng Premier League,8,e06683ca
+1720,Junior Dina Ebimbe,MF,Paris S-G,fr Ligue 1,8,95bb6ddc
+1721,Gabriel Dos Santos,DF,Arsenal,eng Premier League,8,67ac5bb8
+1722,Enzo Ebosse,DF,Angers,fr Ligue 1,8,9ba7b4fa
+1723,Aritz Elustondo,DF,Real Sociedad,es La Liga,8,f7dc2ae5
+1724,Ömer Faruk Beyaz,FWDF,Stuttgart,de Bundesliga,8,8307b663
+1725,Riccardo Fiamozzi,DF,Empoli,it Serie A,8,9f9b9269
+1726,Morten Frendrup,DFMF,Genoa,it Serie A,8,f4d60499
+1727,Cristian Gamboa,DF,Bochum,de Bundesliga,8,f27680d9
+1728,Faouzi Ghoulam,DF,Napoli,it Serie A,8,c5adc293
+1729,Maxime Gonalons,MF,Granada,es La Liga,8,b8c1de25
+1730,Martin Hongla,MF,Hellas Verona,it Serie A,8,b85bf253
+1731,Roger Ibanez,DF,Roma,it Serie A,8,82efe6fa
+1732,Aleksandr Kokorin,FWMF,Fiorentina,it Serie A,8,fec5accc
+1733,Christoph Kramer,MF,M'Gladbach,de Bundesliga,8,496aeede
+1734,Aymeric Laporte,DF,Manchester City,eng Premier League,8,119b9a8e
+1735,Dodi Lukebakio,FW,Hertha BSC,de Bundesliga,8,0c61c77c
+1736,Daniel Maldini,MF,Milan,it Serie A,8,801831fe
+1737,Gian Marco Ferrari,DF,Sassuolo,it Serie A,8,8650af85
+1738,Nemanja Matić,MF,Manchester Utd,eng Premier League,8,eb7822d7
+1739,Joël Matip,DF,Liverpool,eng Premier League,8,b217ef29
+1740,Nampalys Mendy,MF,Leicester City,eng Premier League,8,1598599e
+1741,Moussa Niakhate,DF,Mainz 05,de Bundesliga,8,00242715
+1742,Lucas Olaza,DF,Elche,es La Liga,8,4cee5954
+1743,Otávio,MF,Bordeaux,fr Ligue 1,8,243f4a0b
+1744,Manuel Prietl,MF,Arminia,de Bundesliga,8,901c0f97
+1745,Samuele Ricci,MF,Torino,it Serie A,8,9823be92
+1746,Marcelo Saracchi,DF,Levante,es La Liga,8,1c96ad85
+1747,Giorgio Scalvini,DFMF,Atalanta,it Serie A,8,1e9aa637
+1748,András Schäfer,MF,Union Berlin,de Bundesliga,8,049751d7
+1749,Andrea Schiavone,MF,Salernitana,it Serie A,8,4b55eb4d
+1750,Gabriel Silva,DF,Saint-Étienne,fr Ligue 1,8,4914ed4a
+1751,William Smallbone,MFFW,Southampton,eng Premier League,8,5e105217
+1752,Cédric Soares,DF,Arsenal,eng Premier League,8,839c14e1
+1753,Edmond Tapsoba,DF,Leverkusen,de Bundesliga,8,a73c8f95
+1754,Jean-Clair Todibo,DF,Nice,fr Ligue 1,8,88f130ed
+1755,Beñat Turrientes,MF,Real Sociedad,es La Liga,8,068f4dec
+1756,Antonio Vacca,MF,Venezia,it Serie A,8,444c89d9
+1757,Edoardo Vergani,FWMF,Salernitana,it Serie A,8,2873973b
+1758,David Zima,DF,Torino,it Serie A,8,acf7e795
+1759,Steven Alzate,MF,Brighton,eng Premier League,7,ad1f61f3
+1760,Jordan Amavi,DF,Nice,fr Ligue 1,7,22721b88
+1761,Sofyan Amrabat,MF,Fiorentina,it Serie A,7,5a2cb25d
+1762,Andrés Andrade Cedeño,DF,Arminia,de Bundesliga,7,6ea23758
+1763,Folarin Balogun,FW,Arsenal,eng Premier League,7,31822f8c
+1764,Rodrigo Battaglia,MF,Mallorca,es La Liga,7,d637fc22
+1765,Timo Baumgartl,DF,Union Berlin,de Bundesliga,7,bd7d2e6d
+1766,Valon Behrami,MF,Genoa,it Serie A,7,d3d758d8
+1767,George Bello,DF,Arminia,de Bundesliga,7,aca0a525
+1768,Lilian Brassier,DF,Brest,fr Ligue 1,7,5b146df3
+1769,Leandro Cabrera,DF,Espanyol,es La Liga,7,69cbc8b6
+1770,Matteo Cancellieri,MFDF,Hellas Verona,it Serie A,7,b6a1cdf9
+1771,Nassim Chadli,MFDF,Troyes,fr Ligue 1,7,5c61496e
+1772,Aaron Connolly,FW,Brighton,eng Premier League,7,27c01749
+1773,Paweł Dawidowicz,DF,Hellas Verona,it Serie A,7,16bb656a
+1774,Troy Deeney,FW,Watford,eng Premier League,7,82e34b69
+1775,Francesco Di Tacchio,MF,Salernitana,it Serie A,7,b5c3ff9f
+1776,Koffi Djidji,DF,Torino,it Serie A,7,933d3b51
+1777,Lilian Egloff,FWMF,Stuttgart,de Bundesliga,7,2f7fec15
+1778,Federico Fazio,DF,Salernitana,it Serie A,7,4e358a2d
+1779,Riccardo Gagliolo,DF,Salernitana,it Serie A,7,173061c0
+1780,Vagner Gonçalves,MFFW,Metz,fr Ligue 1,7,743fd71f
+1781,Roberto González,FWMF,Betis,es La Liga,7,56545648
+1782,Charlie Goode,DF,Brentford,eng Premier League,7,7aee4dd3
+1783,Andrew Gravillon,DF,Reims,fr Ligue 1,7,49136c42
+1784,Jérôme Hergault,DF,Lorient,fr Ligue 1,7,a84f9a4b
+1785,Jason,MFDF,Valencia,es La Liga,7,9038c2a1
+1786,Kenedy,DF,Chelsea,eng Premier League,7,5eebbfdf
+1787,Max Kilman,DF,Wolves,eng Premier League,7,d0f72bf1
+1788,Ezri Konsa,DF,Aston Villa,eng Premier League,7,0313a347
+1789,Emil Krafth,DF,Newcastle Utd,eng Premier League,7,77cf6852
+1790,Harry Maguire,DF,Manchester Utd,eng Premier League,7,d8931174
+1791,Ander Martin,FWMF,Real Sociedad,es La Liga,7,e1e75690
+1792,Kevin Möhwald,MF,Union Berlin,de Bundesliga,7,a5ce09f2
+1793,Manu Morlanes,MF,Espanyol,es La Liga,7,a0255c67
+1794,Obite N'Dicka,DF,Eint Frankfurt,de Bundesliga,7,441197b8
+1795,Leandro Paredes,MF,Paris S-G,fr Ligue 1,7,dff153a4
+1796,Dor Peretz,MF,Venezia,it Serie A,7,e2a302a8
+1797,Suf Podgoreanu,FW,Spezia,it Serie A,7,d697a2d0
+1798,Kévin Rodrigues,DFFW,Rayo Vallecano,es La Liga,7,f1bed920
+1799,Cristian Romero,DF,Tottenham,eng Premier League,7,a3d94a58
+1800,Jacopo Sala,MF,Spezia,it Serie A,7,da5a981b
+1801,Germán Sánchez,DF,Granada,es La Liga,7,ea9b2ef9
+1802,Morgan Sanson,MF,Aston Villa,eng Premier League,7,6e7f1353
+1803,Federico Santander,FWDF,Bologna,it Serie A,7,df85d472
+1804,Stefan Savić,DF,Atlético Madrid,es La Liga,7,f6ac68c1
+1805,Jonjo Shelvey,MF,Newcastle Utd,eng Premier League,7,3727dd3c
+1806,Tony Springett,FWMF,Norwich City,eng Premier League,7,35be8087
+1807,Kostas Stafylidis,DFMF,Bochum,de Bundesliga,7,861e0116
+1808,Pascal Stenzel,DF,Stuttgart,de Bundesliga,7,99f7e9aa
+1809,Bosko Sutalo,DF,Hellas Verona,it Serie A,7,1d0bb7e4
+1810,Aleksa Terzić,DF,Fiorentina,it Serie A,7,3ef0a2d7
+1811,Chimuanya Ugochukwu,MF,Rennes,fr Ligue 1,7,1df4a109
+1812,Dayot Upamecano,DF,Bayern Munich,de Bundesliga,7,d248cd8f
+1813,Johan Vásquez,DF,Genoa,it Serie A,7,5eaed77a
+1814,Cristian Volpato,MFFW,Roma,it Serie A,7,72f87f25
+1815,Manuel Akanji,DF,Dortmund,de Bundesliga,6,89ac64a6
+1816,Maghnes Akliouche,MFFW,Monaco,fr Ligue 1,6,b625b241
+1817,Iddrisu Baba,MF,Mallorca,es La Liga,6,bfd381b3
+1818,Simon Banza,FW,Lens,fr Ligue 1,6,be47b750
+1819,Abdourahmane Barry,DF,Greuther Fürth,de Bundesliga,6,8df328f4
+1820,Donny van de Beek,MF,Everton,eng Premier League,6,50dc94ce
+1821,Mattia Caldara,DF,Venezia,it Serie A,6,ac7e640b
+1822,Diego Carlos,DF,Sevilla,es La Liga,6,b4a014b1
+1823,Moreto Cassamã,MF,Reims,fr Ligue 1,6,f54d2149
+1824,Moustapha Cissé,FW,Atalanta,it Serie A,6,ee3c4b3f
+1825,Craig Dawson,DF,West Ham,eng Premier League,6,3e9e06cb
+1826,Fabian Delph,MF,Everton,eng Premier League,6,111c3236
+1827,Aleix Febas,MF,Mallorca,es La Liga,6,38126309
+1828,David García,DF,Osasuna,es La Liga,6,3e42f707
+1829,Dan Gosling,MF,Watford,eng Premier League,6,7fec31a0
+1830,Jonathan Gradit,DF,Lens,fr Ligue 1,6,06c48679
+1831,Sebastian Griesbeck,DFMF,Greuther Fürth,de Bundesliga,6,a8db7ebb
+1832,Alexander Hack,DF,Mainz 05,de Bundesliga,6,a5ec3ede
+1833,Marcel Halstenberg,DF,RB Leipzig,de Bundesliga,6,8ff2354e
+1834,Mats Hummels,DF,Dortmund,de Bundesliga,6,05d548d8
+1835,Robert Ibáñez,MF,Osasuna,es La Liga,6,c7429db3
+1836,Juan Ignacio Ramírez,FW,Saint-Étienne,fr Ligue 1,6,ad513a6b
+1837,Asier Illarramendi,MF,Real Sociedad,es La Liga,6,5ce0b5ba
+1838,Wilson Isidor,FWMF,Monaco,fr Ligue 1,6,a671316d
+1839,Paweł Jaroszyński,DF,Salernitana,it Serie A,6,958a601f
+1840,Lenny Joseph,FWMF,Metz,fr Ligue 1,6,d1828392
+1841,Michael Keane,DF,Everton,eng Premier League,6,c5b7c315
+1842,Luca Kilian,DF,Köln,de Bundesliga,6,610aa1e9
+1843,Cheikhou Kouyaté,MF,Crystal Palace,eng Premier League,6,8d3c902d
+1844,David López,MFDF,Espanyol,es La Liga,6,f03f284b
+1845,Hannibal Mejbri,FW,Manchester Utd,eng Premier League,6,ca22ccb0
+1846,Baptiste Mouazan,MF,Lorient,fr Ligue 1,6,81ac108d
+1847,Kévin N'Doram,MF,Metz,fr Ligue 1,6,e50623a0
+1848,Jeremy Ngakia,DF,Watford,eng Premier League,6,3631ad41
+1849,Milutin Osmajić,FWMF,Cádiz,es La Liga,6,375ed9d7
+1850,Pietro Pellegri,FW,Milan,it Serie A,6,a44d3a3c
+1851,Nehuén Pérez,DF,Udinese,it Serie A,6,f7c491f1
+1852,Germán Pezzella,DF,Betis,es La Liga,6,8c725b43
+1853,Antonio Raimondo,FW,Bologna,it Serie A,6,ce1a6c7e
+1854,Enzo Roco,DF,Elche,es La Liga,6,37f827ec
+1855,Stian Rode Gregersen,DF,Bordeaux,fr Ligue 1,6,5f011e05
+1856,Danny Rose,DF,Watford,eng Premier League,6,89d10e53
+1857,Mathys Saban,FWMF,Saint-Étienne,fr Ligue 1,6,7d9f3d69
+1858,Stefano Sabelli,DF,Genoa,it Serie A,6,0ccac09c
+1859,Romain Saïss,DF,Wolves,eng Premier League,6,9fbbcf39
+1860,Jonathan Silva,DFMF,Getafe,es La Liga,6,f2308b33
+1861,Xavi Simons,FWMF,Paris S-G,fr Ligue 1,6,da4d670f
+1862,Chris Smalling,DF,Roma,it Serie A,6,b6964eb6
+1863,Renato Tapia,MF,Celta Vigo,es La Liga,6,34269bdf
+1864,Warren Tchimbembé,MF,Metz,fr Ligue 1,6,93b8f9f4
+1865,Cedric Teuchert,MFFW,Union Berlin,de Bundesliga,6,f956479d
+1866,Fikayo Tomori,DF,Milan,it Serie A,6,7edfbb8a
+1867,Charles Traore,DF,Nantes,fr Ligue 1,6,de488e56
+1868,Matthieu Udol,DF,Metz,fr Ligue 1,6,cc41f558
+1869,Rúben Vezo,DF,Levante,es La Liga,6,c67cd65c
+1870,Magnus Warming,FWDF,Torino,it Serie A,6,55e098cd
+1871,Maya Yoshida,DF,Sampdoria,it Serie A,6,caffaf5a
+1872,Joseph Aidoo,DF,Celta Vigo,es La Liga,5,18abe173
+1873,Paul Akouokou,MF,Betis,es La Liga,5,31f5b89b
+1874,Benoît Badiashile,DF,Monaco,fr Ligue 1,5,06df8256
+1875,Tiemoué Bakayoko,MF,Milan,it Serie A,5,59bf127b
+1876,Donny van de Beek,MF,Manchester Utd,eng Premier League,5,50dc94ce
+1877,Pedro Bigas,DF,Elche,es La Liga,5,697295b1
+1878,Davide Biraschi,DF,Genoa,it Serie A,5,64cd167d
+1879,Alessandro Buongiorno,DF,Torino,it Serie A,5,4ae67f27
+1880,Liberato Cacace,DF,Empoli,it Serie A,5,dd86e8e4
+1881,Martín Cáceres,DF,Cagliari,it Serie A,5,e94d79e3
+1882,Moisés Caicedo,MF,Brighton,eng Premier League,5,16264a81
+1883,Eduardo Camavinga,MF,Rennes,fr Ligue 1,5,7b9c2d84
+1884,Eric Dier,DF,Tottenham,eng Premier League,5,ac861941
+1885,Nico Elvedi,DF,M'Gladbach,de Bundesliga,5,48035304
+1886,Renaud Emond,MFFW,Nantes,fr Ligue 1,5,5c9ac7f0
+1887,Fali,DFMF,Cádiz,es La Liga,5,72a84002
+1888,Andrea Favilli,FW,Genoa,it Serie A,5,44510fde
+1889,Marvin Friedrich,DF,Union Berlin,de Bundesliga,5,b77f44a4
+1890,Oualid El Hajjam,DF,Troyes,fr Ligue 1,5,9f29c204
+1891,Ki-Jana Hoever,DF,Wolves,eng Premier League,5,9a71e978
+1892,Bonke Innocent,MF,Lorient,fr Ligue 1,5,546bb36e
+1893,Paul Jaeckel,DF,Union Berlin,de Bundesliga,5,a93b6f4e
+1894,Jofre,MFDF,Espanyol,es La Liga,5,030ef8d6
+1895,Koba Koindredi,MF,Valencia,es La Liga,5,3a58d075
+1896,Lucas Leiva,MF,Lazio,it Serie A,5,4c78b5ed
+1897,Anderson Lima,MF,Lazio,it Serie A,5,59be3a74
+1898,Levi Lumeka,DFFW,Troyes,fr Ligue 1,5,199ff86e
+1899,Gianluca Mancini,DF,Roma,it Serie A,5,5aa53281
+1900,Adam Masina,DF,Watford,eng Premier League,5,de0f152c
+1901,Gary Medel,DF,Bologna,it Serie A,5,563a68ad
+1902,Fran Mérida,MF,Espanyol,es La Liga,5,0e50f929
+1903,Luka Milivojević,MF,Crystal Palace,eng Premier League,5,2ce2508a
+1904,Jon Morcillo,MF,Athletic Club,es La Liga,5,b7d7f3bf
+1905,Joakim Nilsson,DF,Arminia,de Bundesliga,5,c562c5b4
+1906,Soma Novothny,FWMF,Bochum,de Bundesliga,5,6fb91ea9
+1907,Willi Orban,DF,RB Leipzig,de Bundesliga,5,20030c06
+1908,Patric,DF,Lazio,it Serie A,5,f7223718
+1909,Lucas Perrin,DF,Strasbourg,fr Ligue 1,5,49070d66
+1910,Ivan Radovanović,DFMF,Salernitana,it Serie A,5,023937a9
+1911,Jesuran Rak Sakyi,FWMF,Crystal Palace,eng Premier League,5,45685411
+1912,Alessio Romagnoli,DF,Milan,it Serie A,5,3ead85f9
+1913,Matteo Ruggeri,DF,Salernitana,it Serie A,5,ae9898c5
+1914,Franco Russo,DF,Mallorca,es La Liga,5,b75ac54b
+1915,Mohammed Salisu,DF,Southampton,eng Premier League,5,0b33f6ad
+1916,Yoann Salmier,DF,Troyes,fr Ligue 1,5,c3725db2
+1917,Fede San Emeterio,MF,Cádiz,es La Liga,5,efecd633
+1918,Davinson Sánchez,DF,Tottenham,eng Premier League,5,da7b447d
+1919,Samir Santos,DF,Udinese,it Serie A,5,92b4758e
+1920,Martin Satriano,FWMF,Inter,it Serie A,5,86383d0e
+1921,Kaj Sierhuis,FW,Reims,fr Ligue 1,5,9c2b1f11
+1922,Mohamed Simakan,DF,RB Leipzig,de Bundesliga,5,fcb27134
+1923,Sambou Sissoko,MFDF,Reims,fr Ligue 1,5,e4bb1f08
+1924,Leonardo Spinazzola,DF,Roma,it Serie A,5,3626daea
+1925,Marc Tenas,FWMF,Alavés,es La Liga,5,1c5d79e2
+1926,David Timor,MF,Getafe,es La Liga,5,174651c8
+1927,Anthony Ujah,FWMF,Union Berlin,de Bundesliga,5,99be8fb5
+1928,Germán Valera,FWMF,Real Sociedad,es La Liga,5,84f55b4a
+1929,Manu Vallejo,FWMF,Valencia,es La Liga,5,0bc4e720
+1930,Gabriel Vidovic,MF,Bayern Munich,de Bundesliga,5,5360a956
+1931,Alessandro Zanoli,DF,Napoli,it Serie A,5,3b12b11f
+1932,Ilias Akhomach,FW,Barcelona,es La Liga,4,b8bd60fe
+1933,Tommaso Baldanzi,FW,Empoli,it Serie A,4,102e2599
+1934,Abdoulaye Bamba,DF,Angers,fr Ligue 1,4,7fecbcdb
+1935,Barbero,MFFW,Osasuna,es La Liga,4,981c1863
+1936,Aymen Barkok,MFFW,Eint Frankfurt,de Bundesliga,4,a2a85828
+1937,Jan Bednarek,DF,Southampton,eng Premier League,4,4115ce4e
+1938,Keanan Bennetts,FWDF,M'Gladbach,de Bundesliga,4,f4c7c708
+1939,Sebastiaan Bornauw,DF,Wolfsburg,de Bundesliga,4,01834aa0
+1940,John Brooks,DF,Wolfsburg,de Bundesliga,4,e27da244
+1941,Aleksander Buksa,FW,Genoa,it Serie A,4,59f2d958
+1942,Felipe Caicedo,FW,Inter,it Serie A,4,93b891d1
+1943,Riccardo Calafiori,DF,Roma,it Serie A,4,aded8e6f
+1944,Mamadou Camara,FW,Troyes,fr Ligue 1,4,316e70c7
+1945,Leonardo Capezzi,MF,Salernitana,it Serie A,4,07ea0ef2
+1946,Catena,DF,Rayo Vallecano,es La Liga,4,274ab13c
+1947,Xavier Chavalerin,MFDF,Reims,fr Ligue 1,4,279ddf6a
+1948,Justin Che,DFMF,Hoffenheim,de Bundesliga,4,3c569f37
+1949,Giorgio Chiellini,DF,Juventus,it Serie A,4,e85fb9b8
+1950,Ciaran Clark,DF,Newcastle Utd,eng Premier League,4,2b91cf8e
+1951,Luke Cundle,MF,Wolves,eng Premier League,4,cc3b8e78
+1952,Colin Dagba,DF,Paris S-G,fr Ligue 1,4,29c02c9f
+1953,Filippo Delli Carri,DF,Salernitana,it Serie A,4,d2e8fd9b
+1954,Diego Demme,MF,Napoli,it Serie A,4,dc3fa3b5
+1955,Francesco Di Mariano,FW,Venezia,it Serie A,4,35a2557c
+1956,Mouctar Diakhaby,DF,Valencia,es La Liga,4,d2110326
+1957,Axel Disasi,DF,Monaco,fr Ligue 1,4,ad82197c
+1958,Radu Drăgușin,DF,Sampdoria,it Serie A,4,620922ed
+1959,Mohamed Elneny,MF,Arsenal,eng Premier League,4,47a34c4f
+1960,Emerson,DF,Barcelona,es La Liga,4,df8b52a5
+1961,Alex Ferrari,DF,Sampdoria,it Serie A,4,d0dbca9f
+1962,Fernando Forestieri,FWMF,Udinese,it Serie A,4,d60c26fc
+1963,Leo Fuhr Hjelde,DF,Leeds United,eng Premier League,4,d102b8a2
+1964,Mijat Gaćinović,FWDF,Hoffenheim,de Bundesliga,4,16daec92
+1965,Eric García,DF,Barcelona,es La Liga,4,2bed3eab
+1966,Dwight Gayle,FW,Newcastle Utd,eng Premier League,4,e58a03c6
+1967,Nemanja Gudelj,MFDF,Sevilla,es La Liga,4,0076ab7f
+1968,Josuha Guilavogui,MFDF,Wolfsburg,de Bundesliga,4,e6c43eec
+1969,Lasse Günther,DF,Augsburg,de Bundesliga,4,00672803
+1970,Jon Guridi,MF,Real Sociedad,es La Liga,4,4c0a6a48
+1971,Miguel Gutiérrez,DF,Real Madrid,es La Liga,4,7e98cff1
+1972,Varazdat Haroyan,DF,Cádiz,es La Liga,4,be32269e
+1973,Mario Hernández,DFFW,Rayo Vallecano,es La Liga,4,90162357
+1974,Martin Hinteregger,DF,Eint Frankfurt,de Bundesliga,4,080440a4
+1975,Timo Hübers,DF,Köln,de Bundesliga,4,94302c52
+1976,Pontus Jansson,DF,Brentford,eng Premier League,4,172e52d8
+1977,Yannik Keitel,MF,Freiburg,de Bundesliga,4,d2c580ce
+1978,Marc-Oliver Kempf,DF,Stuttgart,de Bundesliga,4,815c314f
+1979,Jakub Kiwior,MF,Spezia,it Serie A,4,dc3e663e
+1980,Jamaal Lascelles,DF,Newcastle Utd,eng Premier League,4,450ab6fc
+1981,Robin Le Normand,DF,Real Sociedad,es La Liga,4,9a64e67e
+1982,Florian Lejeune,DF,Alavés,es La Liga,4,6eaed4eb
+1983,Yanis Lhery,FWMF,Saint-Étienne,fr Ligue 1,4,cc972842
+1984,Philipp Lienhart,DF,Freiburg,de Bundesliga,4,302527b2
+1985,Matthijs de Ligt,DF,Juventus,it Serie A,4,d6e53a3a
+1986,Javi López,DF,Alavés,es La Liga,4,e9ada8cf
+1987,José Luis Palomino,DF,Atalanta,it Serie A,4,921f6058
+1988,Sebastiano Luperto,DF,Empoli,it Serie A,4,997fff07
+1989,Pablo Marí,DF,Udinese,it Serie A,4,aa54ec6f
+1990,Iñigo Martínez,DF,Athletic Club,es La Liga,4,3fc45c73
+1991,Konstantinos Mavropanos,DF,Stuttgart,de Bundesliga,4,00963611
+1992,Nathan de Medina,DF,Arminia,de Bundesliga,4,d686dbc0
+1993,Mikael,FWMF,Salernitana,it Serie A,4,33502726
+1994,Enzo Millot,MF,Stuttgart,de Bundesliga,4,f76022e7
+1995,Yerry Mina,DF,Everton,eng Premier League,4,6d5701f2
+1996,Cristian Molinaro,DF,Venezia,it Serie A,4,1c8c5aed
+1997,Marvelous Nakamba,MF,Aston Villa,eng Premier League,4,de5b5570
+1998,Saúl Ñíguez,DFMF,Atlético Madrid,es La Liga,4,c14bc029
+1999,Dimitris Nikolaou,DF,Spezia,it Serie A,4,cf961d8d
+2000,Connor Noß,MF,M'Gladbach,de Bundesliga,4,ccc6d365
+2001,Bram Nuytinck,DF,Udinese,it Serie A,4,e33f36d5
+2002,Tomáš Ostrák,FWMF,Köln,de Bundesliga,4,3ba95f20
+2003,Reece Oxford,DF,Augsburg,de Bundesliga,4,8b6e0db2
+2004,Erik Pieters,DF,Burnley,eng Premier League,4,1ef37668
+2005,Orbelín Pineda,MFFW,Celta Vigo,es La Liga,4,411fabd7
+2006,Taylor Richards,MFFW,Brighton,eng Premier League,4,e0243d23
+2007,Luka Romero,FW,Lazio,it Serie A,4,ca6edaa0
+2008,Tom Rothe,DF,Dortmund,de Bundesliga,4,90c1f9a4
+2009,Amir Rrahmani,DF,Napoli,it Serie A,4,4b3e1a38
+2010,Rubén,DF,Espanyol,es La Liga,4,35d4f151
+2011,Jeremy Sarmiento,FWMF,Brighton,eng Premier League,4,ac0d576d
+2012,Bouna Sarr,DF,Bayern Munich,de Bundesliga,4,1a4b9094
+2013,Thiago Silva,DF,Chelsea,eng Premier League,4,86e7deaf
+2014,Adama Soumaoro,DF,Bologna,it Serie A,4,7b075c75
+2015,Waniss Taibi,MFDF,Angers,fr Ligue 1,4,95192fe4
+2016,Ismaël Traoré,DF,Angers,fr Ligue 1,4,b666421b
+2017,Simone Trimboli,MF,Sampdoria,it Serie A,4,f5f21026
+2018,Kieran Trippier,DF,Newcastle Utd,eng Premier League,4,21512407
+2019,Tuta,DF,Eint Frankfurt,de Bundesliga,4,35d64857
+2020,Zinho Vanheusden,DF,Genoa,it Serie A,4,afbf187b
+2021,Simone Verdi,FWMF,Torino,it Serie A,4,0375723e
+2022,Noah Weißhaupt,MFFW,Freiburg,de Bundesliga,4,dd676a97
+2023,Anel Ahmedhodzic,DF,Bordeaux,fr Ligue 1,3,eab957a3
+2024,Marley Aké,MFFW,Juventus,it Serie A,3,414e1f69
+2025,Sofiane Alakouch,DFMF,Metz,fr Ligue 1,3,5314e067
+2026,Omar Alderete,DF,Valencia,es La Liga,3,bb08bce9
+2027,Yeray Álvarez,DF,Athletic Club,es La Liga,3,3ecc11d8
+2028,Jordan Amavi,DF,Marseille,fr Ligue 1,3,22721b88
+2029,Jesús Areso,DF,Osasuna,es La Liga,3,94e01ec6
+2030,Ibrahima Baldé,FWMF,Lens,fr Ligue 1,3,a30cb0d4
+2031,Marc Bartra,DF,Betis,es La Liga,3,b742cc0d
+2032,Mads Bech Sørensen,DF,Brentford,eng Premier League,3,30db8574
+2033,Marco Benassi,DFMF,Fiorentina,it Serie A,3,0000acda
+2034,Josip Brekalo,MF,Wolfsburg,de Bundesliga,3,d4a2533d
+2035,Dylan Bronn,DF,Metz,fr Ligue 1,3,edd81e2a
+2036,Martín Cáceres,DF,Levante,es La Liga,3,e94d79e3
+2037,Víctor Camarasa,MFFW,Betis,es La Liga,3,b2d03887
+2038,Craig Cathcart,DF,Watford,eng Premier League,3,89e4b358
+2039,Pietro Ceccaroni,DF,Venezia,it Serie A,3,4d1efb48
+2040,Emil Ceide,FWDF,Sassuolo,it Serie A,3,98a84572
+2041,Luca Ceppitelli,DF,Cagliari,it Serie A,3,7d50454d
+2042,Brendan Chardonnet,DF,Brest,fr Ligue 1,3,16aa7d4c
+2043,Víctor Chust,DF,Cádiz,es La Liga,3,ec1a731e
+2044,Conor Coady,DF,Wolves,eng Premier League,3,2928dca2
+2045,Omar Colley,DF,Sampdoria,it Serie A,3,8b95acda
+2046,Andrea Conti,DFMF,Sampdoria,it Serie A,3,8fef5412
+2047,Jorge Cuenca,DF,Getafe,es La Liga,3,0abc51f2
+2048,Rafael Czichos,DF,Köln,de Bundesliga,3,b0a0698b
+2049,Ebrima Darboe,MF,Roma,it Serie A,3,cf043a33
+2050,Fabio Depaoli,MFDF,Sampdoria,it Serie A,3,d97f2e8d
+2051,Javairô Dilrosun,FW,Hertha BSC,de Bundesliga,3,34a0f5ff
+2052,Lewis Dobbin,FWMF,Everton,eng Premier League,3,e814e1cf
+2053,Radu Drăgușin,DF,Salernitana,it Serie A,3,620922ed
+2054,Oghenekaro Etebo,MF,Watford,eng Premier League,3,b579e83d
+2055,Cesc Fàbregas,MF,Monaco,fr Ligue 1,3,33508c78
+2056,Diego Farias,MFFW,Cagliari,it Serie A,3,157d29b6
+2057,Felipe,DF,Atlético Madrid,es La Liga,3,51a3c4c8
+2058,Tariqe Fosu,DF,Brentford,eng Premier League,3,3dcef539
+2059,Timothy Fosu-Mensah,DF,Leverkusen,de Bundesliga,3,a9142dc3
+2060,Ryan Fredericks,DF,West Ham,eng Premier League,3,c067631c
+2061,Marvin Friedrich,DF,M'Gladbach,de Bundesliga,3,b77f44a4
+2062,Morgan Gibbs-White,FWMF,Wolves,eng Premier League,3,32f60ed8
+2063,Sebastian Giovinco,MF,Sampdoria,it Serie A,3,2b7c18ae
+2064,Kaide Gordon,FW,Liverpool,eng Premier League,3,19a9cb70
+2065,Koray Günter,DF,Hellas Verona,it Serie A,3,f1f1f238
+2066,Norbert Gyömbér,DF,Salernitana,it Serie A,3,0be276c6
+2067,Grant Hanley,DF,Norwich City,eng Premier League,3,e9254eec
+2068,Kortney Hause,DF,Aston Villa,eng Premier League,3,bf8fad51
+2069,Hwang Hee-chan,FW,RB Leipzig,de Bundesliga,3,169fd162
+2070,Sydney van Hooijdonk,FWMF,Bologna,it Serie A,3,5b418e15
+2071,Marcus Ingvartsen,MF,Union Berlin,de Bundesliga,3,271b8617
+2072,Armando Izzo,DF,Torino,it Serie A,3,89976232
+2073,Moritz Jenz,DF,Lorient,fr Ligue 1,3,ee644761
+2074,Lukas Klünter,DF,Hertha BSC,de Bundesliga,3,92948149
+2075,Robin Knoche,DF,Union Berlin,de Bundesliga,3,6bd5cd5d
+2076,Vassilis Lambropoulos,DF,Bochum,de Bundesliga,3,591477c9
+2077,Yasser Larouci,DF,Troyes,fr Ligue 1,3,0ed063d6
+2078,Francesco Magnanelli,MF,Sassuolo,it Serie A,3,07767f42
+2079,Ainsley Maitland-Niles,MF,Arsenal,eng Premier League,3,e3a5814e
+2080,Vincent Manceau,DF,Angers,fr Ligue 1,3,c26a3918
+2081,Aïssa Mandi,DF,Villarreal,es La Liga,3,fbd6378b
+2082,Iván Martín,MF,Alavés,es La Liga,3,ae48c5cb
+2083,Jason Mbock,FW,Angers,fr Ligue 1,3,890bc029
+2084,James Mcatee,MFFW,Manchester City,eng Premier League,3,96593e89
+2085,Ben Mee,DF,Burnley,eng Premier League,3,8df7a2fb
+2086,Edouard Michut,MF,Paris S-G,fr Ligue 1,3,fe6c1add
+2087,Valentin Mihaila,FWMF,Atalanta,it Serie A,3,81a4c239
+2088,Stefan Mitrović,DF,Getafe,es La Liga,3,e6777e6b
+2089,Jeison Murillo,DF,Celta Vigo,es La Liga,3,b233e8e4
+2090,Reiss Nelson,FW,Arsenal,eng Premier League,3,c5bdb6e3
+2091,Mark Noble,MF,West Ham,eng Premier League,3,ff527768
+2092,Mathias Normann,MF,Norwich City,eng Premier League,3,8996350d
+2093,Unai Núñez,DF,Athletic Club,es La Liga,3,be170419
+2094,Gerzino Nyamsi,DF,Strasbourg,fr Ligue 1,3,6043997c
+2095,Stefano Okaka,FW,Udinese,it Serie A,3,601ef102
+2096,Brayann Pereira,DF,Lens,fr Ligue 1,3,5c42e7ce
+2097,Alex Petxa,DFMF,Athletic Club,es La Liga,3,97d08e60
+2098,Cristiano Piccini,DF,Valencia,es La Liga,3,32c0491f
+2099,Amos Pieper,DF,Arminia,de Bundesliga,3,526ea7cc
+2100,Nemanja Radonjić,MF,Marseille,fr Ligue 1,3,0630eb63
+2101,Jaïro Riedewald,MF,Crystal Palace,eng Premier League,3,7a1f2c08
+2102,Rober,DF,Levante,es La Liga,3,c00097d2
+2103,Cristiano Ronaldo,FW,Juventus,it Serie A,3,dea698d9
+2104,Joan Sastre Vanrell,DF,Mallorca,es La Liga,3,f9acf8bf
+2105,Fabian Schär,DF,Newcastle Utd,eng Premier League,3,c8aa95da
+2106,Daley Sinkgraven,DF,Leverkusen,de Bundesliga,3,73000a79
+2107,Leo Skiri Østigård,DF,Genoa,it Serie A,3,b35a7399
+2108,John Stones,DF,Manchester City,eng Premier League,3,5eecec3d
+2109,Kevin Strootman,MF,Cagliari,it Serie A,3,ef2e5e1a
+2110,Jakob Sørensen,MFDF,Norwich City,eng Premier League,3,953c30b0
+2111,Jonathan Tah,DF,Leverkusen,de Bundesliga,3,bd142efb
+2112,Niklas Tauer,DFMF,Mainz 05,de Bundesliga,3,27270af4
+2113,Romain Thomas,DF,Angers,fr Ligue 1,3,275e2c51
+2114,Pau Torres,DF,Villarreal,es La Liga,3,532e1e4f
+2115,Abdoulaye Touré,MF,Genoa,it Serie A,3,ef7cd87a
+2116,Trézéguet,FW,Aston Villa,eng Premier League,3,3ae14ed1
+2117,Martin Valjent,DF,Mallorca,es La Liga,3,f2c6ac01
+2118,Raphaël Varane,DF,Manchester Utd,eng Premier League,3,9f8e9423
+2119,Luca Vignali,DF,Spezia,it Serie A,3,c1e8e74e
+2120,Daniel Vivian,DF,Athletic Club,es La Liga,3,ab7bf91d
+2121,Paul Wanner,FWMF,Bayern Munich,de Bundesliga,3,cb64672e
+2122,Adam Webster,DF,Brighton,eng Premier League,3,c40b6180
+2123,Ben White,DF,Arsenal,eng Premier League,3,35e413f1
+2124,Luca Wollschläger,FW,Hertha BSC,de Bundesliga,3,24b8e7bd
+2125,Okay Yokuşlu,DFMF,Getafe,es La Liga,3,e49ce451
+2126,Kurt Zouma,DF,West Ham,eng Premier League,3,ce4246f5
+2127,Igor Zubeldia,DF,Real Sociedad,es La Liga,3,5c7845f6
+2128,Charles Abi,FW,Saint-Étienne,fr Ligue 1,2,469d3d84
+2129,Nayef Aguerd,DF,Rennes,fr Ligue 1,2,288e1e13
+2130,Nathan Aké,DF,Manchester City,eng Premier League,2,eaeca114
+2131,Josué Albert,DF,Clermont Foot,fr Ligue 1,2,3d738df0
+2132,Ibrahim Amadou,DFMF,Metz,fr Ligue 1,2,9260926b
+2133,Emmanuel Amankwaa Akurugu,DF,Getafe,es La Liga,2,69c5633e
+2134,Joachim Andersen,DF,Crystal Palace,eng Premier League,2,e34fc66d
+2135,Néstor Araujo,DF,Celta Vigo,es La Liga,2,27a013f7
+2136,Cameron Archer,MFFW,Aston Villa,eng Premier League,2,05e8ca6d
+2137,Fisnik Asllani,MFFW,Hoffenheim,de Bundesliga,2,35f67a30
+2138,Karim Azamoum,DF,Troyes,fr Ligue 1,2,eaf71a5e
+2139,Issa Bah,FW,Venezia,it Serie A,2,956a78ea
+2140,Dilane Bakwa,FWDF,Bordeaux,fr Ligue 1,2,2b5a35e5
+2141,Lewis Bate,MF,Leeds United,eng Premier League,2,cd4256d3
+2142,Armel Bella Kotchap,DF,Bochum,de Bundesliga,2,a39d11bc
+2143,Darío Benedetto,FWMF,Marseille,fr Ligue 1,2,bef0a7ac
+2144,Ryan Bertrand,DF,Leicester City,eng Premier League,2,01226327
+2145,Luis Binks,DF,Bologna,it Serie A,2,36e88fbc
+2146,Charles Boli,MF,Lens,fr Ligue 1,2,bbdd999a
+2147,Edoardo Bove,MFFW,Roma,it Serie A,2,ae94a6c5
+2148,Dedryck Boyata,DF,Hertha BSC,de Bundesliga,2,7c473e12
+2149,Yan Brice Eteki,MF,Granada,es La Liga,2,3d688b46
+2150,Delano Burgzorg,FW,Mainz 05,de Bundesliga,2,05e2d5ea
+2151,Dan Burn,DF,Newcastle Utd,eng Premier League,2,b2d31e83
+2152,Dan Burn,DF,Brighton,eng Premier League,2,b2d31e83
+2153,Oriol Busquets,MF,Clermont Foot,fr Ligue 1,2,49712367
+2154,Calderón,DF,Betis,es La Liga,2,da4e70e5
+2155,Duje Ćaleta-Car,DF,Marseille,fr Ligue 1,2,94f8d10c
+2156,Trevoh Chalobah,DF,Chelsea,eng Premier League,2,5515376c
+2157,Andreas Christensen,DF,Chelsea,eng Premier League,2,1cb49278
+2158,Coke,DF,Levante,es La Liga,2,6d8f8441
+2159,Liam Cooper,DF,Leeds United,eng Premier League,2,dc64b8b3
+2160,Marc Cucurella,FWDF,Getafe,es La Liga,2,1daec722
+2161,Matheus Cunha,FW,Hertha BSC,de Bundesliga,2,dc62b55d
+2162,Márton Dárdai,DF,Hertha BSC,de Bundesliga,2,41bff4fa
+2163,Keinan Davis,FW,Aston Villa,eng Premier League,2,9deaf2c8
+2164,Víctor Díaz,DF,Granada,es La Liga,2,3624ce4c
+2165,Elhadji Dieye,MFFW,Saint-Étienne,fr Ligue 1,2,6a04bb7c
+2166,Djené,DF,Getafe,es La Liga,2,a4971d84
+2167,Bryan Djile Nokoué,DFMF,Saint-Étienne,fr Ligue 1,2,75186a6a
+2168,Cody Drameh,DF,Leeds United,eng Premier League,2,e0d1510a
+2169,Shane Duffy,DF,Brighton,eng Premier League,2,7314bba4
+2170,Hugo Duro,DFMF,Getafe,es La Liga,2,37e103f8
+2171,Martin Erlic,DF,Spezia,it Serie A,2,0fee6bda
+2172,Jonny Evans,DF,Leicester City,eng Premier League,2,f8fcd2a5
+2173,Luiz Felipe,DF,Lazio,it Serie A,2,15d0c248
+2174,Ohis Felix Uduokhai,DF,Augsburg,de Bundesliga,2,677da306
+2175,Federico Fernández,DF,Newcastle Utd,eng Premier League,2,f25b010f
+2176,Nicolas Galazzi,DF,Venezia,it Serie A,2,a796492f
+2177,Anwar El Ghazi,FW,Everton,eng Premier League,2,ffa90327
+2178,Ben Gibson,DF,Norwich City,eng Premier League,2,bcfb0142
+2179,Daniel Ginczek,MFFW,Wolfsburg,de Bundesliga,2,e5f63987
+2180,Diego Godín,DF,Cagliari,it Serie A,2,fc4f85b1
+2181,Diego González,DF,Elche,es La Liga,2,4ac7608e
+2182,Peter González,MFDF,Real Madrid,es La Liga,2,1ccd3dae
+2183,Clément Grenier,MF,Mallorca,es La Liga,2,8b298f56
+2184,Marc Guéhi,DF,Crystal Palace,eng Premier League,2,d0706b27
+2185,Manuel Gulde,DF,Freiburg,de Bundesliga,2,25ab9c9c
+2186,Makoto Hasebe,DF,Eint Frankfurt,de Bundesliga,2,9ab16552
+2187,Christophe Hérelle,DF,Brest,fr Ligue 1,2,3681cfff
+2188,Benjamin Hübner,DF,Hoffenheim,de Bundesliga,2,99de6b6f
+2189,Nikita Iosifov,MF,Villarreal,es La Liga,2,4c2fa917
+2190,Jemerson,DF,Metz,fr Ligue 1,2,7cab69b5
+2191,Miguel Juan Llambrich,DF,Espanyol,es La Liga,2,d83f09ff
+2192,Christian Kabasele,DF,Watford,eng Premier League,2,914ab9a1
+2193,Anton Kade,MFDF,Hertha BSC,de Bundesliga,2,6d7598d5
+2194,Jean-Armel Kana-Biyik,DF,Metz,fr Ligue 1,2,76a4233b
+2195,Marc-Oliver Kempf,DF,Hertha BSC,de Bundesliga,2,815c314f
+2196,Ibrahima Konaté,DF,Liverpool,eng Premier League,2,5ed9b537
+2197,Odilon Kossonou,DF,Leverkusen,de Bundesliga,2,1f3afdcb
+2198,Christos Kourfalidis,MFDF,Cagliari,it Serie A,2,5c522c88
+2199,Víctor Laguardia,DF,Alavés,es La Liga,2,b7c99b9b
+2200,Clément Lenglet,DF,Barcelona,es La Liga,2,4f28a6ff
+2201,Jamal Lewis,DF,Newcastle Utd,eng Premier League,2,efb9215a
+2202,Victor Lindelöf,DF,Manchester Utd,eng Premier League,2,f5deef4c
+2203,Diego Llorente,DF,Leeds United,eng Premier League,2,bba30585
+2204,Lyanco,DF,Southampton,eng Premier League,2,b5bf1770
+2205,Josh Maja,FW,Bordeaux,fr Ligue 1,2,bc0bfc64
+2206,Eliaquim Mangala,DF,Saint-Étienne,fr Ligue 1,2,f520049f
+2207,Myziane Maolida,MFFW,Nice,fr Ligue 1,2,706a60e1
+2208,Marcelo,DF,Bordeaux,fr Ligue 1,2,e3d0b0c4
+2209,Iván Marcone,MF,Elche,es La Liga,2,b14f755d
+2210,José Mari,MF,Cádiz,es La Liga,2,6f4c734d
+2211,Pablo Marí,DF,Arsenal,eng Premier League,2,aa54ec6f
+2212,José María Giménez,DF,Atlético Madrid,es La Liga,2,f0da930c
+2213,Omar Marmoush,FW,Wolfsburg,de Bundesliga,2,0e0102eb
+2214,Jérémy Morel,DF,Lorient,fr Ligue 1,2,e97150c0
+2215,Ilaix Moriba,MF,RB Leipzig,de Bundesliga,2,f4c69aa6
+2216,Hans Nunoo Sarpei,DFMF,Greuther Fürth,de Bundesliga,2,9593331d
+2217,Florent Ogier,DF,Clermont Foot,fr Ligue 1,2,6993927b
+2218,Mathias Olesen,MF,Köln,de Bundesliga,2,86adbcc7
+2219,Simone Pafundi,FW,Udinese,it Serie A,2,8daee720
+2220,Nicolas Pallois,DF,Nantes,fr Ligue 1,2,779847d6
+2221,Matondo-Merveille Papela,MF,Mainz 05,de Bundesliga,2,b4b08774
+2222,Gabriel Paulista,DF,Valencia,es La Liga,2,b7ca5c51
+2223,Léo Pétrot,DF,Lorient,fr Ligue 1,2,00638016
+2224,Gerard Piqué,DF,Barcelona,es La Liga,2,adfc9123
+2225,Mateusz Praszelik,FWMF,Hellas Verona,it Serie A,2,ec6773f5
+2226,Jonás Ramalho,DF,Osasuna,es La Liga,2,be3a0121
+2227,Guilherme Ramos,DF,Arminia,de Bundesliga,2,df9c3473
+2228,Aaron Ramsey,MF,Juventus,it Serie A,2,ef619b0b
+2229,Chris Richards,DF,Hoffenheim,de Bundesliga,2,0a3d6d2b
+2230,Simone Romagnoli,DF,Empoli,it Serie A,2,09899de8
+2231,Isma Ruiz,MF,Granada,es La Liga,2,6e36226f
+2232,Víctor Ruiz,DF,Betis,es La Liga,2,b3dc6eca
+2233,Marcel Sabitzer,MFFW,RB Leipzig,de Bundesliga,2,e280527c
+2234,Falaye Sacko,DF,Saint-Étienne,fr Ligue 1,2,6388e356
+2235,Luigi Samele,FW,Sassuolo,it Serie A,2,548fea2f
+2236,Pablo Sarabia,FW,Paris S-G,fr Ligue 1,2,9744ff80
+2237,Malang Sarr,DF,Chelsea,eng Premier League,2,4315f30d
+2238,Javier Serrano,MF,Atlético Madrid,es La Liga,2,0a8fd9cb
+2239,Zidan Sertdemir,MFFW,Leverkusen,de Bundesliga,2,eec1f7f4
+2240,Nils Seufert,MF,Greuther Fürth,de Bundesliga,2,0da32a38
+2241,Aimar Sher,MF,Spezia,it Serie A,2,ef301f96
+2242,Giovanni Simeone,FW,Cagliari,it Serie A,2,343c0d52
+2243,Çağlar Söyüncü,DF,Leicester City,eng Premier League,2,21166ff4
+2244,Jerry St. Juste,DF,Mainz 05,de Bundesliga,2,90339309
+2245,Jack Stephens,DF,Southampton,eng Premier League,2,6adbc307
+2246,Tobias Strobl,MFDF,Augsburg,de Bundesliga,2,17780d2b
+2247,Mario Suárez,DF,Rayo Vallecano,es La Liga,2,7106f0a0
+2248,Amadou Traore,FW,Bordeaux,fr Ligue 1,2,4eb0686f
+2249,William Troost-Ekong,DF,Watford,eng Premier League,2,7ed4921e
+2250,Yan Valery,DF,Southampton,eng Premier League,2,531a4aa8
+2251,Gabriel Veiga,MF,Celta Vigo,es La Liga,2,35a6e5c7
+2252,Nick Viergever,DF,Greuther Fürth,de Bundesliga,2,e38f1636
+2253,Gonzalo Villar,MF,Getafe,es La Liga,2,bdc74a8f
+2254,Neco Williams,DF,Liverpool,eng Premier League,2,dd323728
+2255,Marten Winkler,MF,Hertha BSC,de Bundesliga,2,e0d515ef
+2256,Dan-Axel Zagadou,DF,Dortmund,de Bundesliga,2,a4effc55
+2257,Marvin Zeegelaar,DF,Udinese,it Serie A,2,8abd0c03
+2258,Mehdi Zerkane,MFDF,Bordeaux,fr Ligue 1,2,53f6306f
+2259,Luis Abram,DF,Granada,es La Liga,1,1f462f95
+2260,Mohamed Achi,MF,Nantes,fr Ligue 1,1,1e93fc5d
+2261,Naouirou Ahamada,MF,Stuttgart,de Bundesliga,1,a6c58494
+2262,Hugo Álvarez,FW,Celta Vigo,es La Liga,1,6f392eb8
+2263,Daniel Amartey,DF,Leicester City,eng Premier League,1,1a4ef233
+2264,Alejandro Asensio,FW,Rayo Vallecano,es La Liga,1,b4c23f36
+2265,Leonardo Balerdi,DF,Marseille,fr Ligue 1,1,7c3ed041
+2266,Maximilian Bauer,DF,Greuther Fürth,de Bundesliga,1,44a20f0c
+2267,Jon Bautista,FWMF,Real Sociedad,es La Liga,1,debc6b55
+2268,Salim Ben Seghir,FW,Marseille,fr Ligue 1,1,1f6298f2
+2269,Patrick Berg,MF,Lens,fr Ligue 1,1,e4114f5d
+2270,Mads Bidstrup,MF,Brentford,eng Premier League,1,407db0d5
+2271,Jean-Claude Billong,DF,Clermont Foot,fr Ligue 1,1,a3e1d20d
+2272,Tom Bischof,MFFW,Hoffenheim,de Bundesliga,1,07d3bfec
+2273,Nathan Bitu Mazala,DF,Paris S-G,fr Ligue 1,1,0f697e02
+2274,Jérôme Boateng,DF,Lyon,fr Ligue 1,1,2db2fd7b
+2275,Antonin Bobichon,MFFW,Angers,fr Ligue 1,1,7d937aa1
+2276,Luka Bogdan,DF,Salernitana,it Serie A,1,cb678320
+2277,Tarsis Bonga,FW,Bochum,de Bundesliga,1,6ebbc28a
+2278,Kevin Bonifazi,DF,Bologna,it Serie A,1,fb77bfef
+2279,Ismaëlben Boura,DF,Lens,fr Ligue 1,1,62e02107
+2280,Mehdi Bourabia,MF,Spezia,it Serie A,1,0d077b88
+2281,Redwan Bourles,MFFW,Lorient,fr Ligue 1,1,5c7895a0
+2282,Lewis Brunt,MF,Leicester City,eng Premier League,1,a2081c6b
+2283,Erick Cabaco,DF,Getafe,es La Liga,1,e7ab4179
+2284,Cala,DF,Cádiz,es La Liga,1,fe05804b
+2285,Riccardo Calafiori,DF,Genoa,it Serie A,1,aded8e6f
+2286,Chem Campbell,MF,Wolves,eng Premier League,1,6f711f67
+2287,Jean-Charles Castelletto,DF,Nantes,fr Ligue 1,1,e0f3a1f6
+2288,Julian Chabot,DF,Sampdoria,it Serie A,1,ae7058f9
+2289,Mehdi Chahiri,MF,Strasbourg,fr Ligue 1,1,1787195f
+2290,Calum Chambers,DF,Aston Villa,eng Premier League,1,dc6f5bdd
+2291,Chema,MF,Getafe,es La Liga,1,7f203b54
+2292,Eray Cömert,DF,Valencia,es La Liga,1,15937e17
+2293,Charlie Cresswell,DF,Leeds United,eng Premier League,1,4654e5f5
+2294,Mickaël Cuisance,MF,Bayern Munich,de Bundesliga,1,5722eced
+2295,Lennart-Marten Czyborra,DF,Arminia,de Bundesliga,1,7ba1f1ef
+2296,Dante,DF,Nice,fr Ligue 1,1,fd2bc67d
+2297,Sebastien De Maio,DF,Udinese,it Serie A,1,952a03fe
+2298,Saulo Decarli,DF,Bochum,de Bundesliga,1,41df88b8
+2299,Romain Del Castillo,MFFW,Rennes,fr Ligue 1,1,0be95d34
+2300,Jacopo Dezi,MF,Venezia,it Serie A,1,e921b9db
+2301,Samuel Di Carmine,FW,Hellas Verona,it Serie A,1,ef94dc2f
+2302,Mouhamadou Diarra,MF,Strasbourg,fr Ligue 1,1,6d0fe035
+2303,Andy Diouf,MF,Rennes,fr Ligue 1,1,9b5237b1
+2304,Assane Dioussé,MF,Saint-Étienne,fr Ligue 1,1,7f622eef
+2305,Alexander Djiku,DF,Strasbourg,fr Ligue 1,1,43e7a164
+2306,Mario Dominguez,FW,Valencia,es La Liga,1,d709cd5c
+2307,John Donald,DF,Elche,es La Liga,1,5e95c000
+2308,Fodé Doucouré,DF,Reims,fr Ligue 1,1,1bfe34dc
+2309,Domingos Duarte,DF,Granada,es La Liga,1,93090f69
+2310,Óscar Duarte,DF,Levante,es La Liga,1,aa0ac32d
+2311,Lewis Dunk,DF,Brighton,eng Premier League,1,282f75f3
+2312,Maxime Estève,DF,Montpellier,fr Ligue 1,1,1a066e69
+2313,Paolo Faragò,MF,Cagliari,it Serie A,1,9085dd7c
+2314,Adrian Fein,MF,Greuther Fürth,de Bundesliga,1,60097ff6
+2315,Ashley Fletcher,FW,Watford,eng Premier League,1,eeb6551f
+2316,Wesley Fofana,DF,Leicester City,eng Premier League,1,132a82f1
+2317,José Fontán,DF,Celta Vigo,es La Liga,1,1827a42d
+2318,Dimitri Foulquier,DF,Granada,es La Liga,1,45e17712
+2319,Gianluca Gaetano,MF,Napoli,it Serie A,1,3b387cc7
+2320,Luca Gagliano,MFDF,Cagliari,it Serie A,1,1d00a56c
+2321,Unai García,DF,Osasuna,es La Liga,1,4a633cfe
+2322,Djeidi Gassama,FW,Paris S-G,fr Ligue 1,1,bbdb2789
+2323,Jean-Philippe Gbamin,MF,Everton,eng Premier League,1,6bd603db
+2324,Ismaël Gharbi,FW,Paris S-G,fr Ligue 1,1,5b3cfa12
+2325,Lamine Ghezali,DF,Saint-Étienne,fr Ligue 1,1,ce84946a
+2326,Jimmy Giraudon,DF,Troyes,fr Ligue 1,1,6ba71da5
+2327,Edoardo Goldaniga,DF,Cagliari,it Serie A,1,4b029b31
+2328,Toti Gomes,DF,Wolves,eng Premier League,1,f0caab96
+2329,Sergi Gómez,DF,Espanyol,es La Liga,1,bc6f5f06
+2330,Édgar González,DF,Betis,es La Liga,1,49d028db
+2331,Dominique Heintz,DF,Union Berlin,de Bundesliga,1,699fb8db
+2332,Jeff Hendrick,MF,Newcastle Utd,eng Premier League,1,989d5705
+2333,Aridane Hernández,DF,Osasuna,es La Liga,1,132ac341
+2334,Luis Hernández,DF,Cádiz,es La Liga,1,02d2c436
+2335,Mason Holgate,DF,Everton,eng Premier League,1,d0042ab9
+2336,Stefan Ilsanker,DFMF,Eint Frankfurt,de Bundesliga,1,8494acc4
+2337,Tony Jantschke,DF,M'Gladbach,de Bundesliga,1,34b54da7
+2338,Mathias Jørgensen,DF,Brentford,eng Premier League,1,0db5d2c8
+2339,Laurent Koscielny,DF,Bordeaux,fr Ligue 1,1,f5efb153
+2340,Boubakar Kouyaté,DF,Metz,fr Ligue 1,1,562a4799
+2341,Mykola Kukharevych,FW,Troyes,fr Ligue 1,1,8197a269
+2342,Marash Kumbulla,DF,Roma,it Serie A,1,a40819d9
+2343,Théo Le Bris,MF,Lorient,fr Ligue 1,1,afe39ca8
+2344,Patrick Leal,MF,Venezia,it Serie A,1,d97ec0d1
+2345,Maxim Leitsch,DF,Bochum,de Bundesliga,1,7e12a98d
+2346,Félix Lemaréchal,MF,Monaco,fr Ligue 1,1,8ca9415f
+2347,Johaneko Louisjean,DF,Bordeaux,fr Ligue 1,1,9af3613f
+2348,Matteo Lovato,DFMF,Atalanta,it Serie A,1,5fa57166
+2349,Matteo Lovato,DF,Cagliari,it Serie A,1,5fa57166
+2350,Matej Maglica,DF,Stuttgart,de Bundesliga,1,36cf2caf
+2351,Giangiacomo Magnani,DF,Hellas Verona,it Serie A,1,cce9f582
+2352,Nikola Maraš,DF,Rayo Vallecano,es La Liga,1,b9d0446f
+2353,Marcelo,DF,Lyon,fr Ligue 1,1,e3d0b0c4
+2354,Lucas Martínez Quarta,DF,Fiorentina,it Serie A,1,3ec3c1c9
+2355,Erhan Mašović,DF,Bochum,de Bundesliga,1,a396fb61
+2356,Ibrahima Mbaye,DF,Bologna,it Serie A,1,cfbf9881
+2357,Amadou Mbengue,DFMF,Metz,fr Ligue 1,1,14d2670e
+2358,Admir Mehmedi,MF,Wolfsburg,de Bundesliga,1,b500b384
+2359,Benjamin Mendy,DF,Manchester City,eng Premier League,1,5271c8f1
+2360,Jorge Meré,DF,Köln,de Bundesliga,1,9f979eb2
+2361,Yıldırım Mert Çetin,DF,Hellas Verona,it Serie A,1,c730da00
+2362,Matt Miazga,DF,Alavés,es La Liga,1,9fc0f253
+2363,Hilmir Mikaelsson,FW,Venezia,it Serie A,1,5add9b29
+2364,Wesley Moraes,FW,Aston Villa,eng Premier League,1,bfae110f
+2365,Harold Moukoudi,DF,Saint-Étienne,fr Ligue 1,1,5f26e0c5
+2366,Samuel Mráz,FW,Spezia,it Serie A,1,be6c1ccc
+2367,Shkodran Mustafi,DF,Levante,es La Liga,1,3f2d59fe
+2368,Mickael Nade,DF,Saint-Étienne,fr Ligue 1,1,a6b6fa6e
+2369,Aurélien Nguiamba,MF,Spezia,it Serie A,1,de135234
+2370,Håvard Nordtveit,DF,Hoffenheim,de Bundesliga,1,6cafd68d
+2371,Allan Nyom,DF,Getafe,es La Liga,1,97572117
+2372,Angelo Ogbonna,DF,West Ham,eng Premier League,1,74b2cd7e
+2373,Andrew Omobamidele,DF,Norwich City,eng Premier League,1,c393a6c4
+2374,Emerson Palmieri,DF,Chelsea,eng Premier League,1,e0bc6fdc
+2375,Kevin Paredes,FWDF,Wolfsburg,de Bundesliga,1,5c50fdbc
+2376,Raúl Parra,DF,Cádiz,es La Liga,1,647d39d2
+2377,Romain Philippoteaux,MF,Brest,fr Ligue 1,1,f98b15f0
+2378,Jaden Philogene Bidace,FW,Aston Villa,eng Premier League,1,19f4d211
+2379,Jérémy Pied,DFFW,Lille,fr Ligue 1,1,a634b9d2
+2380,Marin Pongračić,DF,Dortmund,de Bundesliga,1,2a6cd437
+2381,Sergio Postigo,DF,Levante,es La Liga,1,474ecac8
+2382,Isaac Price,MF,Everton,eng Premier League,1,b9403c99
+2383,Erick Pulgar,MF,Fiorentina,it Serie A,1,4611e028
+2384,Yacine Qasmi,MF,Rayo Vallecano,es La Liga,1,3b3cbebb
+2385,Dani Raba,MFFW,Granada,es La Liga,1,ea6a7ab4
+2386,Ștefan Radu,DF,Lazio,it Serie A,1,53de807a
+2387,Antonio Raillo,DF,Mallorca,es La Liga,1,b857bd29
+2388,Sergio Ramos,DF,Paris S-G,fr Ligue 1,1,08511d65
+2389,Lluís Recasens,DF,Espanyol,es La Liga,1,c31ea173
+2390,Bryan Reynolds,DF,Roma,it Serie A,1,2306bf5c
+2391,Tomás Rincón,MFFW,Torino,it Serie A,1,f1cfc209
+2392,Cimo Röcker,DF,Hertha BSC,de Bundesliga,1,611b1aae
+2393,Unai Ropero,MF,Alavés,es La Liga,1,7868c973
+2394,Ruan,DF,Sassuolo,it Serie A,1,a378a02a
+2395,Alessandro Russo,MF,Salernitana,it Serie A,1,7152082d
+2396,Baptiste Santamaria,MF,Freiburg,de Bundesliga,1,5e22e2a4
+2397,Jesús Santiago,MF,Valencia,es La Liga,1,bc49fd34
+2398,Samir Santos,DF,Watford,eng Premier League,1,92b4758e
+2399,Alvaro Sanz,MF,Barcelona,es La Liga,1,eaefa2d0
+2400,Esteban Saveljich,DF,Rayo Vallecano,es La Liga,1,79f2a5f5
+2401,David Schnegg,DF,Venezia,it Serie A,1,1c341b14
+2402,Laurens Serpe,DF,Genoa,it Serie A,1,79d60e74
+2403,Shola Shoretire,FW,Manchester Utd,eng Premier League,1,00f0482f
+2404,Rui Silva,GK,Betis,es La Liga,1,ea83bfa6
+2405,Giuliano Simeone,DF,Atlético Madrid,es La Liga,1,a6536561
+2406,Dale Stephens,MF,Burnley,eng Premier League,1,653ee42d
+2407,Finley Stevens,DF,Brentford,eng Premier League,1,7e003182
+2408,Stefan Strandberg,DF,Salernitana,it Serie A,1,6d5e62b0
+2409,Vladyslav Supriaha,FW,Sampdoria,it Serie A,1,73affbb6
+2410,Michael Svoboda,DF,Venezia,it Serie A,1,8abd174d
+2411,Oussama Targhalline,FW,Marseille,fr Ligue 1,1,abd56820
+2412,Mathys Tel,FWMF,Rennes,fr Ligue 1,1,829aa60c
+2413,Filippo Terracciano,DF,Hellas Verona,it Serie A,1,5cbb5ad6
+2414,Robert Tesche,MF,Bochum,de Bundesliga,1,037130ca
+2415,Thuler,DF,Montpellier,fr Ligue 1,1,db23d9fc
+2416,James Tomkins,DF,Crystal Palace,eng Premier League,1,e7ca0439
+2417,Lorenzo Tonelli,DF,Empoli,it Serie A,1,8cc29864
+2418,Axel Tuanzebe,DF,Aston Villa,eng Premier League,1,2baec6ce
+2419,Maximilian Ullmann,DF,Venezia,it Serie A,1,caaf2ed1
+2420,Samuel Umtiti,DF,Barcelona,es La Liga,1,3eed9821
+2421,Mickey van de Ven,DF,Wolfsburg,de Bundesliga,1,8fe2a392
+2422,Dídac Vilà,DFMF,Espanyol,es La Liga,1,bad38a94
+2423,Mattia Viti,DF,Empoli,it Serie A,1,75438a9a
+2424,Kevin Vogt,DF,Hoffenheim,de Bundesliga,1,1d8e9add
+2425,Daniel Wass,DF,Atlético Madrid,es La Liga,1,d83bbc54
+2426,Frederik Winther,DF,Augsburg,de Bundesliga,1,a1257b5e
+2427,Mattia Zanotti,DF,Inter,it Serie A,1,875d65d1
+2428,Banhie Zoukrou,DF,Troyes,fr Ligue 1,1,aefa3050
+2429,Julen Agirrezabala,GK,Athletic Club,es La Liga,0,a2c1a8d3
+2430,Álvaro Aguirre,FW,Rayo Vallecano,es La Liga,0,93b054dc
+2431,Raúl Albiol,DF,Villarreal,es La Liga,0,4bd414c1
+2432,Doğan Alemdar,GK,Rennes,fr Ligue 1,0,9e17ccff
+2433,Mircea Alexandru Tirlea,DF,Alavés,es La Liga,0,683a1d81
+2434,Alisson,GK,Liverpool,eng Premier League,0,7a2e46a8
+2435,Wisdom Amey,DF,Bologna,it Serie A,0,35b4bc62
+2436,Ebenezer Annan,DF,Bologna,it Serie A,0,39aa05a7
+2437,Josep Antoni Gayá,DF,Mallorca,es La Liga,0,4a5f2032
+2438,Alphonse Areola,GK,West Ham,eng Premier League,0,2f965a72
+2439,Kepa Arrizabalaga,GK,Chelsea,eng Premier League,0,28d596a0
+2440,Sergio Asenjo,GK,Villarreal,es La Liga,0,9f0ea33f
+2441,Harrison Ashby,DF,West Ham,eng Premier League,0,b391383a
+2442,Emil Audero,GK,Sampdoria,it Serie A,0,649b01d8
+2443,Ramzi Aya,DF,Salernitana,it Serie A,0,6a1f66a7
+2444,Kaan Ayhan,DF,Sassuolo,it Serie A,0,2200181e
+2445,Daniel Bachmann,GK,Watford,eng Premier League,0,1c0eea98
+2446,Loïc Bade,DF,Rennes,fr Ligue 1,0,114bbdee
+2447,Édgar Badía,GK,Elche,es La Liga,0,e4346678
+2448,Miguel Baeza,DF,Celta Vigo,es La Liga,0,a98f3cbf
+2449,Nicola Bagnolini,GK,Bologna,it Serie A,0,ad263695
+2450,Eric Bailly,DF,Manchester Utd,eng Premier League,0,a1232f4e
+2451,Dénys Bain,DF,Brest,fr Ligue 1,0,5065d67d
+2452,Stefan Bajic,GK,Saint-Étienne,fr Ligue 1,0,be13e5a8
+2453,Abdoulaye Bakayoko,DF,Saint-Étienne,fr Ligue 1,0,ee95585f
+2454,Mattia Bani,DF,Genoa,it Serie A,0,0821331c
+2455,Danilo Barbosa,DF,Nice,fr Ligue 1,0,0557ff4f
+2456,Barcia,DF,Granada,es La Liga,0,0c717ae6
+2457,Francesco Bardi,GK,Bologna,it Serie A,0,0acda699
+2458,Álvaro Bastida,MF,Cádiz,es La Liga,0,42a028c5
+2459,Oliver Baumann,GK,Hoffenheim,de Bundesliga,0,47064058
+2460,Julian Baumgartlinger,MF,Leverkusen,de Bundesliga,0,69374ff5
+2461,Paul Baysse,DF,Bordeaux,fr Ligue 1,0,2515040a
+2462,Asmir Begović,GK,Everton,eng Premier League,0,7b4de647
+2463,Vid Belec,GK,Salernitana,it Serie A,0,4f8ce0e1
+2464,Jeanuel Belocian,DF,Rennes,fr Ligue 1,0,c678ddd7
+2465,Walter Benítez,GK,Nice,fr Ligue 1,0,8a2248b4
+2466,Loris Benito,DF,Bordeaux,fr Ligue 1,0,f5b6fb78
+2467,Pedro Benito,FW,Cádiz,es La Liga,0,a7416105
+2468,Filip Benković,DFFW,Udinese,it Serie A,0,305a3820
+2469,Alessandro Berardi,GK,Hellas Verona,it Serie A,0,ec1f737d
+2470,Etrit Berisha,GK,Torino,it Serie A,0,ee833569
+2471,Paul Bernardoni,GK,Angers,fr Ligue 1,0,28dabd43
+2472,Paul Bernardoni,GK,Saint-Étienne,fr Ligue 1,0,28dabd43
+2473,Dimitry Bertaud,GK,Montpellier,fr Ligue 1,0,380a15e2
+2474,Nicolò Bertola,MFDF,Spezia,it Serie A,0,04b40c58
+2475,Ermin Bičakčić,DF,Hoffenheim,de Bundesliga,0,7aac47fe
+2476,Marco Bizot,GK,Brest,fr Ligue 1,0,3d214e5f
+2477,Bjarki Bjarkason,FW,Venezia,it Serie A,0,f1d25de7
+2478,Blanco,MF,Real Madrid,es La Liga,0,506daeac
+2479,Willy Boly,DF,Wolves,eng Premier League,0,a4ac4b8f
+2480,Solomon Bonnah,DF,RB Leipzig,de Bundesliga,0,dd7b6eb8
+2481,Leonardo Bonucci,DF,Juventus,it Serie A,0,52ec54d0
+2482,Sven Botman,DF,Lille,fr Ligue 1,0,ccce7025
+2483,Yassine Bounou,GK,Sevilla,es La Liga,0,f6798fc3
+2484,Jarrad Branthwaite,DF,Everton,eng Premier League,0,c1949191
+2485,Claudio Bravo,GK,Betis,es La Liga,0,10072610
+2486,Iker Bravo,FW,Leverkusen,de Bundesliga,0,db8c8860
+2487,Fabian Bredlow,GK,Stuttgart,de Bundesliga,0,d28339cb
+2488,Sascha Burchert,GK,Greuther Fürth,de Bundesliga,0,25bdea4b
+2489,Roman Bürki,GK,Dortmund,de Bundesliga,0,9d12e142
+2490,Jack Butland,GK,Crystal Palace,eng Premier League,0,cc70a1d5
+2491,Adrián Butzke,FW,Granada,es La Liga,0,505dce2b
+2492,Marcin Bułka,GK,Nice,fr Ligue 1,0,db87a2c4
+2493,Willy Caballero,GK,Southampton,eng Premier League,0,a179d516
+2494,Marc-Aurèle Caillard,GK,Metz,fr Ligue 1,0,5ee6e943
+2495,Fernando Calero,DF,Espanyol,es La Liga,0,41b3069f
+2496,Lucas Calodat,DF,Saint-Étienne,fr Ligue 1,0,7a72e960
+2497,Ander Capa,DF,Athletic Club,es La Liga,0,37f1cf47
+2498,Cárdenas,GK,Levante,es La Liga,0,e1846dde
+2499,Carlo,MF,Villarreal,es La Liga,0,8249ff06
+2500,Carmona,DF,Sevilla,es La Liga,0,2dce876a
+2501,Kiko Casilla,GK,Elche,es La Liga,0,58bc7d18
+2502,Francesco Cassata,MF,Genoa,it Serie A,0,96960855
+2503,Koen Casteels,GK,Wolfsburg,de Bundesliga,0,db401046
+2504,Leonardo César Jardim,GK,Lille,fr Ligue 1,0,f5dfc256
+2505,Damir Ceter,FW,Cagliari,it Serie A,0,eade5337
+2506,Julian Chabot,DF,Köln,de Bundesliga,0,ae7058f9
+2507,El Chadaille Bitshiabu,DF,Paris S-G,fr Ligue 1,0,2180c761
+2508,Kayky Chagas,FW,Manchester City,eng Premier League,0,17734ea0
+2509,Calum Chambers,DF,Arsenal,eng Premier League,0,dc6f5bdd
+2510,Daniel Chesters,MF,West Ham,eng Premier League,0,240c8ab6
+2511,Vlad Chiricheș,DF,Sassuolo,it Serie A,0,c316607a
+2512,Hamza Choudhury,DFMF,Leicester City,eng Premier League,0,7d2d3329
+2513,Jasper Cillessen,GK,Valencia,es La Liga,0,04ac8285
+2514,Giorgio Cittadini,DF,Atalanta,it Serie A,0,e4ba67f2
+2515,Diego Conde,GK,Getafe,es La Liga,0,4eae5bc4
+2516,Andrea Consigli,GK,Sassuolo,it Serie A,0,8cabdc1e
+2517,Andrea Conti,DF,Milan,it Serie A,0,8fef5412
+2518,Lucas Copado,FW,Bayern Munich,de Bundesliga,0,8356931a
+2519,Diego Coppola,DF,Hellas Verona,it Serie A,0,22ae86f9
+2520,Maxwel Cornet,DFMF,Lyon,fr Ligue 1,0,beb391dd
+2521,Hélder Costa,MF,Leeds United,eng Premier League,0,f13d02a6
+2522,Benoît Costil,GK,Bordeaux,fr Ligue 1,0,2434f24a
+2523,Thibaut Courtois,GK,Real Madrid,es La Liga,0,1840e36d
+2524,Alessio Cragno,GK,Cagliari,it Serie A,0,f554e29b
+2525,Cristo,DF,Real Sociedad,es La Liga,0,ad81ba78
+2526,Giovanni Crociata,FW,Empoli,it Serie A,0,8c964914
+2527,Damien Da Silva,DF,Lyon,fr Ligue 1,0,1ec7e1c5
+2528,Finn Dahmen,GK,Mainz 05,de Bundesliga,0,dee3013b
+2529,Kevin Danso,DF,Lens,fr Ligue 1,0,6e33125f
+2530,Karl Darlow,GK,Newcastle Utd,eng Premier League,0,cde3309f
+2531,Tommaso De Nipoti,MF,Atalanta,it Serie A,0,7f9d956a
+2532,Thomas Delaney,MF,Dortmund,de Bundesliga,0,fe641c1a
+2533,Liam Delap,FW,Manchester City,eng Premier League,0,dd897ee7
+2534,Jason Denayer,DF,Lyon,fr Ligue 1,0,47af88b8
+2535,Mike van der Hoorn,DF,Arminia,de Bundesliga,0,25f50295
+2536,Arthur Desmas,GK,Clermont Foot,fr Ligue 1,0,e8c5dd4d
+2537,Ibrahim Diakité,MF,Reims,fr Ligue 1,0,d8c19a60
+2538,Amadou Diawara,MF,Roma,it Serie A,0,bf309d24
+2539,Javier Díaz,GK,Sevilla,es La Liga,0,17a1299d
+2540,Stole Dimitrievski,GK,Rayo Vallecano,es La Liga,0,fc70e345
+2541,Sinaly Diomande,DF,Lyon,fr Ligue 1,0,6de23ab0
+2542,Issa Diop,DF,West Ham,eng Premier League,0,a712ca2b
+2543,Filippo Distefano,FW,Fiorentina,it Serie A,0,2110f96c
+2544,Matías Dituro,GK,Celta Vigo,es La Liga,0,b6160ad0
+2545,Ouparine Djoco,GK,Clermont Foot,fr Ligue 1,0,62124972
+2546,Marko Dmitrović,GK,Sevilla,es La Liga,0,ac295d9e
+2547,Jaume Doménech,GK,Valencia,es La Liga,0,c9cb972b
+2548,Carlos Dominguez,DF,Celta Vigo,es La Liga,0,3521abfe
+2549,Gianluigi Donnarumma,GK,Paris S-G,fr Ligue 1,0,08f5afaa
+2550,Lohann Doucet,MF,Nantes,fr Ligue 1,0,dff0c299
+2551,Ismaël Doukouré,DF,Strasbourg,fr Ligue 1,0,0512a60a
+2552,Bartłomiej Drągowski,GK,Fiorentina,it Serie A,0,085e71a7
+2553,Matthieu Dreyer,GK,Lorient,fr Ligue 1,0,fbf83734
+2554,Martin Dúbravka,GK,Newcastle Utd,eng Premier League,0,3a949a25
+2555,Unai Dufur,DF,Osasuna,es La Liga,0,c261b5dd
+2556,Paul Dummett,DF,Newcastle Utd,eng Premier League,0,3fe6bd8c
+2557,Ederson,GK,Manchester City,eng Premier League,0,3bb7b8b4
+2558,CJ Egan-Riley,DF,Manchester City,eng Premier League,0,d313e8ff
+2559,Julian Eitschberger,DF,Hertha BSC,de Bundesliga,0,943b9602
+2560,Gonzalo Escalante,MF,Lazio,it Serie A,0,3f79a1c8
+2561,Aarón Escandell,GK,Granada,es La Liga,0,67669ce7
+2562,Michael Esser,GK,Bochum,de Bundesliga,0,83e0eeb4
+2563,Estanis,FW,Barcelona,es La Liga,0,ace50e9f
+2564,Łukasz Fabiański,GK,West Ham,eng Premier League,0,9328b835
+2565,Wladimiro Falcone,GK,Sampdoria,it Serie A,0,9f5a610b
+2566,Omar Faraj,FW,Levante,es La Liga,0,de627c8a
+2567,Wuilker Faríñez,GK,Lens,fr Ligue 1,0,2c127b6f
+2568,Noah Fatar,DFMF,Angers,fr Ligue 1,0,2693f6bc
+2569,Evan Ferguson,MF,Brighton,eng Premier League,0,4596da74
+2570,Nathan Ferguson,DF,Crystal Palace,eng Premier League,0,2f8d27bc
+2571,Aitor Fernández,GK,Levante,es La Liga,0,a01c3d54
+2572,Álvaro Fernández,GK,Brentford,eng Premier League,0,f127d782
+2573,Vincenzo Fiorillo,GK,Salernitana,it Serie A,0,a2565f79
+2574,Mark Flekken,GK,Freiburg,de Bundesliga,0,a92ab7be
+2575,Mamadou Fofana,DF,Metz,fr Ligue 1,0,4c4ffacc
+2576,Thomas Fontaine,DF,Lorient,fr Ligue 1,0,9f90c06b
+2577,Fraser Forster,GK,Southampton,eng Premier League,0,c3e39f12
+2578,Steven Fortes,DF,Lens,fr Ligue 1,0,574aa9ec
+2579,Ben Foster,GK,Watford,eng Premier League,0,d0b3ceb9
+2580,Gianluca Frabotta,DFFW,Hellas Verona,it Serie A,0,d80b1835
+2581,Christian Früchtl,GK,Bayern Munich,de Bundesliga,0,1940be91
+2582,Marius Funk,GK,Greuther Fürth,de Bundesliga,0,86314793
+2583,Stephan Fürstner,MF,Mainz 05,de Bundesliga,0,18c2e247
+2584,Matteo Gabbia,DF,Milan,it Serie A,0,c235e803
+2585,Gauthier Gallon,GK,Troyes,fr Ligue 1,0,db3164e1
+2586,Joan García,GK,Espanyol,es La Liga,0,87b498b0
+2587,Saúl García,FW,Alavés,es La Liga,0,dafa5038
+2588,Alejandro Garnacho,FW,Manchester Utd,eng Premier League,0,7aa8adfe
+2589,David de Gea,GK,Manchester Utd,eng Premier League,0,7ba6d84e
+2590,Linus Gechter,DF,Hertha BSC,de Bundesliga,0,ad2b068c
+2591,Luca Gemello,GK,Torino,it Serie A,0,53e494ec
+2592,Rafał Gikiewicz,GK,Augsburg,de Bundesliga,0,17376543
+2593,Mario Gila,DF,Real Madrid,es La Liga,0,9c435456
+2594,Edoardo Goldaniga,MFDF,Sassuolo,it Serie A,0,4b029b31
+2595,Alfred Gomis,GK,Rennes,fr Ligue 1,0,cecbce23
+2596,Álvaro González,DF,Marseille,fr Ligue 1,0,42dcf26d
+2597,Gori,MF,Espanyol,es La Liga,0,f3451c66
+2598,Jens Grahl,GK,Eint Frankfurt,de Bundesliga,0,f26dee6b
+2599,Jaume Grau,MF,Osasuna,es La Liga,0,fc3d2006
+2600,Ivo Grbić,GK,Lille,fr Ligue 1,0,3f034750
+2601,Etienne Green,GK,Saint-Étienne,fr Ligue 1,0,667b65da
+2602,Dominik Greif,GK,Mallorca,es La Liga,0,30061f53
+2603,Sebastian Griesbeck,MF,Union Berlin,de Bundesliga,0,a8db7ebb
+2604,Lennart Grill,GK,Leverkusen,de Bundesliga,0,37998008
+2605,Vicente Guaita,GK,Crystal Palace,eng Premier League,0,ab13a5aa
+2606,Noah Guede-Nadje,FW,Angers,fr Ligue 1,0,94b442c0
+2607,Yanis Guermouche,MFFW,Montpellier,fr Ligue 1,0,642f9f79
+2608,Péter Gulácsi,GK,RB Leipzig,de Bundesliga,0,bcb2ccd8
+2609,Angus Gunn,GK,Norwich City,eng Premier League,0,e082af5b
+2610,Marcos Mauro López Gutiérrez,DF,Cádiz,es La Liga,0,b3b62f94
+2611,Pierre-Yves Hamel,FWDF,Lorient,fr Ligue 1,0,a99da9ec
+2612,Samir Handanović,GK,Inter,it Serie A,0,74419746
+2613,Luis Hartwig,MF,Bochum,de Bundesliga,0,a3f30508
+2614,Dominique Heintz,DF,Freiburg,de Bundesliga,0,699fb8db
+2615,Wayne Hennessey,GK,Burnley,eng Premier League,0,76eca7e2
+2616,Kike Hermoso,DF,Betis,es La Liga,0,dea912dc
+2617,Sergio Herrera,GK,Osasuna,es La Liga,0,a4995f48
+2618,Marwin Hitz,GK,Dortmund,de Bundesliga,0,2e7ff968
+2619,Rob Holding,DF,Arsenal,eng Premier League,0,d79a8c87
+2620,Justin Hoogma,DF,Greuther Fürth,de Bundesliga,0,816192f0
+2621,Timo Horn,GK,Köln,de Bundesliga,0,3cd9e95a
+2622,Cédric Hountondji,DF,Clermont Foot,fr Ligue 1,0,00891164
+2623,Lukáš Hrádecký,GK,Leverkusen,de Bundesliga,0,ad3389d5
+2624,Petko Hristov,DF,Spezia,it Serie A,0,d8800a46
+2625,Igor,DF,Fiorentina,it Serie A,0,a4e85758
+2626,Tim Iroegbunam,MF,Aston Villa,eng Premier League,0,84c5ceea
+2627,Ardian Ismajli,DF,Empoli,it Serie A,0,6b635f5c
+2628,Abdel Jalil Medioub,DF,Bordeaux,fr Ligue 1,0,4937a9f7
+2629,Juan Jesus,DF,Napoli,it Serie A,0,79083382
+2630,Marco John,DF,Hoffenheim,de Bundesliga,0,d9e196bf
+2631,Phil Jones,DF,Manchester Utd,eng Premier League,0,def899bd
+2632,Josema,DF,Elche,es La Liga,0,ed3f5f4c
+2633,Gideon Jung,DF,Greuther Fürth,de Bundesliga,0,a2e7de6f
+2634,Ozan Kabak,DF,Norwich City,eng Premier League,0,2d61d13a
+2635,Arnaud Kalimuendo,FW,Paris S-G,fr Ligue 1,0,bf4c41f9
+2636,Dimitrije Kamenović,DF,Lazio,it Serie A,0,d3e0c826
+2637,Stefanos Kapino,GK,Arminia,de Bundesliga,0,62ba5881
+2638,Noah Katterbach,DF,Köln,de Bundesliga,0,e27de4fa
+2639,Eiji Kawashima,GK,Strasbourg,fr Ligue 1,0,a4527d33
+2640,Moise Kean,FW,Everton,eng Premier League,0,3d50bcdb
+2641,Habib Keita,MFFW,Lyon,fr Ligue 1,0,cc588cbe
+2642,Caoimhín Kelleher,GK,Liverpool,eng Premier League,0,62d7ef38
+2643,Dimitrios Keramitsis,DF,Roma,it Serie A,0,6f30a1d5
+2644,Luca Kilian,FW,Mainz 05,de Bundesliga,0,610aa1e9
+2645,Simon Kjær,DF,Milan,it Serie A,0,8b8a56ce
+2646,Kristoffer Klaesson,GK,Leeds United,eng Premier League,0,3f70db80
+2647,Gregor Kobel,GK,Dortmund,de Bundesliga,0,cd59b9df
+2648,Samuel Koeberlé,MF,Reims,fr Ligue 1,0,6751b938
+2649,Aleksandar Kolarov,DF,Inter,it Serie A,0,eda40760
+2650,Sead Kolašinac,DF,Arsenal,eng Premier League,0,3935e52e
+2651,Luca Koleosho,FW,Espanyol,es La Liga,0,fc076f78
+2652,Nianzou Kouassi,DF,Bayern Munich,de Bundesliga,0,5853ac44
+2653,Alex Král,MF,West Ham,eng Premier League,0,e717705a
+2654,Julian Kristoffersen,FW,Salernitana,it Serie A,0,b804c280
+2655,Tim Krul,GK,Norwich City,eng Premier League,0,f23f9d20
+2656,Lenny Lacroix,DF,Metz,fr Ligue 1,0,5413ef36
+2657,Alban Lafont,GK,Nantes,fr Ligue 1,0,4e7db402
+2658,Julien Laporte,DF,Lorient,fr Ligue 1,0,f066022d
+2659,Latasa,FW,Real Madrid,es La Liga,0,2bea832e
+2660,Maxime Le Marchand,DF,Strasbourg,fr Ligue 1,0,321a71a7
+2661,Jean-Louis Leca,GK,Lens,fr Ligue 1,0,edbe46dc
+2662,Jeremías Ledesma,GK,Cádiz,es La Liga,0,6c4776b1
+2663,Ruben Lendinez,DF,Valencia,es La Liga,0,755da865
+2664,Bernd Leno,GK,Arsenal,eng Premier League,0,2628fd2b
+2665,Alexandre Letellier,GK,Paris S-G,fr Ligue 1,0,96fcd380
+2666,Luca Lezzerini,GK,Venezia,it Serie A,0,c9c32262
+2667,Ben Lhassine Kone,MF,Torino,it Serie A,0,7452c7a8
+2668,Andreas Linde,GK,Greuther Fürth,de Bundesliga,0,4d6a842d
+2669,Hugo Lloris,GK,Tottenham,eng Premier League,0,8f62b6ee
+2670,Jürgen Locadia,FW,Brighton,eng Premier League,0,6cc47ae1
+2671,Kevin Long,DF,Burnley,eng Premier League,0,5a4280b1
+2672,Anthony Lopes,GK,Lyon,fr Ligue 1,0,f00de885
+2673,Diego López,GK,Espanyol,es La Liga,0,73683fa9
+2674,Pau López,GK,Marseille,fr Ligue 1,0,20b9f052
+2675,Jonas Lössl,GK,Brentford,eng Premier League,0,939bc634
+2676,Marcel Lotka,GK,Hertha BSC,de Bundesliga,0,5584552e
+2677,Luismi,FW,Sevilla,es La Liga,0,acf5410c
+2678,Castello Lukeba,DF,Lyon,fr Ligue 1,0,5b9512c5
+2679,Andriy Lunin,GK,Real Madrid,es La Liga,0,3061e1ec
+2680,Andrey Lunyov,GK,Leverkusen,de Bundesliga,0,8a6ab963
+2681,Andreas Luthe,GK,Union Berlin,de Bundesliga,0,7fe12375
+2682,Yannis M'Bemba,DFFW,Nantes,fr Ligue 1,0,080de72a
+2683,Niki Mäenpää,GK,Venezia,it Serie A,0,14a96e1c
+2684,Giangiacomo Magnani,DF,Sampdoria,it Serie A,0,cce9f582
+2685,Mike Maignan,GK,Milan,it Serie A,0,fcb38f57
+2686,Nikola Maksimović,DF,Genoa,it Serie A,0,16b9d5cf
+2687,Lennard Maloney,DF,Dortmund,de Bundesliga,0,75402e99
+2688,Giorgi Mamardashvili,GK,Valencia,es La Liga,0,d4b73232
+2689,Steve Mandanda,GK,Marseille,fr Ligue 1,0,1d2d5cc8
+2690,Anthony Mandrea,GK,Angers,fr Ligue 1,0,f7d3a773
+2691,Kostas Manolas,DF,Napoli,it Serie A,0,c707411f
+2692,Davide Marfella,GK,Napoli,it Serie A,0,880fcdbb
+2693,Guillermo Maripán,DF,Monaco,fr Ligue 1,0,d9764034
+2694,Mika Màrmol,DF,Barcelona,es La Liga,0,e7630876
+2695,Martín,MF,Cádiz,es La Liga,0,cbec0059
+2696,Carlos Martín,DF,Atlético Madrid,es La Liga,0,64035864
+2697,Emiliano Martínez,GK,Aston Villa,eng Premier League,0,7956236f
+2698,Josep Martinez,GK,RB Leipzig,de Bundesliga,0,11d8aff0
+2699,Andrea Masiello,DF,Genoa,it Serie A,0,e0314d87
+2700,Chrislain Matsima,DF,Monaco,fr Ligue 1,0,cf1ef7ec
+2701,Luís Maximiano,GK,Granada,es La Liga,0,3318286e
+2702,Derek Mazou-Sacko,FWDF,Troyes,fr Ligue 1,0,810edef9
+2703,Moustapha Mbow,DF,Reims,fr Ligue 1,0,3f3a2cba
+2704,Kasey McAteer,FW,Leicester City,eng Premier League,0,b2c66859
+2705,Liam McCarron,FW,Leeds United,eng Premier League,0,076bb352
+2706,Alex McCarthy,GK,Southampton,eng Premier League,0,36c2ca73
+2707,Stuart McKinstry,MF,Leeds United,eng Premier League,0,1000a059
+2708,Farid El Melali,FW,Angers,fr Ligue 1,0,d21e361a
+2709,Pedro Mendes,DF,Montpellier,fr Ligue 1,0,6690ef25
+2710,Tomás Mendes,MF,Alavés,es La Liga,0,45f771db
+2711,Edouard Mendy,GK,Chelsea,eng Premier League,0,33887998
+2712,Alex Meret,GK,Napoli,it Serie A,0,9413b19f
+2713,Illan Meslier,GK,Leeds United,eng Premier League,0,6b625ac2
+2714,Mexer,DF,Bordeaux,fr Ligue 1,0,ce492295
+2715,Kingsley Michael,MF,Bologna,it Serie A,0,e63e122d
+2716,Georges Mikautadze,FW,Metz,fr Ligue 1,0,4788cb6b
+2717,Vanja Milinković-Savić,GK,Torino,it Serie A,0,9fa26bc2
+2718,Marco Modolo,DF,Venezia,it Serie A,0,fdcdb521
+2719,Clinton Mola,DF,Stuttgart,de Bundesliga,0,29ddfb9c
+2720,Lorenzo Montipò,GK,Hellas Verona,it Serie A,0,c1d95617
+2721,Loren Morón,FW,Betis,es La Liga,0,3aa4a3be
+2722,Tyler Morton,MF,Liverpool,eng Premier League,0,2bc28bb9
+2723,Cristhian Mosquera,DF,Valencia,es La Liga,0,dc1ce4f5
+2724,Lebo Mothiba,FW,Strasbourg,fr Ligue 1,0,3eaf8817
+2725,Andrei Motoc,DF,Salernitana,it Serie A,0,b64073a0
+2726,Jessy Moulin,GK,Troyes,fr Ligue 1,0,28a65a2c
+2727,Florian Müller,GK,Stuttgart,de Bundesliga,0,cbac6ec9
+2728,Bali Mumba,DF,Norwich City,eng Premier League,0,2d760d7b
+2729,Torben Müsel,MF,M'Gladbach,de Bundesliga,0,d01b9ad6
+2730,Juan Musso,GK,Atalanta,it Serie A,0,a111cf41
+2731,Junior Mwanga,DF,Bordeaux,fr Ligue 1,0,ee158be5
+2732,Eric N'Jo,DF,Troyes,fr Ligue 1,0,b85e57bb
+2733,Paul Nardi,GK,Lorient,fr Ligue 1,0,2d70dbe5
+2734,Matija Nastasić,DF,Fiorentina,it Serie A,0,f35430a4
+2735,Keylor Navas,GK,Paris S-G,fr Ligue 1,0,ecada4fc
+2736,David Nemeth,DF,Mainz 05,de Bundesliga,0,da76715c
+2737,Neto,GK,Barcelona,es La Liga,0,a9dc785c
+2738,Manuel Neuer,GK,Bayern Munich,de Bundesliga,0,8778c910
+2739,Sikou Niakaté,DF,Metz,fr Ligue 1,0,8eef18aa
+2740,Cheikh Niasse,MFFW,Lille,fr Ligue 1,0,ff20acfe
+2741,Nicolas Nkoulou,DF,Watford,eng Premier League,0,93cf32a8
+2742,Peru Nolaskoain,DF,Athletic Club,es La Liga,0,857cb4f3
+2743,Alexander Nübel,GK,Monaco,fr Ligue 1,0,afb0c500
+2744,Kasim Nuhu,DF,Hoffenheim,de Bundesliga,0,93a50d2c
+2745,Adam Obert,DF,Cagliari,it Serie A,0,aa25ce92
+2746,Jan Oblak,GK,Atlético Madrid,es La Liga,0,ee8508c0
+2747,Brain Oddei,FW,Sassuolo,it Serie A,0,97e8ea97
+2748,Oier Olazábal,GK,Espanyol,es La Liga,0,b5bdf144
+2749,Christian Oliva,MF,Cagliari,it Serie A,0,d3b888e3
+2750,Robin Olsen,GK,Aston Villa,eng Premier League,0,e7ee38c3
+2751,Warmed Omari,DF,Rennes,fr Ligue 1,0,4534a352
+2752,Jonas Omlin,GK,Montpellier,fr Ligue 1,0,c631f952
+2753,Javier Ontiveros,MFFW,Osasuna,es La Liga,0,a83d8b0c
+2754,Tyler Onyango,MFFW,Everton,eng Premier League,0,d86a1f3e
+2755,Stefan Ortega,GK,Arminia,de Bundesliga,0,c1242d4e
+2756,Pedro Ortiz,MF,Sevilla,es La Liga,0,f9358b61
+2757,David Ospina,GK,Napoli,it Serie A,0,82b1198a
+2758,Alexandre Oukidja,GK,Metz,fr Ligue 1,0,ae7d0ecd
+2759,Jesús Owono,GK,Alavés,es La Liga,0,d6e3d7fb
+2760,Fernando Pacheco,GK,Alavés,es La Liga,0,97852360
+2761,Jon Pacheco,DF,Real Sociedad,es La Liga,0,44150beb
+2762,Daniele Padelli,GK,Udinese,it Serie A,0,cf1c23d8
+2763,Erik Palmer-Brown,DF,Troyes,fr Ligue 1,0,e5c1e0ca
+2764,Martin Palumbo,MF,Juventus,it Serie A,0,f8d41a8c
+2765,Ivor Pandur,GK,Hellas Verona,it Serie A,0,457cb02f
+2766,Antonios Papadopoulos,DFMF,Dortmund,de Bundesliga,0,13d23b29
+2767,Rubén Pardo,MF,Bordeaux,fr Ligue 1,0,2306bfde
+2768,Rui Patrício,GK,Roma,it Serie A,0,79b0d6a0
+2769,Strahinja Pavlović,DF,Monaco,fr Ligue 1,0,25146df0
+2770,Gianluca Pegolo,GK,Sassuolo,it Serie A,0,f058ed1f
+2771,Federico Peluso,DF,Sassuolo,it Serie A,0,4f2908e5
+2772,Philipp Pentke,GK,Hoffenheim,de Bundesliga,0,c41f7379
+2773,Victor Perea,DF,Espanyol,es La Liga,0,b7de5bad
+2774,Juan Pérez,GK,Osasuna,es La Liga,0,8f29e08b
+2775,Mattia Perin,GK,Juventus,it Serie A,0,4c62d0c8
+2776,Sonny Perkins,FW,West Ham,eng Premier League,0,87f12e30
+2777,Mario Perrone,DF,Salernitana,it Serie A,0,6cd33e2a
+2778,Pavao Pervan,GK,Wolfsburg,de Bundesliga,0,c89e8aae
+2779,Danijel Petković,GK,Angers,fr Ligue 1,0,b98cea65
+2780,Immanuel Pherai,MF,Dortmund,de Bundesliga,0,f168d9b9
+2781,Jérôme Phojo,DF,Clermont Foot,fr Ligue 1,0,ff44d058
+2782,Jordan Pickford,GK,Everton,eng Premier League,0,4806ec67
+2783,Carlo Pinsoglio,GK,Juventus,it Serie A,0,f6a06749
+2784,Riccardo Pinzi,MF,Udinese,it Serie A,0,5dafcdce
+2785,Joel Pohjanpalo,FW,Leverkusen,de Bundesliga,0,ea003d07
+2786,Julian Pollersbeck,GK,Lyon,fr Ligue 1,0,d6f6ce93
+2787,Nick Pope,GK,Burnley,eng Premier League,0,4b40d9ca
+2788,Gaëtan Poussin,GK,Bordeaux,fr Ligue 1,0,c252c705
+2789,Alejandro Primo,GK,Levante,es La Liga,0,f38284bb
+2790,Nick Proschwitz,FW,Hoffenheim,de Bundesliga,0,9cf4fd68
+2791,Ivan Provedel,GK,Spezia,it Serie A,0,277da414
+2792,Niklas Pyyhtiä,MF,Bologna,it Serie A,0,88f53b75
+2793,Ionuț Radu,GK,Inter,it Serie A,0,67f649be
+2794,Boris Radunović,GK,Cagliari,it Serie A,0,0dfce079
+2795,Sidney Raebiger,MF,RB Leipzig,de Bundesliga,0,a8090a41
+2796,Predrag Rajković,GK,Reims,fr Ligue 1,0,58ad9383
+2797,Diant Ramaj,GK,Eint Frankfurt,de Bundesliga,0,b90c4a43
+2798,Adil Rami,DF,Troyes,fr Ligue 1,0,8dbff17c
+2799,Aaron Ramsdale,GK,Arsenal,eng Premier League,0,466fb2c5
+2800,Andrea Ranocchia,DF,Inter,it Serie A,0,539230cf
+2801,Raúl,FW,Betis,es La Liga,0,18f0a9f0
+2802,Nicola Ravaglia,GK,Sampdoria,it Serie A,0,d7a35008
+2803,David Raya,GK,Brentford,eng Premier League,0,98ea5115
+2804,Manolo Reina,GK,Mallorca,es La Liga,0,605eb473
+2805,Pepe Reina,GK,Lazio,it Serie A,0,e358587b
+2806,Álex Remiro,GK,Real Sociedad,es La Liga,0,374ee424
+2807,Panagiotis Retsos,DFFW,Leverkusen,de Bundesliga,0,4bd00a50
+2808,Panagiotis Retsos,DFMF,Hellas Verona,it Serie A,0,4bd00a50
+2809,Tiago Ribeiro,FW,Monaco,fr Ligue 1,0,507d7569
+2810,Chris Richards,DF,Bayern Munich,de Bundesliga,0,0a3d6d2b
+2811,Sergio Rico,GK,Mallorca,es La Liga,0,5f0241b2
+2812,Sergio Rico,GK,Paris S-G,fr Ligue 1,0,5f0241b2
+2813,Manuel Riemann,GK,Bochum,de Bundesliga,0,9f941969
+2814,Maxence Rivera,FW,Saint-Étienne,fr Ligue 1,0,46a7b605
+2815,Patrick Roberts,DF,Troyes,fr Ligue 1,0,59d93937
+2816,Joe Rodon,DF,Tottenham,eng Premier League,0,8d62d31a
+2817,Leonardo Román,GK,Mallorca,es La Liga,0,924ff27e
+2818,Sergio Romero,GK,Venezia,it Serie A,0,1e26e376
+2819,Romario Rösch,MF,Mainz 05,de Bundesliga,0,87ebfdb8
+2820,Francesco Rossi,GK,Atalanta,it Serie A,0,7b5f516f
+2821,John Ruddy,GK,Wolves,eng Premier League,0,da8b19e2
+2822,Daniele Rugani,DF,Juventus,it Serie A,0,14b8fcdf
+2823,Gerónimo Rulli,GK,Villarreal,es La Liga,0,625c144a
+2824,Mathew Ryan,GK,Real Sociedad,es La Liga,0,4535e4bb
+2825,Frederik Rønnow,GK,Union Berlin,de Bundesliga,0,a70b8345
+2826,José Sá,GK,Wolves,eng Premier League,0,903b6e8b
+2827,Mamadou Sakho,DF,Montpellier,fr Ligue 1,0,87935cf3
+2828,Romain Salin,GK,Rennes,fr Ligue 1,0,74733221
+2829,Juan Sánchez,MF,Sevilla,es La Liga,0,ff4f78e1
+2830,Robert Sánchez,GK,Brighton,eng Premier League,0,6a713852
+2831,Philippe Sandler,DF,Troyes,fr Ligue 1,0,60740e70
+2832,Mohamed Sankoh,FW,Stuttgart,de Bundesliga,0,be625686
+2833,Sergio Santos,DF,Real Madrid,es La Liga,0,cf59e05f
+2834,Giacomo Satalino,GK,Sassuolo,it Serie A,0,b1f0b916
+2835,Dane Scarlett,MF,Tottenham,eng Premier League,0,21945a9e
+2836,Keven Schlotterbeck,DF,Freiburg,de Bundesliga,0,f6bdc830
+2837,Kasper Schmeichel,GK,Leicester City,eng Premier League,0,53af52f3
+2838,Marvin Schwäbe,GK,Köln,de Bundesliga,0,87436846
+2839,Alexander Schwolow,GK,Hertha BSC,de Bundesliga,0,0d55d942
+2840,Valentino Scotta,DF,Sevilla,es La Liga,0,98529579
+2841,Aleksandar Sedlar,DFMF,Mallorca,es La Liga,0,a35134ae
+2842,Matz Sels,GK,Strasbourg,fr Ligue 1,0,834b5c4c
+2843,Lion Semić,DF,Dortmund,de Bundesliga,0,87ebd8c9
+2844,Adrian Šemper,GK,Genoa,it Serie A,0,f02dde20
+2845,Luigi Sepe,GK,Salernitana,it Serie A,0,343f753a
+2846,Mahame Siby,MFDF,Strasbourg,fr Ligue 1,0,6d075c67
+2847,Aboubakar Sidibé,FW,Clermont Foot,fr Ligue 1,0,ae5b93a0
+2848,Alassane Sidibe,FW,Atalanta,it Serie A,0,f944979d
+2849,Francisco Sierralta,DF,Watford,eng Premier League,0,0f933743
+2850,Kiliann Sildillia,DF,Freiburg,de Bundesliga,0,313254a3
+2851,Marco Silvestri,GK,Udinese,it Serie A,0,0d422df7
+2852,Ellis Simms,FW,Everton,eng Premier League,0,26d3b5be
+2853,Unai Simón,GK,Athletic Club,es La Liga,0,5dcf3e90
+2854,Tobias Sippel,GK,M'Gladbach,de Bundesliga,0,0d8a37c2
+2855,Hugo Siquet,DF,Freiburg,de Bundesliga,0,c6cf860f
+2856,Salvatore Sirigu,GK,Genoa,it Serie A,0,10dc46f0
+2857,Nelson Sissoko,DF,Saint-Étienne,fr Ligue 1,0,12bd0579
+2858,Antonio Sivera,GK,Alavés,es La Liga,0,9970da54
+2859,Łukasz Skorupski,GK,Bologna,it Serie A,0,ab4449d6
+2860,Rubén Sobrino,MF,Valencia,es La Liga,0,19b776e9
+2861,Alex Sola,DFFW,Real Sociedad,es La Liga,0,5fa714d5
+2862,Yann Sommer,GK,M'Gladbach,de Bundesliga,0,420c18a1
+2863,David Soria,GK,Getafe,es La Liga,0,8f8c6934
+2864,Hugo Sotelo,MF,Celta Vigo,es La Liga,0,3aa74860
+2865,Matìas Soulé,FW,Juventus,it Serie A,0,c13ddd3e
+2866,Saidou Sow,DF,Saint-Étienne,fr Ligue 1,0,f6b94e8d
+2867,Marco Sportiello,GK,Atalanta,it Serie A,0,ac4003af
+2868,Luca Stanga,DF,Milan,it Serie A,0,2967bcd0
+2869,Niklas Stark,DFMF,Hertha BSC,de Bundesliga,0,aad48be9
+2870,Jason Steele,GK,Brighton,eng Premier League,0,28300a16
+2871,Jed Steer,GK,Aston Villa,eng Premier League,0,a8a3d139
+2872,Zack Steffen,GK,Manchester City,eng Premier League,0,42130443
+2873,Riccardo Stivanello,DF,Bologna,it Serie A,0,90e1d9dc
+2874,Thomas Strakosha,GK,Lazio,it Serie A,0,339fe0e8
+2875,Abdoulaye Sylla,DF,Nantes,fr Ligue 1,0,2aeb43f1
+2876,Wojciech Szczęsny,GK,Juventus,it Serie A,0,01b8a2b2
+2877,Tachi,DF,Alavés,es La Liga,0,8b625720
+2878,Ciprian Tătărușanu,GK,Milan,it Serie A,0,b056e3da
+2879,Marc-André ter Stegen,GK,Barcelona,es La Liga,0,6f51e382
+2880,Pietro Terracciano,GK,Fiorentina,it Serie A,0,e1b0a70d
+2881,Sada Thioub,MF,Angers,fr Ligue 1,0,f4bc42b1
+2882,Dominic Thompson,DF,Brentford,eng Premier League,0,235a62f8
+2883,Umut Tohumcu,MF,Hoffenheim,de Bundesliga,0,e547d3cf
+2884,Takehiro Tomiyasu,DF,Bologna,it Serie A,0,b3af9be1
+2885,Raúl Torrente,DF,Granada,es La Liga,0,4d753a3f
+2886,Jordan Torunarigha,DF,Hertha BSC,de Bundesliga,0,f86cabbd
+2887,Cenk Tosun,FW,Everton,eng Premier League,0,9a104dee
+2888,Kevin Trapp,GK,Eint Frankfurt,de Bundesliga,0,ce17b5eb
+2889,Philipp Tschauner,GK,RB Leipzig,de Bundesliga,0,73e2f6eb
+2890,Axel Tuanzebe,DF,Napoli,it Serie A,0,2baec6ce
+2891,Sven Ulreich,GK,Bayern Munich,de Bundesliga,0,7d3e7da6
+2892,Benjamin Uphoff,GK,Freiburg,de Bundesliga,0,a9a6fc08
+2893,Kacper Urbanski,MF,Bologna,it Serie A,0,2d9d9e42
+2894,Álvaro Vadillo,MFDF,Espanyol,es La Liga,0,61b62b33
+2895,Jesús Vallejo,DF,Real Madrid,es La Liga,0,c2111b45
+2896,Jonathan Varane,MF,Lens,fr Ligue 1,0,4ade359f
+2897,Denis Vavro,DF,Lazio,it Serie A,0,08990838
+2898,Gonzalo Verdú,DF,Elche,es La Liga,0,1c2c55fc
+2899,Vincent Vermeij,MF,Freiburg,de Bundesliga,0,7e629adc
+2900,Freddie Veseli,DF,Salernitana,it Serie A,0,d541e703
+2901,Jannik Vestergaard,DF,Leicester City,eng Premier League,0,1900032e
+2902,Guglielmo Vicario,GK,Empoli,it Serie A,0,77d6fd4d
+2903,Daniel Villahermosa,MF,Espanyol,es La Liga,0,de903ae2
+2904,Nicolas Viola,MF,Bologna,it Serie A,0,45392b06
+2905,Stefan de Vrij,DF,Inter,it Serie A,0,d0d8dd44
+2906,Nikola Vukčević,MF,Levante,es La Liga,0,4442fbcd
+2907,Sebastian Walukiewicz,DF,Cagliari,it Serie A,0,217875a4
+2908,Danny Ward,GK,Leicester City,eng Premier League,0,d3ce0e89
+2909,Freddie Woodman,GK,Newcastle Utd,eng Premier League,0,19e50035
+2910,Christopher Wooh,DF,Lens,fr Ligue 1,0,b003239d
+2911,Joscha Wosz,DF,RB Leipzig,de Bundesliga,0,80c9e555
+2912,Sekou Yansané,FW,Paris S-G,fr Ligue 1,0,bce37ac0
+2913,Gerard Yepes,MFDF,Sampdoria,it Serie A,0,ee9040b4
+2914,Okay Yokuşlu,DFMF,Celta Vigo,es La Liga,0,e49ce451
+2915,Leny Yoro,MF,Lille,fr Ligue 1,0,6763f716
+2916,Nathan Young-Coombes,FW,Brentford,eng Premier League,0,f9682888
+2917,Robin Zentner,GK,Mainz 05,de Bundesliga,0,5c4bf6ba
+2918,Luca Zidane,GKMF,Rayo Vallecano,es La Liga,0,c818c4d9
+2919,Christoph Zimmermann,DF,Norwich City,eng Premier League,0,2d5f03bf
+2920,Jeroen Zoet,GK,Spezia,it Serie A,0,cc1a0c57
+2921,Petar Zovko,GK,Spezia,it Serie A,0,54f6afe3
